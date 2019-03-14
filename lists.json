@@ -1,0 +1,116 @@
+[
+  {
+    "id": "steven-black",
+    "name": "Steven Black",
+    "website": "https://github.com/StevenBlack/hosts",
+    "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "added": "2019-03-14",
+    "default": true,
+    "parsing": {
+      "startDelimiterRegex": "# Start StevenBlack"
+    }
+  },
+  {
+    "id": "malware-domains",
+    "name": "Malware Domain Blocklist by RiskAnalytics",
+    "website": "https://www.malwaredomains.com",
+    "description": "Malware Prevention through Domain Blocking.",
+    "categories": ["security"],
+    "url": "https://mirror1.malwaredomains.com/files/justdomains",
+    "added": "2019-03-14",
+    "default": true
+  },
+  {
+    "id": "cameleon",
+    "name": "CAMELEON",
+    "website": "http://sysctl.org/cameleon",
+    "description": "CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.",
+    "categories": ["ads"],
+    "url": "http://sysctl.org/cameleon/hosts",
+    "added": "2019-03-14",
+    "default": true
+  },
+  {
+    "id": "zeus-tracker",
+    "name": "ZeuS Tracker",
+    "website": "https://zeustracker.abuse.ch/blocklist.php",
+    "description": "ZeuS Tracker offers various IP- and domain-blocklists that contains known ZeuS Command&Control server (C&C) assocaited with the ZeuS crimeware.",
+    "categories": ["security"],
+    "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
+    "added": "2019-03-14"
+  },
+  {
+    "id": "disconnect-tracking",
+    "name": "Disconnect (Tracking)",
+    "website": "https://disconnect.me",
+    "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
+    "categories": ["privacy"],
+    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+    "added": "2019-03-14"
+  },
+  {
+    "id": "disconnect-ads",
+    "name": "Disconnect (Ads)",
+    "website": "https://disconnect.me",
+    "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
+    "categories": ["ads"],
+    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+    "added": "2019-03-14"
+  },
+  {
+    "id": "hphosts-ats",
+    "name": "hpHosts (ATS)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["ads"],
+    "url": "https://hosts-file.net/ad_servers.txt",
+    "added": "2019-03-14",
+    "parsing": {
+      "startDelimiterRegex": "# AD SERVERS START HERE"
+    }
+  },
+  {
+    "id": "nocoin",
+    "name": "NoCoin",
+    "website": "https://github.com/hoshsadiq/adblock-nocoin-list",
+    "description": "Block lists to prevent JavaScript miners.",
+    "categories": ["cryptominers"],
+    "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+    "added": "2019-03-14"
+  },
+  {
+    "id": "fakenews",
+    "name": "fakenews",
+    "website": "https://github.com/marktron/fakenews",
+    "description": "An in-progress collection of fake news outlets. Currently blocking 669 untrustworthy sites.",
+    "categories": ["misinformation"],
+    "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews",
+    "added": "2019-03-14"
+  },
+  {
+    "id": "google-safesearch",
+    "name": "Google SafeSearch",
+    "website": "https://www.google.com",
+    "description": "Block explicit images, videos, and websites from Google Search results.",
+    "categories": ["porn", "violence"],
+    "added": "2019-03-14"
+  },
+  {
+    "id": "youtube-restricted-mode",
+    "name": "Youtube Restricted Mode",
+    "website": "https://www.youtube.com",
+    "description": "Restricted Mode can help hide videos with potentially mature content. No filter is 100% accurate, but it should help you avoid most of this type of content.",
+    "categories": ["porn", "violence", "gambling"],
+    "added": "2019-03-14"
+  },
+  {
+    "id": "bing-safesearch",
+    "name": "Bing SafeSearch",
+    "website": "https://www.bing.com",
+    "description": "Filter out adult text, images, and videos from your search results.",
+    "categories": ["porn", "violence", "gambling"],
+    "added": "2019-03-14"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "malware",
+    "name": "Malware",
+    "description": "Blocks known malware websites.",
+    "default": true,
+    "lists": [
+      "steven-black",
+      "malware-domains"
+    ]
+  },
+  {
+    "id": "ads",
+    "name": "Ads",
+    "description": "Blocks advertisements.",
+    "default": true,
+    "lists": [
+      "steven-black",
+      "cameleon",
+      "disconnect-ads"
+    ]
+  },
+  {
+    "id": "porn",
+    "name": "Porn",
+    "description": "Blocks adult content.",
+    "lists": [
+      "steven-black",
+      "cameleon",
+      "google-safesearch",
+      "bing-safesearch",
+      "youtube-restricted-mode"
+    ]
+  }
+]
