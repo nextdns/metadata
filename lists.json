@@ -7,7 +7,6 @@
     "categories": ["ads", "privacy"],
     "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
     "added": "2019-03-14",
-    "default": true,
     "parsing": {
       "startDelimiterRegex": "# Start StevenBlack"
     }
@@ -19,8 +18,7 @@
     "description": "Malware Prevention through Domain Blocking.",
     "categories": ["security"],
     "url": "https://mirror1.malwaredomains.com/files/justdomains",
-    "added": "2019-03-14",
-    "default": true
+    "added": "2019-03-14"
   },
   {
     "id": "cameleon",
@@ -29,8 +27,7 @@
     "description": "CAMELEON is a free system that helps Internet users or administrators to blocks web-adverts.",
     "categories": ["ads"],
     "url": "http://sysctl.org/cameleon/hosts",
-    "added": "2019-03-14",
-    "default": true
+    "added": "2019-03-14"
   },
   {
     "id": "zeus-tracker",

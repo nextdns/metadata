@@ -3,7 +3,6 @@
     "id": "malware",
     "name": "Malware",
     "description": "Blocks known malware websites.",
-    "default": true,
     "lists": [
       "steven-black",
       "malware-domains"
@@ -13,7 +12,6 @@
     "id": "ads",
     "name": "Ads",
     "description": "Blocks advertisements.",
-    "default": true,
     "lists": [
       "steven-black",
       "cameleon",
