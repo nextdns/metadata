@@ -27,7 +27,9 @@
       "cameleon",
       "google-safesearch",
       "bing-safesearch",
-      "youtube-restricted-mode"
+      "duckduckgo-safesearch",
+      "youtube-restricted-mode-strict",
+      "youtube-restricted-mode-moderate"
     ]
   }
 ]
