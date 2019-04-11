@@ -11,6 +11,14 @@
     }
   },
   {
+    "id": "antisocial-blacklist",
+    "name": "AntiSocial Blacklist",
+    "website": "https://theantisocialengineer.com/blacklist",
+    "description": "AntiSocial Blacklist is an extensive collection of potentially malicious domains. We work hard scouring the internet looking for servers that are trying to impersonate common brands and the companies you do business with. Using our data, we then use our cloud platform to protect vulnerable computer users. You may not spot the IDN characters in iCłoud.com or the zero in Micr0Soft.com - But AntiSocial Blacklist will.",
+    "categories": ["security"],
+    "url": "https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt"
+  },
+  {
     "id": "malware-domains",
     "name": "Malware Domain Blocklist by RiskAnalytics",
     "website": "https://www.malwaredomains.com",
