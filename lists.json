@@ -90,7 +90,7 @@
     "name": "dbl.oisd.nl",
     "website": "https://www.reddit.com/r/pihole/comments/9xwwwy/just_sharing_my_blocklist",
     "categories": ["ads", "privacy"],
-    "url": "https://dbl.oisd.nl",
+    "url": "https://dbl.oisd.nl"
   },
   {
     "id": "google-safesearch",
