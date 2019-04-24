@@ -86,6 +86,13 @@
     "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews"
   },
   {
+    "id": "dbloisdnl",
+    "name": "dbl.oisd.nl",
+    "website": "https://www.reddit.com/r/pihole/comments/9xwwwy/just_sharing_my_blocklist",
+    "categories": ["ads", "privacy"],
+    "url": "https://dbl.oisd.nl",
+  },
+  {
     "id": "google-safesearch",
     "name": "Google SafeSearch",
     "website": "https://www.google.com",
