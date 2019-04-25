@@ -5,10 +5,7 @@
     "website": "https://github.com/StevenBlack/hosts",
     "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.",
     "categories": ["ads", "privacy"],
-    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-    "parsing": {
-      "startDelimiterRegex": "# Start StevenBlack"
-    }
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
   },
   {
     "id": "antisocial-blacklist",
@@ -64,10 +61,7 @@
     "website": "https://hosts-file.net",
     "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
     "categories": ["ads"],
-    "url": "https://hosts-file.net/ad_servers.txt",
-    "parsing": {
-      "startDelimiterRegex": "# AD SERVERS START HERE"
-    }
+    "url": "https://hosts-file.net/ad_servers.txt"
   },
   {
     "id": "nocoin",
