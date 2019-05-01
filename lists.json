@@ -32,6 +32,14 @@
     "url": "http://sysctl.org/cameleon/hosts"
   },
   {
+    "id": "ransomware-tracker",
+    "name": "Ransomware Tracker",
+    "website": "https://ransomwaretracker.abuse.ch",
+    "description": "Ransomware Tracker tracks and monitors the status of domain names that are associated with Ransomware, such as Botnet C&C servers, distribution sites and payment sites.",
+    "categories": ["security"],
+    "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
+  },
+  {
     "id": "zeus-tracker",
     "name": "ZeuS Tracker",
     "website": "https://zeustracker.abuse.ch/blocklist.php",
