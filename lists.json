@@ -128,5 +128,12 @@
     "website": "https://duckduckgo.com",
     "description": "Filter out adult text, images, and videos from your search results.",
     "categories": ["porn", "violence", "gambling"]
+  },
+  {
+    "id": "yandex-family-search",
+    "name": "Yandex Family search",
+    "website": "https://yandex.com",
+    "description": "Adult content and sites containing obscene language are completely excluded from search results (even if the query is clearly directed at finding such resources).",
+    "categories": ["porn", "violence"]
   }
 ]
