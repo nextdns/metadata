@@ -31,5 +31,44 @@
       "youtube-restricted-mode-moderate",
       "yandex-family-search"
     ]
+  },
+  {
+    "id": "social-networks",
+    "lists": [
+      "ut1-social-networks"
+    ]
+  },
+  {
+    "id": "gambling",
+    "lists": [
+      "ut1-gambling"
+    ]
+  },
+  {
+    "id": "cryptominers",
+    "lists": [
+      "nocoin",
+      "coin-blocker-lists"
+    ]
+  },
+  {
+    "id": "fakenews-clickbait",
+    "lists": [
+      "fakenews"
+    ]
+  },
+  {
+    "id": "vpns-proxies",
+    "lists": []
+  },
+  {
+    "id": "p2p",
+    "lists": [
+      "torrent-trackers-host"
+    ]
+  },
+  {
+    "id": "piracy",
+    "lists": []
   }
 ]

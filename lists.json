@@ -112,12 +112,75 @@
     "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-porn"
   },
   {
+    "id": "ut1-social-networks",
+    "name": "UT1 (Social Networks)",
+    "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
+    "description": "All social networks sites.",
+    "categories": ["social"],
+    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-social-networks"
+  },
+  {
+    "id": "ut1-gambling",
+    "name": "UT1 (Gambling)",
+    "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
+    "description": "Gambling and games sites, casino, etc.",
+    "categories": ["gambling"],
+    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-gambling"
+  },
+  {
+    "id": "kowabit",
+    "name": "kowabit.de - bl*cklist of death",
+    "website": "https://www.kowabit.de/blcklst",
+    "description": "I have been maintaining a blacklist to block advertising, mostly tracking services, to prevent data from being collected about me. I update the list regularly.",
+    "categories": ["ads", "trackers"],
+    "url": "https://blocklist.kowabit.de/list.txt"
+  },
+  {
+    "id": "adaway",
+    "name": "AdAway",
+    "website": "https://adaway.org",
+    "description": "Blocking mobile ad providers and some analytics providers.",
+    "categories": ["ads", "trackers"],
+    "url": "https://adaway.org/hosts.txt"
+  },
+  {
+    "id": "phishing-army",
+    "name": "Phishing Army",
+    "website": "https://phishing.army",
+    "description": "The blocklist is updated every 6 hours. Generated from PhishTank and OpenPhish reports. Each domain is analyzed to eliminate false positives, through the Whitelist of Anudeep and the Alexa Rank.",
+    "categories": ["security"],
+    "url": "https://phishing.army/download/phishing_army_blocklist.txt"
+  },
+  {
+    "id": "phishing-army-extended",
+    "name": "Phishing Army (Extended)",
+    "website": "https://phishing.army",
+    "description": "The blocklist is updated every 6 hours. Generated from PhishTank and OpenPhish reports. Each domain is analyzed to eliminate false positives, through the Whitelist of Anudeep and the Alexa Rank. This extended blocklist also contains domains without subdomains.",
+    "categories": ["security"],
+    "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"
+  },
+  {
     "id": "nocoin",
     "name": "NoCoin",
     "website": "https://github.com/hoshsadiq/adblock-nocoin-list",
     "description": "Block lists to prevent JavaScript miners.",
     "categories": ["cryptominers"],
     "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+  },
+  {
+    "id": "coin-blocker-lists",
+    "name": "CoinBlockerLists",
+    "website": "https://gitlab.com/ZeroDot1/CoinBlockerLists",
+    "description": "This list disables browser based miners such as coin-hive.",
+    "categories": ["cryptominers"],
+    "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"
+  },
+  {
+    "id": "torrent-trackers-host",
+    "name": "Torrent Trackers Host",
+    "website": "https://zackeryfretty.com/block-public-bittorrent-traffic-on-your-server-using-hosts",
+    "categories": ["p2p"],
+    "url": "https://gist.githubusercontent.com/Marfjeh/97f2f049b41b3f09eabcc04004073ae3/raw/58fe3d12c4157b0bda1a2af313809597ea54bb08/torrent-trackers-host"
   },
   {
     "id": "fakenews",
