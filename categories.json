@@ -1,35 +1,41 @@
 [
   {
-    "id": "malware",
-    "name": "Malware",
-    "description": "Blocks known malware websites.",
+    "id": "security",
+    "name": "Security",
+    "description": "Contain the worst of the worst. Sites that are known to distribute malware, launch phishing attacks or botnet command-and-control servers used to communicate with already infected machines.",
     "lists": [
-      "steven-black",
-      "malware-domains"
+      "malware-domains",
+      "antisocial-blacklist",
+      "ransomware-tracker",
+      "zeus-tracker",
+      "malware-domain-list",
+      "badd-boyz-hosts"
     ]
   },
   {
-    "id": "ads",
-    "name": "Ads",
-    "description": "Blocks advertisements.",
+    "id": "ads-trackers",
+    "name": "Ads & Trackers",
+    "description": "Includes the most comprehensive ads and trackers blocking lists out there.",
     "lists": [
-      "steven-black",
       "cameleon",
-      "disconnect-ads"
+      "disconnect-ads",
+      "disconnect-tracking"
     ]
   },
   {
     "id": "porn",
     "name": "Porn",
-    "description": "Blocks adult content.",
+    "description": "Blocks all sexually explicit content and force Safe Search on search engines (and Youtube). Handy on kid-friendly networks and those morally opposed to pornography.",
     "lists": [
-      "steven-black",
-      "cameleon",
+      "ut1-porn",
+      "pornhosts",
+      "sinfonietta-porn",
       "google-safesearch",
       "bing-safesearch",
       "duckduckgo-safesearch",
       "youtube-restricted-mode-strict",
-      "youtube-restricted-mode-moderate"
+      "youtube-restricted-mode-moderate",
+      "yandex-family-search"
     ]
   }
 ]

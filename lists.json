@@ -64,12 +64,52 @@
     "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
   },
   {
+    "id": "malware-domain-list",
+    "name": "Malware Domain List",
+    "website": "https://www.malwaredomainlist.com",
+    "description": "Malware Domain List is a non-commercial community project.",
+    "categories": ["security"],
+    "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"
+  },
+  {
+    "id": "badd-boyz-hosts",
+    "name": "Badd Boyz Hosts",
+    "website": "https://github.com/mitchellkrogza/Badd-Boyz-Hosts",
+    "description": "A hosts file for use on any operating system to block bad domains out of your servers or devices.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"
+  },
+  {
     "id": "hphosts-ats",
     "name": "hpHosts (ATS)",
     "website": "https://hosts-file.net",
     "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
-    "categories": ["ads"],
+    "categories": ["ads", "security"],
     "url": "https://hosts-file.net/ad_servers.txt"
+  },
+  {
+    "id": "pornhosts",
+    "name": "pornhosts",
+    "website": "https://github.com/Clefspeare13/pornhosts",
+    "description": "This is an endeavour to find all porn domains and compile them into a single hosts to allow for easy blocking of porn on your local machine or on a network.",
+    "categories": ["porn"],
+    "url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/127.0.0.1/hosts"
+  },
+  {
+    "id": "sinfonietta-porn",
+    "name": "Sinfonietta (Porn)",
+    "website": "https://github.com/Sinfonietta/hostfiles",
+    "description": "A collection of porn domains.",
+    "categories": ["porn"],
+    "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"
+  },
+  {
+    "id": "ut1-porn",
+    "name": "UT1 (Porn)",
+    "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
+    "description": "A collection of adult sites from erotic to hard pornography.",
+    "categories": ["porn"],
+    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-porn"
   },
   {
     "id": "nocoin",
