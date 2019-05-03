@@ -1,8 +1,6 @@
 [
   {
     "id": "security",
-    "name": "Security",
-    "description": "Contain the worst of the worst. Sites that are known to distribute malware, launch phishing attacks or botnet command-and-control servers used to communicate with already infected machines.",
     "lists": [
       "malware-domains",
       "antisocial-blacklist",
@@ -14,8 +12,6 @@
   },
   {
     "id": "ads-trackers",
-    "name": "Ads & Trackers",
-    "description": "Includes the most comprehensive ads and trackers blocking lists out there.",
     "lists": [
       "cameleon",
       "disconnect-ads",
@@ -24,8 +20,6 @@
   },
   {
     "id": "porn",
-    "name": "Porn",
-    "description": "Blocks all sexually explicit content and force Safe Search on search engines (and Youtube). Handy on kid-friendly networks and those morally opposed to pornography.",
     "lists": [
       "ut1-porn",
       "pornhosts",
