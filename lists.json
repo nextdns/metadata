@@ -8,6 +8,14 @@
     "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
   },
   {
+    "id": "peter-lowe",
+    "name": "Peter Lowe",
+    "website": "https://pgl.yoyo.org/adservers",
+    "description": "Blocklist for use with hosts files to block ads.",
+    "categories": ["ads", "privacy"],
+    "url": "https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&mimetype=plaintext"
+  },
+  {
     "id": "antisocial-blacklist",
     "name": "AntiSocial Blacklist",
     "website": "https://theantisocialengineer.com/blacklist",
@@ -81,11 +89,91 @@
   },
   {
     "id": "hphosts-ats",
-    "name": "hpHosts (ATS)",
+    "name": "hpHosts (ATS / Ads & trackers)",
     "website": "https://hosts-file.net",
     "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
-    "categories": ["ads", "security"],
+    "categories": ["ads", "privacy"],
     "url": "https://hosts-file.net/ad_servers.txt"
+  },
+  {
+    "id": "hphosts-emd",
+    "name": "hpHosts (EMD / Malware)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/emd.txt"
+  },
+  {
+    "id": "hphosts-exp",
+    "name": "hpHosts (EXP / Exploit)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/emd.txt"
+  },
+  {
+    "id": "hphosts-fsa",
+    "name": "hpHosts (FSA / Fraud)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/fsa.txt"
+  },
+  {
+    "id": "hphosts-grm",
+    "name": "hpHosts (GRM / Spam)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/fsa.txt"
+  },
+  {
+    "id": "hphosts-hjk",
+    "name": "hpHosts (HJK / Hijacking)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/hjk.txt"
+  },
+  {
+    "id": "hphosts-mmt",
+    "name": "hpHosts (MMT / Misleading marketing)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security", "ads"],
+    "url": "https://hosts-file.net/mmt.txt"
+  },
+  {
+    "id": "hphosts-pha",
+    "name": "hpHosts (PHA / Illegal pharmacy sites)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security", "ads"],
+    "url": "https://hosts-file.net/pha.txt"
+  },
+  {
+    "id": "hphosts-psh",
+    "name": "hpHosts (PSH / Phishing)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/psh.txt"
+  },
+  {
+    "id": "hphosts-pup",
+    "name": "hpHosts (PUP / Potentially unwanted programs)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["security"],
+    "url": "https://hosts-file.net/pup.txt"
+  },
+  {
+    "id": "hphosts-wrz",
+    "name": "hpHosts (WRZ / Warez & piracy)",
+    "website": "https://hosts-file.net",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
+    "categories": ["piracy"],
+    "url": "https://hosts-file.net/wrz.txt"
   },
   {
     "id": "pornhosts",
@@ -118,6 +206,14 @@
     "description": "All social networks sites.",
     "categories": ["social"],
     "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-social-networks"
+  },
+  {
+    "id": "chef-koch-spotify",
+    "name": "CHEF-KOCH's HOSTS Spotify Ad-Filter List",
+    "website": "https://github.com/CHEF-KOCH/Spotify-Ad-free",
+    "description": "Blocks all Spotify Ads, easy peasy lemon squeezy!",
+    "categories": ["spotify"],
+    "url": "https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filter/Spotify-HOSTS.txt"
   },
   {
     "id": "ut1-gambling",
@@ -186,7 +282,7 @@
     "id": "fakenews",
     "name": "fakenews",
     "website": "https://github.com/marktron/fakenews",
-    "description": "An in-progress collection of fake news outlets. Currently blocking 669 untrustworthy sites.",
+    "description": "This is a small attempt to limit my exposure to sites that fall under the umbrella of “fake news.” It blocks sites that willfully and regularly spread clickbait, hoaxes, propaganda and disinformation.",
     "categories": ["misinformation"],
     "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews"
   },

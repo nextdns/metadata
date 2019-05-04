@@ -2,6 +2,7 @@
   {
     "id": "security",
     "lists": [
+      "hphosts-emd",
       "malware-domains",
       "antisocial-blacklist",
       "ransomware-tracker",
@@ -13,6 +14,7 @@
   {
     "id": "ads-trackers",
     "lists": [
+      "hphosts-ats"
       "cameleon",
       "disconnect-ads",
       "disconnect-tracking"
@@ -69,6 +71,8 @@
   },
   {
     "id": "piracy",
-    "lists": []
+    "lists": [
+      "hphosts-wrz"
+    ]
   }
 ]
