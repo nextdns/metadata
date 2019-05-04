@@ -14,7 +14,7 @@
   {
     "id": "ads-trackers",
     "lists": [
-      "hphosts-ats"
+      "hphosts-ats",
       "cameleon",
       "disconnect-ads",
       "disconnect-tracking"
