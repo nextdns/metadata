@@ -24,6 +24,38 @@
     "url": "https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt"
   },
   {
+    "id": "minimal-hosts",
+    "name": "Minimal Hosts",
+    "website": "https://twitter.com/minimalhosts",
+    "categories": ["ads", "privacy"],
+    "url": "https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts"
+  },
+  {
+    "id": "kadhosts",
+    "name": "KADhosts",
+    "website": "https://kadantiscam.netlify.com",
+    "description": "Polish filter for blocking scam websites.",
+    "categories": ["security"],
+    "countries": ["PL"],
+    "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
+  },
+  {
+    "id": "mvps-hosts",
+    "name": "MVPS HOSTS",
+    "website": "http://winhelp2002.mvps.org/hosts.htm",
+    "description": "Includes entries for most major parasites, hijackers and unwanted Adware/Spyware programs!",
+    "categories": ["security", "ads", "privacy"],
+    "url": "http://winhelp2002.mvps.org/hosts.txt"
+  },
+  {
+    "id": "someonewhocares",
+    "name": "someonewhocares.org",
+    "website": "https://someonewhocares.org/hosts/",
+    "description": "Protects you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of \"web bugs\" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.",
+    "categories": ["security", "ads", "privacy"],
+    "url": "https://someonewhocares.org/hosts/hosts"
+  },
+  {
     "id": "malware-domains",
     "name": "Malware Domain Blocklist by RiskAnalytics",
     "website": "https://www.malwaredomains.com",
@@ -70,6 +102,110 @@
     "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
     "categories": ["ads"],
     "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"
+  },
+  {
+    "id": "disconnect-malvertising",
+    "name": "Disconnect (Malvertising)",
+    "website": "https://disconnect.me",
+    "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
+    "categories": ["ads", "security"],
+    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"
+  },
+  {
+    "id": "disconnect-malware",
+    "name": "Disconnect (Malware)",
+    "website": "https://disconnect.me",
+    "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
+    "categories": ["security"],
+    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt"
+  },
+  {
+    "id": "spam-404",
+    "name": "Spam404",
+    "website": "https://www.spam404.com",
+    "description": "This filter protects you from online scams. This filter is regularly updated with data collected by Spam404.com.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"
+  },
+  {
+    "id": "notrack-tracker-blocklist",
+    "name": "NoTrack Tracker Blocklist",
+    "website": "https://quidsup.net/notrack/blocklist.php",
+    "description": "Contains one of the largest compilation of sites associated with tracking your online activities and invading your privacy.",
+    "categories": ["privacy"],
+    "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt"
+  },
+  {
+    "id": "notrack-malware-blocklist",
+    "name": "NoTrack Malware Blocklist",
+    "website": "https://gitlab.com/quidsup/notrack-blocklists",
+    "description": "Contains a much smaller list of malicious sites that don't neceassirly come under the category of tracking, but may still want to be avoided. This isn't my primary focus, therefore it should be used in conjunction with other malware blocklists.",
+    "categories": ["security"],
+    "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt"
+  },
+  {
+    "id": "motomos-referrer-spam-blacklist",
+    "name": "Motomo's Referrer Spam Blacklist",
+    "website": "https://matomo.org/blog/2015/05/stopping-referrer-spam",
+    "description": "This is a community-contributed list of referrer spammers maintained by Matomo, the leading open source web analytics platform.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"
+  },
+  {
+    "id": "windowsspyblocker-spy",
+    "name": "WindowsSpyBlocker (Spy)",
+    "website": "https://github.com/crazy-max/WindowsSpyBlocker",
+    "description": "Block spying and tracking on Windows systems.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+  },
+  {
+    "id": "dsshield-suspicious-domain-list-high",
+    "name": "DShield.org Suspicious Domain List (High Level Sensitivity)",
+    "website": "https://www.dshield.org/suspicious_domains.html",
+    "description": "There are many suspicious domains on the internet. In an effort to identify them, as well as false positives, we have assembled weighted lists based on tracking and malware lists from different sources. ISC is collecting and categorizing various lists associated with a certain level of sensitivity. The high sensitivity list has fewer false positives down to the low sensitivity list with more false positives.",
+    "categories": ["security", "privacy"],
+    "url": "https://www.dshield.org/feeds/suspiciousdomains_High.txt"
+  },
+  {
+    "id": "dsshield-suspicious-domain-list-medium",
+    "name": "DShield.org Suspicious Domain List (Medium Level Sensitivity)",
+    "website": "https://www.dshield.org/suspicious_domains.html",
+    "description": "There are many suspicious domains on the internet. In an effort to identify them, as well as false positives, we have assembled weighted lists based on tracking and malware lists from different sources. ISC is collecting and categorizing various lists associated with a certain level of sensitivity. The high sensitivity list has fewer false positives down to the low sensitivity list with more false positives.",
+    "categories": ["security", "privacy"],
+    "url": "https://www.dshield.org/feeds/suspiciousdomains_Medium.txt"
+  },
+  {
+    "id": "dsshield-suspicious-domain-list-low",
+    "name": "DShield.org Suspicious Domain List (Low Level Sensitivity)",
+    "website": "https://www.dshield.org/suspicious_domains.html",
+    "description": "There are many suspicious domains on the internet. In an effort to identify them, as well as false positives, we have assembled weighted lists based on tracking and malware lists from different sources. ISC is collecting and categorizing various lists associated with a certain level of sensitivity. The high sensitivity list has fewer false positives down to the low sensitivity list with more false positives.",
+    "categories": ["security", "privacy"],
+    "url": "https://www.dshield.org/feeds/suspiciousdomains_Low.txt"
+  },
+  {
+    "id": "shallas-blacklists-porn",
+    "name": "Shalla's Blacklists (porn)",
+    "website": "http://www.shallalist.de",
+    "description": "Blocks sites about all kinds of sexual content ranging from bare bosoms to hardcore porn and sm.",
+    "categories": ["porn"],
+    "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/porn/domains"
+  },
+  {
+    "id": "shallas-blacklists-adv",
+    "name": "Shalla's Blacklists (adv)",
+    "website": "http://www.shallalist.de",
+    "description": "Blocks sites offering banners and banner creation as well as sites delivering banners to be shown in webpages. Advertising companies are blocked, too.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains"
+  },
+  {
+    "id": "shallas-blacklists-tracker",
+    "name": "Shalla's Blacklists (tracker)",
+    "website": "http://www.shallalist.de",
+    "description": "Blocks sites keeping an eye on where you surf and what you do in a passive. Covers web bugs, counters and other tracking mechanism in web pages that do not interfere with the local computer yet collecting information about the surfing person for later analyis. Sites actively spying out the surfer by installing software or calling home sites are not covered with tracker but with -> spyware.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains"
   },
   {
     "id": "malware-domain-list",
@@ -192,20 +328,20 @@
     "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"
   },
   {
-    "id": "ut1-porn",
-    "name": "UT1 (Porn)",
+    "id": "ut1-adult",
+    "name": "UT1 (adult)",
     "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
     "description": "A collection of adult sites from erotic to hard pornography.",
     "categories": ["porn"],
-    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-porn"
+    "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains"
   },
   {
     "id": "ut1-social-networks",
-    "name": "UT1 (Social Networks)",
+    "name": "UT1 (social_networks)",
     "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
     "description": "All social networks sites.",
     "categories": ["social"],
-    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-social-networks"
+    "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains"
   },
   {
     "id": "chef-koch-spotify",
@@ -217,11 +353,11 @@
   },
   {
     "id": "ut1-gambling",
-    "name": "UT1 (Gambling)",
+    "name": "UT1 (gambling)",
     "website": "https://dsi.ut-capitole.fr/blacklists/index_en.php",
     "description": "Gambling and games sites, casino, etc.",
     "categories": ["gambling"],
-    "url": "https://storage.googleapis.com/nextdns-lists-mirror/ut1-gambling"
+    "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains"
   },
   {
     "id": "kowabit",
@@ -230,6 +366,31 @@
     "description": "I have been maintaining a blacklist to block advertising, mostly tracking services, to prevent data from being collected about me. I update the list regularly.",
     "categories": ["ads", "trackers"],
     "url": "https://blocklist.kowabit.de/list.txt"
+  },
+  {
+    "id": "barbblock",
+    "name": "BarbBlock",
+    "website": "https://ssl.bblck.me",
+    "description": "It blacklists sites which have used DMCA takedowns to force removal from other content blocking lists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.",
+    "categories": ["others"],
+    "url": "https://ssl.bblck.me/blacklists/hosts-file.txt"
+  },
+  {
+    "id": "bkrucarci-turk-adlist",
+    "name": "bkrucarci turk-adlist",
+    "website": "https://github.com/bkrucarci/turk-adlist",
+    "description": "Ad servers list to block ads on Turkish websites.",
+    "categories": ["ads"],
+    "countries": ["TR"],
+    "url": "https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts"
+  },
+  {
+    "id": "wally3k-personal",
+    "name": "Personal Blocklist by WaLLy3K",
+    "website": "https://firebog.net/about",
+    "description": "Content added to this list has been manually verified, and is updated irregularly.",
+    "categories": ["security", "ads", "privacy", "cryptominers"],
+    "url": "https://v.firebog.net/hosts/static/w3kbl.txt"
   },
   {
     "id": "adaway",
