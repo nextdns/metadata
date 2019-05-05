@@ -40,6 +40,22 @@
     "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
   },
   {
+    "id": "anudeep-blacklist",
+    "name": "Anudeep's Blacklist",
+    "website": "https://github.com/anudeepND/blacklist",
+    "description": "A list of adserving and tracking sites maintained by me. This list will be updated frequently.",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"
+  },
+  {
+    "id": "anudeep-blacklist-coinminer",
+    "name": "Anudeep's Blacklist (CoinMiner)",
+    "website": "https://github.com/anudeepND/blacklist",
+    "description": "Block cryptojacking sites.",
+    "categories": ["cryptomining"],
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"
+  },
+  {
     "id": "notracking-domains",
     "name": "notracking (domains)",
     "website": "https://github.com/notracking/hosts-blocklists",
