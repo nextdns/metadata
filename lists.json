@@ -4,7 +4,7 @@
     "name": "Steven Black",
     "website": "https://github.com/StevenBlack/hosts",
     "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.",
-    "categories": ["ads", "privacy"],
+    "categories": ["ads", "privacy", "security"],
     "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
   },
   {
@@ -414,6 +414,94 @@
     "description": "I have been maintaining a blacklist to block advertising, mostly tracking services, to prevent data from being collected about me. I update the list regularly.",
     "categories": ["ads", "trackers"],
     "url": "https://blocklist.kowabit.de/list.txt"
+  },
+  {
+    "id": "energized-spark",
+    "name": "Energized Spark",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. True Lite Blocking.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/domains.txt"
+  },
+  {
+    "id": "energized-blu-go",
+    "name": "Energized Blu Go",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Energized GO Edition.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/domains.txt"
+  },
+  {
+    "id": "energized-blu",
+    "name": "Energized Blu",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Finest Midrange Protection.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt"
+  },
+  {
+    "id": "energized-basic",
+    "name": "Energized Basic",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Energized Basic Protection.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt"
+  },
+  {
+    "id": "energized-porn",
+    "name": "Energized Porn",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Energized Porn Blocking.",
+    "categories": ["porn"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/porn/formats/domains.txt"
+  },
+  {
+    "id": "energized-ultimate",
+    "name": "Energized Ultimate",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Energized Flagship Annoyances Protection.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt"
+  },
+  {
+    "id": "energized-unified",
+    "name": "Energized Unified",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Energized Flagship Annoyances & Porn Protection.",
+    "categories": ["ads", "trackers", "security", "porn"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/unified/formats/domains.txt"
+  },
+  {
+    "id": "energized-xtreme-extension",
+    "name": "Energized Xtreme Extension",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. An Ultimate Protection Extension. May break apps and sites.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/domains.txt"
+  },
+  {
+    "id": "energized-social-extension",
+    "name": "Energized Social Extension",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Blocks Everything Social!",
+    "categories": ["social"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/social/formats/domains.txt"
+  },
+  {
+    "id": "energized-porn-lite-extension",
+    "name": "Energized Porn Lite Extension",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Lite Pornware Blocking Extension.",
+    "categories": ["porn"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/porn-lite/formats/domains.txt"
+  },
+  {
+    "id": "energized-regional-extension",
+    "name": "Energized Regional Extension",
+    "website": "https://energized.pro",
+    "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. Regional Filter List.",
+    "categories": ["ads", "trackers", "security"],
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/domains.txt"
   },
   {
     "id": "barbblock",

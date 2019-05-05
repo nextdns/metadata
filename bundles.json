@@ -14,6 +14,8 @@
   {
     "id": "ads-trackers",
     "lists": [
+      "steven-black",
+      "anudeep-blacklist",
       "hphosts-ats",
       "cameleon",
       "disconnect-ads",
@@ -23,6 +25,7 @@
   {
     "id": "porn",
     "lists": [
+      "energized-porn",
       "ut1-adult",
       "shallalist-porn",
       "pornhosts",
@@ -38,7 +41,8 @@
   {
     "id": "social-networks",
     "lists": [
-      "ut1-social-networks"
+      "ut1-social-networks",
+      "energized-social-extension"
     ]
   },
   {
