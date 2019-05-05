@@ -56,6 +56,22 @@
     "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt"
   },
   {
+    "id": "easylist",
+    "name": "EasyList",
+    "website": "https://easylist.to",
+    "description": "EasyList is the primary filter list that removes most adverts from international webpages, including unwanted frames, images and objects. It is the most popular list used by many ad blockers and forms the basis of over a dozen combination and supplementary filter lists.",
+    "categories": ["ads"],
+    "url": "https://easylist.to/easylist/easylist.txt"
+  },
+  {
+    "id": "easyprivacy",
+    "name": "EasyPrivacy",
+    "website": "https://easylist.to",
+    "description": "EasyPrivacy is an optional supplementary filter list that completely removes all forms of tracking from the internet, including web bugs, tracking scripts and information collectors, thereby protecting your personal data.",
+    "categories": ["privacy"],
+    "url": "https://easylist.to/easylist/easyprivacy.txt"
+  },
+  {
     "id": "mvps-hosts",
     "name": "MVPS HOSTS",
     "website": "http://winhelp2002.mvps.org/hosts.htm",
