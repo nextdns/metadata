@@ -40,6 +40,22 @@
     "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
   },
   {
+    "id": "notracking-domains",
+    "name": "notracking (domains)",
+    "website": "https://github.com/notracking/hosts-blocklists",
+    "description": "Blocks ads, fake sites, shock sites, malware hosts and trackers. Removed verified false calls and added a large set of custom entries. This hostfiles aim is not to break any useful websites.",
+    "categories": ["ads", "security", "privacy"],
+    "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt"
+  },
+  {
+    "id": "notracking-hostnames",
+    "name": "notracking (hostnames)",
+    "website": "https://github.com/notracking/hosts-blocklists",
+    "description": "Blocks ads, fake sites, shock sites, malware hosts and trackers. Removed verified false calls and added a large set of custom entries. This hostfiles aim is not to break any useful websites.",
+    "categories": ["ads", "security", "privacy"],
+    "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt"
+  },
+  {
     "id": "mvps-hosts",
     "name": "MVPS HOSTS",
     "website": "http://winhelp2002.mvps.org/hosts.htm",
