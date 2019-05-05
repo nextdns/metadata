@@ -48,10 +48,10 @@
     ]
   },
   {
-    "id": "cryptominers",
+    "id": "cryptomining",
     "lists": [
       "nocoin",
-      "coin-blocker-lists"
+      "coinblockerlists-browser"
     ]
   },
   {

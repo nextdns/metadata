@@ -421,7 +421,7 @@
     "name": "Personal Blocklist by WaLLy3K",
     "website": "https://firebog.net/about",
     "description": "Content added to this list has been manually verified, and is updated irregularly.",
-    "categories": ["security", "ads", "privacy", "cryptominers"],
+    "categories": ["security", "ads", "privacy", "cryptomining"],
     "url": "https://v.firebog.net/hosts/static/w3kbl.txt"
   },
   {
@@ -453,16 +453,24 @@
     "name": "NoCoin",
     "website": "https://github.com/hoshsadiq/adblock-nocoin-list",
     "description": "Block lists to prevent JavaScript miners.",
-    "categories": ["cryptominers"],
+    "categories": ["cryptomining"],
     "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
   },
   {
-    "id": "coin-blocker-lists",
+    "id": "coinblockerlists",
     "name": "CoinBlockerLists",
     "website": "https://gitlab.com/ZeroDot1/CoinBlockerLists",
-    "description": "This list disables browser based miners such as coin-hive.",
-    "categories": ["cryptominers"],
-    "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"
+    "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
+    "categories": ["cryptomining"],
+    "url": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts"
+  },
+  {
+    "id": "coinblockerlists-browser",
+    "name": "CoinBlockerLists (browser)",
+    "website": "https://gitlab.com/ZeroDot1/CoinBlockerLists",
+    "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
+    "categories": ["cryptomining"],
+    "url": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser"
   },
   {
     "id": "torrent-trackers-host",
