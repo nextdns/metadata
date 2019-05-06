@@ -80,6 +80,102 @@
     "url": "https://easylist.to/easylist/easylist.txt"
   },
   {
+    "id": "easylist-germany",
+    "name": "EasyList Germany",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Germany is a filter list written by the EasyList authors MonztA, Famlam and Khrin that specifically removes adverts on German language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist.to/easylistgermany/easylistgermany.txt"
+  },
+  {
+    "id": "easylist-italy",
+    "name": "EasyList Italy",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Italy is a filter list written by the EasyList author Khrin that specifically removes adverts on Italian language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt"
+  },
+  {
+    "id": "easylist-dutch",
+    "name": "EasyList Dutch",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Dutch is an affiliated filter list written by the EasyList author Famlam that specifically removes adverts on Dutch language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist-downloads.adblockplus.org/easylistdutch.txt"
+  },
+  {
+    "id": "liste-fr",
+    "name": "Liste FR",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "Liste FR is an affiliated filter list written by Lian, Crits and smed79 that specifically removes adverts on French language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist-downloads.adblockplus.org/liste_fr.txt"
+  },
+  {
+    "id": "easylist-china",
+    "name": "EasyList China",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList China is an affiliated filter list written by John and Li that specifically removes adverts on Chinese language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+  },
+  {
+    "id": "bulgarian-list",
+    "name": "Bulgarian list",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "Bulgarian list is an affiliated filter list written by Alex that specifically removes adverts on Bulgarian language websites.",
+    "categories": ["ads"],
+    "url": "https://stanev.org/abp/adblock_bg.txt"
+  },
+  {
+    "id": "abpindo",
+    "name": "ABPindo",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "ABPindo is an affiliated filter list written by hermawan that specifically removes adverts on Indonesian language websites.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt"
+  },
+  {
+    "id": "liste-ar",
+    "name": "Liste AR",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "Liste AR is an affiliated filter list written by smed79 and Crits that specifically removes adverts on Arabic language websites.",
+    "categories": ["ads"],
+    "url": "https://easylist-downloads.adblockplus.org/Liste_AR.txt"
+  },
+  {
+    "id": "easylist-czech-slovak",
+    "name": "EasyList Czech and Slovak",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Czech and Slovak is an affiliated filter list written by tomasko126 that specifically removes adverts on Czech and Slovak language websites.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt"
+  },
+  {
+    "id": "latvian-list",
+    "name": "Latvian List",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "Latvian List is an affiliated filter list written by anonymous74100 that specifically removes adverts on Latvian language websites.",
+    "categories": ["ads"],
+    "url": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt"
+  },
+  {
+    "id": "easylist-hebrew",
+    "name": "EasyList Hebrew",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Hebrew is an affiliated filter list written by BsT that specifically removes adverts on Hebrew language websites.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt"
+  },
+  {
+    "id": "easylist-lithuania",
+    "name": "EasyList Lithuania",
+    "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+    "description": "EasyList Lithuania is an affiliated filter list written by gymka that specifically removes adverts on Lithuanian language websites.",
+    "categories": ["ads"],
+    "url": "https://margevicius.lt/easylistlithuania.txt"
+  },
+  {
     "id": "easyprivacy",
     "name": "EasyPrivacy",
     "website": "https://easylist.to",
