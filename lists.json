@@ -272,6 +272,14 @@
     "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt"
   },
   {
+    "id": "adguard-simplified",
+    "name": "AdGuard Simplified Domain Names filter",
+    "website": "https://github.com/AdguardTeam/AdguardSDNSFilter",
+    "description": "A filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
+    "categories": ["ads", "privacy"],
+    "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+  },
+  {
     "id": "spam-404",
     "name": "Spam404",
     "website": "https://www.spam404.com",
