@@ -216,6 +216,38 @@
     "url": "https://mirror1.malwaredomains.com/files/justdomains"
   },
   {
+    "id": "antipopads",
+    "name": "antipopads",
+    "website": "https://github.com/Yhonay/antipopads",
+    "description": "List of popads.net domains.",
+    "categories": ["security", "ads"],
+    "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"
+  },
+  {
+    "id": "uncheckyads",
+    "name": "UncheckyAds",
+    "website": "https://unchecky.com",
+    "description": "Windows installers ads sources.",
+    "categories": ["ads", "security"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts"
+  },
+  {
+    "id": "streamingads",
+    "name": "StreamingAds",
+    "website": "https://github.com/FadeMind/hosts.extras",
+    "description": "Streaming services ads sources.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts"
+  },
+  {
+    "id": "squidblacklistorg-ads",
+    "name": "squidblacklist.org (Ads)",
+    "website": "https://www.squidblacklist.org",
+    "description": "Blocks advertisements and tracking.",
+    "categories": ["ads", "privacy"],
+    "url": "https://www.squidblacklist.org/downloads/dg-ads.acl"
+  },
+  {
     "id": "cameleon",
     "name": "CAMELEON",
     "website": "http://sysctl.org/cameleon",
@@ -687,6 +719,46 @@
     "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
     "categories": ["cryptomining"],
     "url": "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/hosts_browser"
+  },
+  {
+    "id": "eth-phishing-detect",
+    "name": "eth-phishing-detect",
+    "website": "https://github.com/MetaMask/eth-phishing-detect",
+    "description": "Blocks phishing domains targeting Ethereum users.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt"
+  },
+  {
+    "id": "add-2o7net",
+    "name": "add.2o7Net",
+    "website": "http://hostsfile.org/hosts.html",
+    "description": "2o7 Network tracking.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
+  },
+  {
+    "id": "add-dead",
+    "name": "add.Dead",
+    "website": "http://hostsfile.org/hosts.html",
+    "description": "Dead websites. Against typos in URLs.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts"
+  },
+  {
+    "id": "add-risk",
+    "name": "add.Risk",
+    "website": "http://hostsfile.org/hosts.html",
+    "description": "Websites with risky content, malwares etc.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"
+  },
+  {
+    "id": "add-spam",
+    "name": "add.Spam",
+    "website": "http://hostsfile.org/hosts.html",
+    "description": "Spam websites.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts"
   },
   {
     "id": "torrent-trackers-host",
