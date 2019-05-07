@@ -722,7 +722,7 @@
   },
   {
     "id": "eth-phishing-detect",
-    "name": "eth-phishing-detect",
+    "name": "ETH Phishing Detect",
     "website": "https://github.com/MetaMask/eth-phishing-detect",
     "description": "Blocks phishing domains targeting Ethereum users.",
     "categories": ["security"],
