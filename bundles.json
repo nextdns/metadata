@@ -80,5 +80,9 @@
     "lists": [
       "hphosts-wrz"
     ]
+  },
+  {
+    "id": "gaming",
+    "lists": []
   }
 ]
