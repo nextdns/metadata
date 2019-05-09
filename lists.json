@@ -272,6 +272,23 @@
     "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
   },
   {
+    "id": "1hosts",
+    "name": "1Hosts",
+    "website": "https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360",
+    "description": "Protect your 'data' & eyeballs from being auctioned to the highest bidder.",
+    "categories": ["ads", "trackers"],
+    "url": "https://1hos.cf"
+  },
+  {
+    "id": "280blocker",
+    "name": "280blocker",
+    "website": "https://280blocker.net",
+    "description": "280blocker adblock domain lists",
+    "categories": ["ads"],
+    "countries": ["JP"],
+    "url": "https://280blocker.net/files/280blocker_domain.txt"
+  },
+  {
     "id": "disconnect-tracking",
     "name": "Disconnect (Tracking)",
     "website": "https://disconnect.me",
@@ -695,6 +712,14 @@
     "description": "The blocklist is updated every 6 hours. Generated from PhishTank and OpenPhish reports. Each domain is analyzed to eliminate false positives, through the Whitelist of Anudeep and the Alexa Rank. This extended blocklist also contains domains without subdomains.",
     "categories": ["security"],
     "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"
+  },
+  {
+    "id": "openphish",
+    "name": "OpenPhish",
+    "website": "https://openphish.com",
+    "description": "Timely. Accurate. Relevant Threat Intelligence.",
+    "categories": ["security"],
+    "url": "https://openphish.com/feed.txt"
   },
   {
     "id": "nocoin",
