@@ -4,6 +4,7 @@
     "lists": [
       "hphosts-emd",
       "malware-domains",
+      "openphish",
       "antisocial-blacklist",
       "ransomware-tracker",
       "zeus-tracker",
@@ -35,7 +36,6 @@
       "bing-safesearch",
       "duckduckgo-safesearch",
       "youtube-restricted-mode-strict",
-      "youtube-restricted-mode-moderate",
       "yandex-family-search"
     ]
   },
