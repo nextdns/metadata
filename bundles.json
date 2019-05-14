@@ -2,7 +2,6 @@
   {
     "id": "security",
     "lists": [
-      "hphosts-emd",
       "malware-domains",
       "openphish",
       "ransomware-tracker",
