@@ -3,7 +3,6 @@
     "id": "security",
     "lists": [
       "malware-domains",
-      "openphish",
       "ransomware-tracker",
       "zeus-tracker",
       "malware-domain-list",
