@@ -1,0 +1,180 @@
+[
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "website": "https://www.facebook.com",
+    "domains": [
+      "facebook.com",
+      "fbcdn.net"
+    ]
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "website": "https://www.whatsapp.com",
+    "domains": [
+      "whatsapp.net",
+      "whatsapp.com"
+    ]
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "website": "https://www.instagram.com",
+    "domains": [
+      "instagram.com",
+      "cdninstagram.com"
+    ]
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "website": "https://twitter.com",
+    "domains": [
+      "twitter.com",
+      "twimg.com"
+    ]
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "website": "https://www.snapchat.com",
+    "domains": [
+      "snapchat.com"
+    ]
+  },
+  {
+    "id": "messenger",
+    "name": "Messenger",
+    "website": "https://www.messenger.com",
+    "domains": [
+      "messenger.com"
+    ]
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "website": "https://www.netflix.com",
+    "domains": [
+      "netflix.com",
+      "nflximg.net",
+      "nflxext.com",
+      "nflxvideo.net",
+      "nflxso.net"
+    ]
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "website": "https://www.youtube.com",
+    "domains": [
+      "youtube.com",
+      "youtube-nocookie.com",
+      "youtube.googleapis.com",
+      "youtubei.googleapis.com",
+      "ytimg.com"
+    ]
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "website": "https://www.spotify.com",
+    "domains": [
+      "spotify.com"
+    ]
+  },
+  {
+    "id": "fortnite",
+    "name": "Fortnite",
+    "website": "https://www.epicgames.com/fortnite/home",
+    "domains": [
+      "epicgames.com"
+    ]
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "website": "https://store.steampowered.com",
+    "domains": [
+      "poweredbysteam.net",
+      "steampowered.com",
+      "steamcommunity.com",
+      "steamgames.com",
+      "steamgames.net"
+    ]
+  },
+  {
+    "id": "reddit",
+    "name": "reddit",
+    "website": "https://www.reddit.com",
+    "domains": [
+      "reddit.com",
+      "redditstatic.com",
+      "redditmedia.com",
+      "redd.it"
+    ]
+  },
+  {
+    "id": "tumblr",
+    "name": "Tumblr",
+    "website": "https://www.tumblr.com",
+    "domains": [
+      "tumblr.com"
+    ]
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "website": "https://www.tiktok.com",
+    "domains": [
+      "tiktok.com",
+      "tiktokcdn.com"
+    ]
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "website": "https://vimeo.com",
+    "domains": [
+      "vimeo.com",
+      "vimeocdn.com"
+    ]
+  },
+  {
+    "id": "dailymotion",
+    "name": "Dailymotion",
+    "website": "https://www.dailymotion.com",
+    "domains": [
+      "dailymotion.com",
+      "dmcdn.net",
+      "dm-event.net",
+      "dmxleo.com"
+    ]
+  },
+  {
+    "id": "tinder",
+    "name": "Tinder",
+    "website": "https://tinder.com",
+    "domains": [
+      "tinder.com",
+      "gotinder.com"
+    ]
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "website": "https://www.minecraft.net",
+    "domains": [
+      "minecraft.net"
+    ]
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "website": "https://www.pinterest.com",
+    "domains": [
+      "pinterest.com",
+      "pinimg.com"
+    ]
+  }
+]
