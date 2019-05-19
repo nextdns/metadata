@@ -52,6 +52,26 @@
     ]
   },
   {
+    "id": "twitch",
+    "name": "Twitch",
+    "website": "https://www.twitch.tv",
+    "domains": [
+      "twitch.tv",
+      "ttvnw.net",
+      "twitchcdn.net",
+      "jtvnw.net"
+    ]
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "website": "https://discordapp.com",
+    "domains": [
+      "discordapp.com",
+      "discord.gg"
+    ]
+  },
+  {
     "id": "netflix",
     "name": "Netflix",
     "website": "https://www.netflix.com",
