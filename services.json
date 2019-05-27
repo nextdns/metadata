@@ -189,6 +189,35 @@
     ]
   },
   {
+    "id": "nexon-na-eu",
+    "name": "NEXON Games",
+    "website": "https://www.nexon.com",
+    "domains": [
+      "api.nexon.io"
+    ]
+  },
+  {
+    "id": "leagueoflegends",
+    "name": "League of Legends",
+    "website": "https://www.riotgames.com",
+    "domains": [
+      "lol.riotgames.com",
+      "auth.riotgames.com",
+      "si.riotgames.com",
+      "lol.garenanow.com",
+      "lol.qq.com"
+    ]
+  },
+  {
+    "id": "poe",
+    "name": "Path of Exile",
+    "website": "https://www.pathofexile.com/game",
+    "domains": [
+      "pathofexile.com",
+      "poe.garena.com"
+    ]
+  },
+  {
     "id": "pinterest",
     "name": "Pinterest",
     "website": "https://www.pinterest.com",
