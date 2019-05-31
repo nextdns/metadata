@@ -32,7 +32,7 @@
       "google-safesearch",
       "bing-safesearch",
       "duckduckgo-safesearch",
-      "youtube-restricted-mode-strict",
+      "youtube-restricted-mode-moderate",
       "yandex-family-search"
     ]
   },
