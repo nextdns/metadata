@@ -808,6 +808,14 @@
     "url": "https://dbl.oisd.nl"
   },
   {
+    "id": "hostsvn",
+    "name": "hostsVN",
+    "website": "https://github.com/bigdargon/hostsVN",
+    "description": "Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt.",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"
+  },
+  {
     "id": "google-safesearch",
     "name": "Google SafeSearch",
     "website": "https://www.google.com",
