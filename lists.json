@@ -856,5 +856,12 @@
     "website": "https://yandex.com",
     "description": "Adult content and sites containing obscene language are completely excluded from search results (even if the query is clearly directed at finding such resources).",
     "categories": ["porn", "violence"]
+  },
+  {
+    "id": "pixabay-safesearch",
+    "name": "Pixabay SafeSearch",
+    "website": "https://pixabay.com",
+    "description": "Filte out nude photography and other visual contents that might be considered offensive to some reasonable degree.",
+    "categories": ["porn"]
   }
 ]
