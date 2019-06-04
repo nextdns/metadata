@@ -64,6 +64,12 @@
     ]
   },
   {
+    "id": "state-surveillance",
+    "lists": [
+      "nsa-blocklist"
+    ]
+  },
+  {
     "id": "vpns-proxies",
     "lists": []
   },

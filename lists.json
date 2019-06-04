@@ -801,6 +801,14 @@
     "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews"
   },
   {
+    "id": "nsa-blocklist",
+    "name": "NSABlocklist",
+    "website": "https://github.com/CHEF-KOCH/NSABlocklist",
+    "description": "Block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS"
+  },
+  {
     "id": "dbloisdnl",
     "name": "dbl.oisd.nl",
     "website": "https://www.reddit.com/r/pihole/comments/9xwwwy/just_sharing_my_blocklist",
