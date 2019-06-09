@@ -824,6 +824,15 @@
     "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"
   },
   {
+    "id": "hufilter",
+    "name": "hufilter",
+    "website": "https://github.com/hufilter/hufilter",
+    "description": "Block hungarian ads.",
+    "categories": ["ads"],
+    "countries": ["HU"],
+    "url": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt"
+  },
+  {
     "id": "google-safesearch",
     "name": "Google SafeSearch",
     "website": "https://www.google.com",
