@@ -256,6 +256,14 @@
     "url": "http://sysctl.org/cameleon/hosts"
   },
   {
+    "id": "mobileadtrackers",
+    "name": "MobileAdTrackers",
+    "website": "https://github.com/jawz101/MobileAdTrackers",
+    "description": "Taken from DNS logs while actively using Android apps over the years.",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts"
+  },
+  {
     "id": "ransomware-tracker",
     "name": "Ransomware Tracker",
     "website": "https://ransomwaretracker.abuse.ch",
