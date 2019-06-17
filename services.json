@@ -189,6 +189,71 @@
     ]
   },
   {
+    "id": "imgur",
+    "name": "imgur",
+    "website": "https://imgur.com",
+    "domains": [
+      "imgur.com"
+    ]
+  },
+  {
+    "id": "9gag",
+    "name": "9GAG",
+    "website": "https://9gag.com",
+    "domains": [
+      "9gag.com",
+      "9cache.com"
+    ]
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "website": "https://www.amazon.com",
+    "domains": [
+      "amazon.com",
+      "amazon.ca",
+      "amazon.co.uk",
+      "amazon.fr",
+      "amazon.de",
+      "amazon.com.mx",
+      "amazon.co.jp",
+      "amazon.com.au",
+      "amazon.com.br",
+      "amazon.nl",
+      "amazon.it",
+      "amazon.es",
+      "amazon.in",
+      "amazon.cn"
+    ]
+  },
+  {
+    "id": "ebay",
+    "name": "eBay",
+    "website": "https://www.ebay.com",
+    "domains": [
+      "ebay.com",
+      "ebay.ca",
+      "ebay.co.uk",
+      "ebay.it",
+      "ebay.es",
+      "ebay.fr",
+      "ebay.nl",
+      "ebay.pl",
+      "ebay.be",
+      "ebay.de",
+      "ebay.ch",
+      "ebay.at",
+      "ebay.ie",
+      "ebay.in",
+      "ebay.ph",
+      "ebay.com.au",
+      "ebay.com.cn",
+      "ebay.com.hk",
+      "ebay.com.my",
+      "ebay.com.sg"
+    ]
+  },
+  {
     "id": "minecraft",
     "name": "Minecraft",
     "website": "https://www.minecraft.net",
