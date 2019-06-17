@@ -71,6 +71,15 @@
     ]
   },
   {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "website": "https://www.pinterest.com",
+    "domains": [
+      "pinterest.com",
+      "pinimg.com"
+    ]
+  },
+  {
     "id": "netflix",
     "name": "Netflix",
     "website": "https://www.netflix.com",
@@ -188,12 +197,12 @@
     ]
   },
   {
-    "id": "pinterest",
-    "name": "Pinterest",
-    "website": "https://www.pinterest.com",
+    "id": "leagueoflegends",
+    "name": "League of Legends",
+    "website": "https://www.leagueoflegends.com",
     "domains": [
-      "pinterest.com",
-      "pinimg.com"
+      "leagueoflegends.com",
+      "lol.riotgames.com"
     ]
   }
 ]
