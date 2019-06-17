@@ -22,19 +22,24 @@
     ]
   },
   {
+    "id": "safesearch",
+    "lists": [
+      "google-safesearch",
+      "bing-safesearch",
+      "duckduckgo-safesearch",
+      "yandex-family-search",
+      "youtube-restricted-mode-moderate",
+      "pixabay-safesearch"
+    ]
+  },
+  {
     "id": "porn",
     "lists": [
       "energized-porn",
       "ut1-adult",
       "shallalist-porn",
       "pornhosts",
-      "sinfonietta-porn",
-      "google-safesearch",
-      "bing-safesearch",
-      "duckduckgo-safesearch",
-      "youtube-restricted-mode-moderate",
-      "yandex-family-search",
-      "pixabay-safesearch"
+      "sinfonietta-porn"
     ]
   },
   {
