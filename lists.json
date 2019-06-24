@@ -366,7 +366,7 @@
     "website": "http://adguard.com/filters.html#social",
     "description": "Filter for social media widgets.",
     "categories": ["ads"],
-    "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+    "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt"
   },  
   {
     "id": "spam-404",
