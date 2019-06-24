@@ -337,6 +337,38 @@
     "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
   },
   {
+    "id": "adguard-en",
+    "name": "AdGuard Base filter",
+    "website": "http://adguard.com/filters.html#english",
+    "description": "Filter that enables removing of the ads from websites with English content.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt"
+  },
+  {
+    "id": "adguard-mobile",
+    "name": "AdGuard Mobile Ads Filter",
+    "website": "http://adguard.com/filters.html#mobile",
+    "description": "Filter for all known mobile ad networks. Useful for mobile devices.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+  },
+  {
+    "id": "adguard-privacy",
+    "name": "AdGuard Tracking Protection filter",
+    "website": "http://adguard.com/filters.html#privacy",
+    "description": "The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.",
+    "categories": ["privacy"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+  },
+  {
+    "id": "adguard-social",
+    "name": "AdGuard Social Media filter",
+    "website": "http://adguard.com/filters.html#social",
+    "description": "Filter for social media widgets.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+  },  
+  {
     "id": "spam-404",
     "name": "Spam404",
     "website": "https://www.spam404.com",
