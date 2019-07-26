@@ -92,6 +92,14 @@
     ]
   },
   {
+    "id": "hulu",
+    "name": "Hulu",
+    "website": "https://www.hulu.com",
+    "domains": [
+      "hulu.com"
+    ]
+  },
+  {
     "id": "youtube",
     "name": "YouTube",
     "website": "https://www.youtube.com",
