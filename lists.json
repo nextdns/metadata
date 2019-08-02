@@ -913,5 +913,13 @@
     "website": "https://pixabay.com",
     "description": "Filte out nude photography and other visual contents that might be considered offensive to some reasonable degree.",
     "categories": ["porn"]
+  },
+  {
+    "id": "no-g",
+    "name": "No G",
+    "website": "https://github.com/nickspaargaren/pihole-google",
+    "description": "Completly block any Google services. And i´ve said Completly.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/google-domains"
   }
 ]
