@@ -857,6 +857,14 @@
     "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"
   },
   {
+    "id": "yhosts",
+    "name": "yhosts",
+    "website": "https://github.com/vokins/yhosts",
+    "description": "AD hosts爱好群，群号:201973909；",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+  },
+  {
     "id": "hufilter",
     "name": "hufilter",
     "website": "https://github.com/hufilter/hufilter",
