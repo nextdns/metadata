@@ -272,6 +272,14 @@
     "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
   },
   {
+    "id": "goodbye-ads",
+    "name": "Goodbye Ads",
+    "website": "https://github.com/jerryn70/GoodbyeAds",
+    "description": "Specially Designed for Mobile Ad Protection.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"
+  },
+  {
     "id": "zeus-tracker",
     "name": "ZeuS Tracker",
     "website": "https://zeustracker.abuse.ch/blocklist.php",
