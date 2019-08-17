@@ -681,6 +681,14 @@
     "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/domains.txt"
   },
   {
+    "id": "finnish-easylist-addition",
+    "name": "Finnish Easylist addition",
+    "website": "https://github.com/finnish-easylist-addition/finnish-easylist-addition",
+    "description": "Finnish adblock list.",
+    "categories": ["ads", "trackers"],
+    "url": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt"
+  },
+  {
     "id": "barbblock",
     "name": "BarbBlock",
     "website": "https://ssl.bblck.me",
