@@ -1,2 +1,10 @@
+# YouTube Watch History (not third-party, can be disabled on website)
 s.youtube.com
+
+# Breaks Play Store on Android, can't download (in easylist, liste-fr and adguard-simplified).
+# Apparently also used for Chrome updates?
+gvt1.com
+gvt2.com
+
+# False positives?
 163.com
