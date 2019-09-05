@@ -470,7 +470,7 @@
     "website": "https://hosts-file.net",
     "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
     "categories": ["security"],
-    "url": "https://hosts-file.net/emd.txt"
+    "url": "https://hosts-file.net/exp.txt"
   },
   {
     "id": "hphosts-fsa",
