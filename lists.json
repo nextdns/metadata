@@ -345,6 +345,38 @@
     "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
   },
   {
+    "id": "adguard-base-filter",
+    "name": "AdGuard Base filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#english",
+    "description": "Filter that removes ads from websites in english.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt"
+  },
+  {
+    "id": "adguard-mobile-ads-filter",
+    "name": "AdGuard Mobile Ads filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#mobile",
+    "description": "Filter for all known mobile ad networks. Useful for mobile devices.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+  },
+  {
+    "id": "adguard-tracking-protection-filter",
+    "name": "AdGuard Tracking Protection filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#privacy",
+    "description": "The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.",
+    "categories": ["privacy"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+  },
+  {
+    "id": "adguard-social-media-filter",
+    "name": "AdGuard Social Media filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#social",
+    "description": "Filter for social media widgets (Like buttons and such).",
+    "categories": ["privacy"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt"
+  },
+  {
     "id": "spam-404",
     "name": "Spam404",
     "website": "https://www.spam404.com",
@@ -712,6 +744,24 @@
     "description": "Content added to this list has been manually verified, and is updated irregularly.",
     "categories": ["security", "ads", "privacy", "cryptomining"],
     "url": "https://v.firebog.net/hosts/static/w3kbl.txt"
+  },
+  {
+    "id": "ru-adlist",
+    "name": "RU AdList",
+    "website": "https://forums.lanik.us/viewforum.php?f=102",
+    "description": "Russian supplement for EasyList.",
+    "categories": ["ads"],
+    "countries": ["RU"],
+    "url": "https://easylist-downloads.adblockplus.org/advblock.txt"
+  },
+  {
+    "id": "adguard-russian-filter",
+    "name": "AdGuard Russian filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#russian",
+    "description": "Filter that enables ad blocking on websites in Russian language.",
+    "categories": ["ads"],
+    "countries": ["RU"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt"
   },
   {
     "id": "adaway",
