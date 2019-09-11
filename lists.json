@@ -40,6 +40,15 @@
     "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
   },
   {
+    "id": "certyficateit",
+    "name": "CertyficateIT",
+    "website": "https://github.com/MajkiIT/polish-ads-filter",
+    "description": "Polish ads filter.",
+    "categories": ["ads"],
+    "countries": ["PL"],
+    "url": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt"
+  },
+  {
     "id": "anudeep-blacklist",
     "name": "Anudeep's Blacklist",
     "website": "https://github.com/anudeepND/blacklist",
@@ -885,10 +894,18 @@
   {
     "id": "dbloisdnl",
     "name": "dbl.oisd.nl",
-    "website": "https://www.reddit.com/r/pihole/comments/9xwwwy/just_sharing_my_blocklist",
+    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
     "description": "Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploid, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
     "categories": ["ads", "privacy"],
     "url": "https://dbl.oisd.nl"
+  },
+  {
+    "id": "dblmobileoisdnl",
+    "name": "dblmobile.oisd.nl",
+    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
+    "description": "Handpicked mobile/android/iOS lists, combined with some great other lists. This focusses primarily on mobile ads/malware.	",
+    "categories": ["ads", "security", "privacy"],
+    "url": "https://dblmobile.oisd.nl"
   },
   {
     "id": "lightswitch05-ads-tracking",
