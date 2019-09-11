@@ -903,7 +903,7 @@
     "id": "dblmobileoisdnl",
     "name": "dblmobile.oisd.nl",
     "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
-    "description": "Handpicked mobile/android/iOS lists, combined with some great other lists. This focusses primarily on mobile ads/malware.	",
+    "description": "Handpicked mobile/android/iOS lists, combined with some great other lists. This focuses primarily on mobile ads/malware.",
     "categories": ["ads", "security", "privacy"],
     "url": "https://dblmobile.oisd.nl"
   },
