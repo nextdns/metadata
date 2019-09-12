@@ -8,3 +8,6 @@ gvt2.com
 
 # False positives?
 163.com
+
+# sponsored links in google (ideally we should whitelist www.googleadservices.com only)
+googleadservices.com
