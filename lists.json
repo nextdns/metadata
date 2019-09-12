@@ -920,6 +920,6 @@
     "website": "https://github.com/nickspaargaren/pihole-google",
     "description": "Completly block any Google services. And i´ve said Completly.",
     "categories": ["privacy"],
-    "url": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/google-domains"
+    "url": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/wildcards-domains"
   }
 ]
