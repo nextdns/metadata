@@ -40,6 +40,15 @@
     "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
   },
   {
+    "id": "certyficateit",
+    "name": "CertyficateIT",
+    "website": "https://github.com/MajkiIT/polish-ads-filter",
+    "description": "Polish ads filter.",
+    "categories": ["ads"],
+    "countries": ["PL"],
+    "url": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt"
+  },
+  {
     "id": "anudeep-blacklist",
     "name": "Anudeep's Blacklist",
     "website": "https://github.com/anudeepND/blacklist",
@@ -272,6 +281,14 @@
     "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
   },
   {
+    "id": "goodbye-ads",
+    "name": "Goodbye Ads",
+    "website": "https://github.com/jerryn70/GoodbyeAds",
+    "description": "Specially Designed for Mobile Ad Protection.",
+    "categories": ["ads"],
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"
+  },
+  {
     "id": "zeus-tracker",
     "name": "ZeuS Tracker",
     "website": "https://zeustracker.abuse.ch/blocklist.php",
@@ -335,6 +352,38 @@
     "description": "A filter composed of several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.",
     "categories": ["ads", "privacy"],
     "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+  },
+  {
+    "id": "adguard-base-filter",
+    "name": "AdGuard Base filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#english",
+    "description": "Filter that removes ads from websites in english.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt"
+  },
+  {
+    "id": "adguard-mobile-ads-filter",
+    "name": "AdGuard Mobile Ads filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#mobile",
+    "description": "Filter for all known mobile ad networks. Useful for mobile devices.",
+    "categories": ["ads"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+  },
+  {
+    "id": "adguard-tracking-protection-filter",
+    "name": "AdGuard Tracking Protection filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#privacy",
+    "description": "The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.",
+    "categories": ["privacy"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+  },
+  {
+    "id": "adguard-social-media-filter",
+    "name": "AdGuard Social Media filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#social",
+    "description": "Filter for social media widgets (Like buttons and such).",
+    "categories": ["privacy"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt"
   },
   {
     "id": "spam-404",
@@ -462,7 +511,7 @@
     "website": "https://hosts-file.net",
     "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
     "categories": ["security"],
-    "url": "https://hosts-file.net/emd.txt"
+    "url": "https://hosts-file.net/exp.txt"
   },
   {
     "id": "hphosts-fsa",
@@ -673,6 +722,14 @@
     "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/domains.txt"
   },
   {
+    "id": "finnish-easylist-addition",
+    "name": "Finnish Easylist addition",
+    "website": "https://github.com/finnish-easylist-addition/finnish-easylist-addition",
+    "description": "Finnish adblock list.",
+    "categories": ["ads", "trackers"],
+    "url": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt"
+  },
+  {
     "id": "barbblock",
     "name": "BarbBlock",
     "website": "https://ssl.bblck.me",
@@ -696,6 +753,24 @@
     "description": "Content added to this list has been manually verified, and is updated irregularly.",
     "categories": ["security", "ads", "privacy", "cryptomining"],
     "url": "https://v.firebog.net/hosts/static/w3kbl.txt"
+  },
+  {
+    "id": "ru-adlist",
+    "name": "RU AdList",
+    "website": "https://forums.lanik.us/viewforum.php?f=102",
+    "description": "Russian supplement for EasyList.",
+    "categories": ["ads"],
+    "countries": ["RU"],
+    "url": "https://easylist-downloads.adblockplus.org/advblock.txt"
+  },
+  {
+    "id": "adguard-russian-filter",
+    "name": "AdGuard Russian filter",
+    "website": "https://kb.adguard.com/general/adguard-ad-filters#russian",
+    "description": "Filter that enables ad blocking on websites in Russian language.",
+    "categories": ["ads"],
+    "countries": ["RU"],
+    "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt"
   },
   {
     "id": "adaway",
@@ -819,10 +894,18 @@
   {
     "id": "dbloisdnl",
     "name": "dbl.oisd.nl",
-    "website": "https://www.reddit.com/r/pihole/comments/9xwwwy/just_sharing_my_blocklist",
+    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
     "description": "Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploid, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
     "categories": ["ads", "privacy"],
     "url": "https://dbl.oisd.nl"
+  },
+  {
+    "id": "dblmobileoisdnl",
+    "name": "dblmobile.oisd.nl",
+    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
+    "description": "Handpicked mobile/android/iOS lists, combined with some great other lists. This focuses primarily on mobile ads/malware.",
+    "categories": ["ads", "security", "privacy"],
+    "url": "https://dblmobile.oisd.nl"
   },
   {
     "id": "lightswitch05-ads-tracking",
@@ -855,6 +938,14 @@
     "description": "Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt.",
     "categories": ["ads", "privacy"],
     "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"
+  },
+  {
+    "id": "yhosts",
+    "name": "yhosts",
+    "website": "https://github.com/vokins/yhosts",
+    "description": "AD hosts爱好群，群号:201973909；",
+    "categories": ["ads", "privacy"],
+    "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
   },
   {
     "id": "hufilter",
