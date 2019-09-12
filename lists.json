@@ -937,7 +937,17 @@
     "website": "https://github.com/bigdargon/hostsVN",
     "description": "Hosts block ads of Vietnamese - Hosts chặn quảng cáo của người Việt.",
     "categories": ["ads", "privacy"],
+    "countries": ["VN"],
     "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"
+  },
+  {
+    "id": "abpvn-list",
+    "name": "ABPVN List",
+    "website": "https://abpvn.com",
+    "description": "The ABP advertising filter is built with the mission of improving the browsing experience for users and for the Vietnamese.",
+    "categories": ["ads"],
+    "countries": ["VN"],
+    "url": "https://abpvn.com/android/abpvn.txt"
   },
   {
     "id": "yhosts",
