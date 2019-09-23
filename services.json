@@ -31,6 +31,14 @@
     "website": "https://twitter.com",
     "domains": [
       "twitter.com",
+      "api.twimg.com",
+      "pbs.twimg.com",
+      "t.co",
+      "status.twitter.com",
+      "abs.twimg.com",
+      "support.twitter.com",
+      "business.twitter.com",
+      "dev.twitter.com",
       "twimg.com"
     ]
   },
@@ -293,6 +301,16 @@
     "website": "https://www.minecraft.net",
     "domains": [
       "minecraft.net"
+    ]
+  },
+  {
+    "id": "vk",
+    "name": "VK",
+    "website": "https://vk.com",
+    "domains": [
+      "vk.com",
+      "vk.cc",
+      "userapi.com"
     ]
   },
   {
