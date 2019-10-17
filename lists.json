@@ -1014,5 +1014,40 @@
     "website": "https://pixabay.com",
     "description": "Filte out nude photography and other visual contents that might be considered offensive to some reasonable degree.",
     "categories": ["porn"]
+  },
+  {
+    "id": "serbian-language-ads",
+    "name": "Ads in Serbian",
+    "website": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Serbia.txt",
+    "descirption": "Filter out ads served to people visiting content in the Serbian language.",
+    "categories": ["ex-Yugoslav countries", "Balkan countries"]
+  }
+  {
+    "id": "croatian-language-ads",
+    "name": "Ads in Croatian",
+    "website": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Croatia.txt",
+    "descirption": "Filter out ads served to people visiting content in the Croatian language.",
+    "categories": ["ex-Yugoslav countries", "Balkan countries"]
+  }
+{
+    "id": "bosnian-language-ads",
+    "name": "Ads in Bosnian",
+    "website": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/BosniaAndHerzegovina.txt",
+    "descirption": "Filter out ads served to people visiting content in the Bosnian language.",
+    "categories": ["ex-Yugoslav countries", "Balkan countries"]
+  }
+{
+    "id": "montenegrin-language-ads",
+    "name": "Ads in Montenegrin",
+    "website": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Montenegro.txt",
+    "descirption": "Filter out ads served to people visiting content in the Montenegrin language.",
+    "categories": ["ex-Yugoslav countries", "Balkan countries"]
+  }
+{
+    "id": "bulgarian-language-ads",
+    "name": "Ads in Bulgarian",
+    "website": "https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Bulgaria.txt",
+    "descirption": "Filter out ads served to people visiting content in the Bulgarian language.",
+    "categories": ["ex-Yugoslav countries", "Balkan countries"]
   }
 ]
