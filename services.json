@@ -296,6 +296,19 @@
     ]
   },
   {
+    "id": "vk",
+    "name": "VK",
+    "website": "https://vk.com",
+    "domains": [
+      "vk.com",
+      "vkontakte.ru",
+      "vk.cc",
+      "vkuservideo.net",
+      "vk-portal.net",
+      "userapi.com"
+    ]
+  },
+  {
     "id": "leagueoflegends",
     "name": "League of Legends",
     "website": "https://www.leagueoflegends.com",
