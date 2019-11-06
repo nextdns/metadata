@@ -192,6 +192,38 @@
     "categories": ["privacy"],
     "url": "https://easylist.to/easylist/easyprivacy.txt"
   },
+    {
+    "id": "HackeyBlock",
+    "name": "Marnix 0810's HackeyBlock ad-list",
+    "website": "https://marnix0810.github.io/Hackey-Blocker",
+    "description": "The HackeyBlock ad-list blocks ads all around the web, so you can enjoy a faster and less disturbing web!",
+    "categories": ["ads", "fake-websites"],
+    "url": "https://github.com/Marnix0810/HackeyBlock-Blocking-lists/raw/master/hackey-adlist.txt"
+  },
+    {
+    "id": "HackeyPrivacy",
+    "name": "Marnix 0810's HackeyPrivacy",
+    "website": "https://marnix0810.github.io/Hackey-Blocker",
+    "description": "The HackeyPrivacy list blocks tracking-domains and will always be there to protect your privacy from pesky data selling companies!",
+    "categories": ["trackers", "privacy", "anti-data-selling"],
+    "url": "https://github.com/Marnix0810/HackeyBlock-Blocking-lists/raw/master/hackey-privacy.txt"
+  },
+    {
+    "id": "HackeySafety",
+    "name": "Marnix 0810's HackeySafety",
+    "website": "https://marnix0810.github.io/Hackey-Blocker",
+    "description": "The HackeySafety list blocks all kinds of malicious sites, so you can browse safer and faster!",
+    "categories": ["ads", "fake-websites"],
+    "url": "https://github.com/Marnix0810/HackeyBlock-Blocking-lists/raw/master/hackeys_own_malware-protection.txt"
+  },
+    {
+    "id": "Hackeykids",
+    "name": "Marnix 0810's HackeyKids",
+    "website": "https://marnix0810.github.io/Hackey-Blocker",
+    "description": "The HackeyKids list blocks lots of sites that are unsafe for kids, so their parents can be a little more relaxed while their kids grow up in the internet age.",
+    "categories": ["ads", "fake-websites"],
+    "url": "https://github.com/Marnix0810/HackeyBlock-Blocking-lists/raw/master/Adult-content-host-list.txt"
+  },
   {
     "id": "fanboy-annoyance",
     "name": "Fanboy's Annoyance List",
