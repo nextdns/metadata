@@ -4,7 +4,6 @@
     "lists": [
       "malware-domains",
       "ransomware-tracker",
-      "zeus-tracker",
       "malware-domain-list",
       "badd-boyz-hosts"
     ]
@@ -24,8 +23,7 @@
   {
     "id": "cryptomining",
     "lists": [
-      "nocoin",
-      "coinblockerlists-browser"
+      "nocoin"
     ]
   },
   {

@@ -6,8 +6,11 @@ s.youtube.com
 gvt1.com
 gvt2.com
 
-# False positives?
+# False positives
 163.com
 
 # sponsored links in google (ideally we should whitelist www.googleadservices.com only)
 googleadservices.com
+
+# breaks spotify iOS app
+spclient.wg.spotify.com
