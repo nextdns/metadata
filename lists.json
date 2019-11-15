@@ -896,7 +896,7 @@
     "name": "dbl.oisd.nl",
     "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
     "description": "Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploid, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
-    "categories": ["ads", "privacy"],
+    "categories": ["ads", "security", "privacy"],
     "url": "https://dbl.oisd.nl"
   },
   {
