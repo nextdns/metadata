@@ -8,6 +8,14 @@
     "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
   },
   {
+    "id": "nextdns-cname-cloaking-blocklist",
+    "name": "NextDNS CNAME Cloaking Blocklist",
+    "website": "https://github.com/nextdns/cname-cloaking-blocklist",
+    "description": "Automatically blocks all domains using the new CNAME Cloaking method to disguise third-party trackers as first-party trackers.",
+    "categories": ["privacy", "security"],
+    "url": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains"
+  },
+  {
     "id": "peter-lowe",
     "name": "Peter Lowe",
     "website": "https://pgl.yoyo.org/adservers",

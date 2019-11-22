@@ -17,7 +17,8 @@
       "cameleon",
       "disconnect-ads",
       "disconnect-tracking",
-      "adguard-simplified"
+      "adguard-simplified",
+      "nextdns-cname-cloaking-blocklist"
     ]
   },
   {
