@@ -14,3 +14,7 @@ googleadservices.com
 
 # breaks spotify iOS app
 spclient.wg.spotify.com
+
+# breaks link.medium.com and others (owned by branch.io)
+# see https://twitter.com/albinowax/status/1182321813709344769
+app.link
