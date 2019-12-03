@@ -304,4 +304,13 @@
       "lol.riotgames.com"
     ]
   }
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "website": "https://www.roblox.com",
+    "domains": [
+      "roblox.com",
+      "rbxcdn.com"
+    ]
+}
 ]
