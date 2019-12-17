@@ -350,5 +350,13 @@
       "leagueoflegends.com",
       "lol.riotgames.com"
     ]
+   },
+    {
+    "id": "slickdeals",
+    "name": "Slickdeals",
+    "website": "https://slickdeals.net",
+    "domains": [
+      "slickdeals.net"
+    ]
   }
 ]
