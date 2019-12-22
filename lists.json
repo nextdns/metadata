@@ -983,6 +983,14 @@
     "url": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt"
   },
   {
+    "id": "no-g",
+    "name": "No G",
+    "website": "https://github.com/nickspaargaren/pihole-google",
+    "description": "Completely block all Google-related services. And I've said completely.",
+    "categories": ["privacy"],
+    "url": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/wildcards-domains"
+  },
+  {
     "id": "google-safesearch",
     "name": "Google SafeSearch",
     "website": "https://www.google.com",
