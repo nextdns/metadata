@@ -350,5 +350,18 @@
       "leagueoflegends.com",
       "lol.riotgames.com"
     ]
+  },
+  {
+    "id": "vk",
+    "name": "VK",
+    "website": "https://vk.com",
+    "domains": [
+      "vk.com",
+      "vkontakte.ru",
+      "vk.cc",
+      "vkuservideo.net",
+      "vk-portal.net",
+      "userapi.com"
+    ]
   }
 ]
