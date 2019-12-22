@@ -4,7 +4,9 @@
     "name": "Facebook",
     "website": "https://www.facebook.com",
     "domains": [
-      "facebook.com"
+      "facebook.com",
+      "fb.com",
+      "fb.me"
     ]
   },
   {
