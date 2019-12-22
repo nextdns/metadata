@@ -209,6 +209,14 @@
     "url": "https://easylist.to/easylist/fanboy-annoyance.txt"
   },
   {
+    "id": "fanboy-enhanced-tracking",
+    "name": "Fanboy's Enhanced Tracking List",
+    "website": "https://fanboy.co.nz",
+    "description": "Fanboy's Enhanced Tracking List blocks common tracking scripts such as Omniture, Webtrends, Foresee, Coremetrics, Google-Analytics, Touchclarity, ChannelIntelligence.",
+    "categories": ["privacy"],
+    "url": "https://fanboy.co.nz/enhancedstats.txt"
+  },
+  {
     "id": "mvps-hosts",
     "name": "MVPS HOSTS",
     "website": "http://winhelp2002.mvps.org/hosts.htm",
