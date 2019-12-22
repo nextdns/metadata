@@ -308,7 +308,7 @@
     "id": "zeus-tracker",
     "name": "ZeuS Tracker",
     "website": "https://zeustracker.abuse.ch/blocklist.php",
-    "description": "ZeuS Tracker offers various IP- and domain-blocklists that contains known ZeuS Command&Control server (C&C) assocaited with the ZeuS crimeware.",
+    "description": "ZeuS Tracker offers various IP- and domain-blocklists that contains known ZeuS Command&Control server (C&C) assocaited with the ZeuS crimeware. Important: ZeuS Tracker has been discontinued on Jul 8th, 2019.",
     "categories": ["security"],
     "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
   },
