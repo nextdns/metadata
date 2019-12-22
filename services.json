@@ -156,6 +156,15 @@
     ]
   },
   {
+    "id": "disneyplus",
+    "name": "Disney+",
+    "website": "https://www.disneyplus.com",
+    "domains": [
+      "disneyplus.com",
+      "disney-plus.net"
+    ]
+  },
+  {
     "id": "hulu",
     "name": "Hulu",
     "website": "https://www.hulu.com",
