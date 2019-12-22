@@ -2,7 +2,7 @@
 
 This repository contains the data powering our Lists, Services and Analytics/GAFAM features:
 - `lists.json` contains all the lists in Advanced mode.
-- `bundles.json` contains all the lists in Simple mode (and how they are built)
+- `bundles.json` contains all the lists in Simple mode (and how they are built).
 - `exclusions/*` contains the manual domains exclusions (*whitelist*) for the lists above.
 - `services.json` contains all the services/apps/games that you can block on NextDNS, including the list of domains that will be blocked for each service.
 - `gafam.json` contains the list of domains that would make a query appear as belonging to a GAFAM in the Analytics section.
