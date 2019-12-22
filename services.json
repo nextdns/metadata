@@ -354,6 +354,15 @@
     ]
   },
   {
+    "id": "roblox",
+    "name": "Roblox",
+    "website": "https://www.roblox.com",
+    "domains": [
+      "roblox.com",
+      "rbxcdn.com"
+    ]
+  },
+  {
     "id": "vk",
     "name": "VK",
     "website": "https://vk.com",
