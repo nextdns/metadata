@@ -14,8 +14,8 @@
     "name": "WhatsApp",
     "website": "https://www.whatsapp.com",
     "domains": [
-      "whatsapp.net",
-      "whatsapp.com"
+      "whatsapp.com",
+      "whatsapp.net"
     ]
   },
   {
@@ -33,8 +33,9 @@
     "website": "https://twitter.com",
     "domains": [
       "twitter.com",
-      "twttr.com",
-      "twimg.com"
+      "twimg.com",
+      "t.co",
+      "twttr.com"
     ]
   },
   {
@@ -42,7 +43,12 @@
     "name": "Snapchat",
     "website": "https://www.snapchat.com",
     "domains": [
-      "snapchat.com"
+      "snapchat.com",
+      "snapads.com",
+      "sc-cdn.net",
+      "sc-prod.net",
+      "sc-jpl.com",
+      "sc-gw.com"
     ]
   },
   {
@@ -61,7 +67,11 @@
       "twitch.tv",
       "ttvnw.net",
       "twitchcdn.net",
-      "jtvnw.net"
+      "jtvnw.net",
+      "ttvnw.net",
+      "ext-twitch.tv",
+      "twitchsvc.net",
+      "twitch.map.fastly.net"
     ]
   },
   {
@@ -70,7 +80,9 @@
     "website": "https://discordapp.com",
     "domains": [
       "discordapp.com",
-      "discord.gg"
+      "discord.gg",
+      "discord.media",
+      "discordapp.net"
     ]
   },
   {
@@ -126,7 +138,8 @@
       "pinterest.tw",
       "pinterest.uk",
       "pinterest.vn",
-      "pinimg.com"
+      "pinimg.com",
+      "pinterest.map.fastly.net"
     ]
   },
   {
@@ -135,6 +148,7 @@
     "website": "https://www.netflix.com",
     "domains": [
       "netflix.com",
+      "netflix.net",
       "nflximg.net",
       "nflxext.com",
       "nflxvideo.net",
@@ -177,13 +191,14 @@
     "name": "Spotify",
     "website": "https://www.spotify.com",
     "domains": [
+      "spotify.com",
+      "scdn.co",
+      "spotifycdn.net",
       "_spotify-connect._tcp.local",
       "audio-ak-spotify-com.akamaized.net",
       "audio4-ak-spotify-com.akamaized.net",
       "heads-ak-spotify-com.akamaized.net",
       "heads4-ak-spotify-com.akamaized.net",
-      "scdn.co",
-      "spotify.com",
       "spotify.com.edgesuite.net",
       "spotify.map.fastly.net",
       "spotify.map.fastlylb.net"
@@ -222,7 +237,8 @@
       "reddit.com",
       "redditstatic.com",
       "redditmedia.com",
-      "redd.it"
+      "redd.it",
+      "reddit.map.fastly.net"
     ]
   },
   {
@@ -239,7 +255,9 @@
     "website": "https://www.tiktok.com",
     "domains": [
       "tiktok.com",
-      "tiktokcdn.com"
+      "tiktokcdn.com",
+      "musical.ly",
+      "muscdn.com"
     ]
   },
   {
@@ -248,7 +266,9 @@
     "website": "https://vimeo.com",
     "domains": [
       "vimeo.com",
-      "vimeocdn.com"
+      "vimeocdn.com",
+      "vimeo.map.fastly.net",
+      "vimeo-video.map.fastly.net"
     ]
   },
   {
@@ -268,7 +288,8 @@
     "website": "https://tinder.com",
     "domains": [
       "tinder.com",
-      "gotinder.com"
+      "gotinder.com",
+      "tindersparks.com"
     ]
   },
   {
@@ -276,7 +297,9 @@
     "name": "Imgur",
     "website": "https://imgur.com",
     "domains": [
-      "imgur.com"
+      "imgur.com",
+      "imgur.map.fastlylb.net",
+      "imgur.com.cdn.cloudflare.net"
     ]
   },
   {
@@ -285,7 +308,8 @@
     "website": "https://9gag.com",
     "domains": [
       "9gag.com",
-      "9cache.com"
+      "9cache.com",
+      "9cache.com.cdn.cloudflare.net"
     ]
   },
   {
