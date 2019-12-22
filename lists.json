@@ -902,7 +902,7 @@
   {
     "id": "dbloisdnl",
     "name": "dbl.oisd.nl",
-    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
+    "website": "https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/",
     "description": "Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploid, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
     "categories": ["ads", "security", "privacy"],
     "url": "https://dbl.oisd.nl"
@@ -910,7 +910,7 @@
   {
     "id": "dblmobileoisdnl",
     "name": "dblmobile.oisd.nl",
-    "website": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
+    "website": "https://www.reddit.com/r/oisd_blocklist/comments/dwxgld/dbloisdnl_internets_1_domain_blocklist/",
     "description": "Handpicked mobile/android/iOS lists, combined with some great other lists. This focuses primarily on mobile ads/malware.",
     "categories": ["ads", "security", "privacy"],
     "url": "https://dblmobile.oisd.nl"
