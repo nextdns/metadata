@@ -974,6 +974,15 @@
     "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
   },
   {
+    "id": "frellwits-filter-lists",
+    "name": "Frellwit's filter lists",
+    "website": "https://github.com/lassekongo83/Frellwits-filter-lists",
+    "description": "This is Sweden's regional filter in uBlock Origin.  It aims to reduce your exposure to ads, tracking, scams & badware, and occasionally some annoyances on (mostly) Swedish websites.",
+    "categories": ["ads", "privacy", "security"],
+    "countries": ["SE"],
+    "url": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt"
+  },
+  {
     "id": "hufilter",
     "name": "hufilter",
     "website": "https://github.com/hufilter/hufilter",
