@@ -1,5 +1,13 @@
 [
   {
+    "id": "specials",
+    "name": "Sempervideo",
+    "website": "https://github.com/RPiList/specials",
+    "description": "notserious = unseriös = Fakeshops, Is a list to block fakeshops and protect users from shopping in a fake online shops.",
+    "categories": ["security"],
+    "url": "https://raw.githubusercontent.com/RPiList/specials/master/notserious"
+  },
+  {
     "id": "steven-black",
     "name": "Steven Black",
     "website": "https://github.com/StevenBlack/hosts",
