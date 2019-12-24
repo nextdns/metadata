@@ -1000,6 +1000,33 @@
     "url": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/wildcards-domains"
   },
   {
+    "id": "hosts2ch",
+    "name": "hosts2ch",
+    "website": "https://sites.google.com/site/hosts2ch/",
+    "description": "Japanese mobile ad servers",
+    "categories": ["ads"],
+    "countries": ["JP"],
+    "url": "https://sites.google.com/site/hosts2ch/ja"
+  },
+  {
+    "id": "logroid",
+    "name": "logroid",
+    "website": "http://logroid.blogspot.com/2012/06/adaway-hosts-for-japan.html",
+    "description": "Blocking Hosts File for Japan",
+    "categories": ["ads", "security"],
+    "countries": ["JP"],
+    "url": "https://logroid.github.io/blogger/file/hosts.txt"
+  },
+  {
+    "id": "warui-internet",
+    "name": "Warui internet",
+    "website": "https://warui.intaa.net/adhosts/",
+    "description": "Hosts file to avoid displaying ads on Japanese websites",
+    "categories": ["ads"],
+    "countries": ["JP"],
+    "url": "https://warui.intaa.net/adhosts/hosts_lb.txt"
+  },
+  {
     "id": "google-safesearch",
     "name": "Google SafeSearch",
     "website": "https://www.google.com",
