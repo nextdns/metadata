@@ -5,6 +5,7 @@
     "website": "https://www.facebook.com",
     "domains": [
       "facebook.com",
+      "facebookmail.com",
       "fb.com",
       "fb.me"
     ]
@@ -16,6 +17,19 @@
     "domains": [
       "whatsapp.com",
       "whatsapp.net"
+    ]
+  },
+  {
+    "id": "outlook",
+    "name": "Outlook",
+    "website": "https://www.outlook.com",
+    "domains": [
+      "outlook.com",
+      "live.com",
+      "hotmail.de",
+      "medionmail.com",
+      "hotmail.com",
+      "outlook.com"
     ]
   },
   {
