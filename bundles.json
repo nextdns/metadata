@@ -78,7 +78,7 @@
   {
     "id": "p2p",
     "lists": [
-      "torrent-trackers-host"
+      "nextdns-bittorrent-blocklist"
     ]
   },
   {

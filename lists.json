@@ -885,6 +885,14 @@
     "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts"
   },
   {
+    "id": "nextdns-bittorrent-blocklist",
+    "name": "NextDNS BitTorrent Blocklist",
+    "website": "https://github.com/nextdns/bittorrent-blocklist",
+    "description": "Blocks BitTorrent websites (+ alternative domains & proxies), clients, trackers and DHT bootstrap nodes.",
+    "categories": ["p2p"],
+    "url": "https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains"
+  },
+  {
     "id": "torrent-trackers-host",
     "name": "Torrent Trackers Host",
     "website": "https://zackeryfretty.com/block-public-bittorrent-traffic-on-your-server-using-hosts",
