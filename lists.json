@@ -1,5 +1,13 @@
 [
   {
+    "id": "cert-pa domains",
+    "name": "CERT-PA Domains",
+    "website": "https://infosec.cert-pa.it/analyze/statistics.html",
+    "description": "List of malicious domains maintained by the Italian CERT-PA",
+    "categories": ["security"],
+    "url": "sec.cert-pa.it/analyze/listdomains.txt"
+  },
+  {
     "id": "steven-black",
     "name": "Steven Black",
     "website": "https://github.com/StevenBlack/hosts",
