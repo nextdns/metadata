@@ -289,36 +289,12 @@
     "url": "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts"
   },
   {
-    "id": "ransomware-tracker",
-    "name": "Ransomware Tracker",
-    "website": "https://ransomwaretracker.abuse.ch",
-    "description": "Ransomware Tracker tracks and monitors the status of domain names that are associated with Ransomware, such as Botnet C&C servers, distribution sites and payment sites.",
-    "categories": ["security"],
-    "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
-  },
-  {
     "id": "goodbye-ads",
     "name": "Goodbye Ads",
     "website": "https://github.com/jerryn70/GoodbyeAds",
     "description": "Specially Designed for Mobile Ad Protection.",
     "categories": ["ads"],
     "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"
-  },
-  {
-    "id": "zeus-tracker",
-    "name": "ZeuS Tracker",
-    "website": "https://zeustracker.abuse.ch/blocklist.php",
-    "description": "ZeuS Tracker offers various IP- and domain-blocklists that contains known ZeuS Command&Control server (C&C) assocaited with the ZeuS crimeware. Important: ZeuS Tracker has been discontinued on Jul 8th, 2019.",
-    "categories": ["security"],
-    "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
-  },
-  {
-    "id": "1hosts",
-    "name": "1Hosts",
-    "website": "https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360",
-    "description": "Protect your 'data' & eyeballs from being auctioned to the highest bidder.",
-    "categories": ["ads", "trackers"],
-    "url": "https://1hos.cf"
   },
   {
     "id": "280blocker",
