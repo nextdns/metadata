@@ -436,6 +436,9 @@
       "yandex.ua",
       "yandex.fr",
       "ya.ru",
+      "ns1.yandex.ru",
+      "ns2.yandex.ru",
+      "ns9.z5h64q92x9.net",
       "mail.yandex.com",
       "mail.yandex.ru",
       "mail.yandex.com.tr",
@@ -467,7 +470,8 @@
       "taxi.yandex.ua",
       "m.taxi.yandex.ua",
       "yandex-taxi.ee",
-      "driver.yandex"
+      "driver.yandex",
+      "alice.yandex.ru"
     ]
   }
 ]
