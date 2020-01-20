@@ -73,6 +73,14 @@
     "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"
   },
   {
+    "id": "anudeep-blacklist-facebook",
+    "name": "Anudeep's Blacklist (Facebook)",
+    "website": "https://github.com/anudeepND/blacklist",
+    "description": "Block all Facebook domains (including Messenger, Instagram and Whatsapp).",
+    "categories": ["social", "privacy"],
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt"
+  },
+  {
     "id": "notracking-domains",
     "name": "notracking (domains)",
     "website": "https://github.com/notracking/hosts-blocklists",
