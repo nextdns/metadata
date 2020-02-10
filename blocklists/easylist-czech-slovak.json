@@ -1,0 +1,6 @@
+{
+  "name": "EasyList Czech and Slovak",
+  "website": "https://github.com/tomasko126/easylistczechandslovak",
+  "description": "EasyList Czech and Slovak is an affiliated filter list written by tomasko126 that specifically removes adverts on Czech and Slovak language websites.",
+  "source": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt"
+}

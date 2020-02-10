@@ -1,0 +1,28 @@
+# Encrypted DNS providers (DoH/DoT)
+1dot1dot1dot1.cloudflare-dns.com
+one.one.one.one
+cloudflare-dns.com
+dns.google
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+dot.xfinity.com
+doh.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
+family-filter-dns.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+dns.adguard.com
+dns-family.adguard.com
+doh.dns.sb
+
+## VPNs
+protonvpn.com
+protonvpn.ch
+protonstatus.com
+expressvpn.com
+nordvpn.com
+windscribe.com
+
+# Tor
+torproject.org

@@ -1,0 +1,6 @@
+{
+  "name": "Anudeep's Blacklist",
+  "website": "https://github.com/anudeepND/blacklist",
+  "description": "A list of adserving and tracking sites maintained by me. This list will be updated frequently.",
+  "source": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NoTrack Tracker Blocklist",
+  "website": "https://gitlab.com/quidsup/notrack-blocklists",
+  "description": "Contains one of the largest compilation of sites associated with tracking your online activities and invading your privacy.",
+  "source": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "hufilter",
+  "website": "https://github.com/hufilter/hufilter",
+  "description": "Block hungarian ads.",
+  "source": "https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt"
+}

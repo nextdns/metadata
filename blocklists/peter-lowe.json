@@ -1,0 +1,6 @@
+{
+  "name": "Peter Lowe",
+  "website": "https://pgl.yoyo.org/adservers",
+  "description": "Blocklist for use with hosts files to block ads.",
+  "source": "https://pgl.yoyo.org/as/serverlist.php?hostformat=hosts&mimetype=plaintext"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AdGuard Tracking Protection filter",
+  "website": "https://kb.adguard.com/general/adguard-ad-filters#tracking-protection-filter",
+  "description": "The most comprehensive list of various online counters and web analytics tools. If you do not want your actions on the Internet be tracked, use this filter.",
+  "source": "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "EasyList Hebrew",
+  "website": "https://github.com/easylist/EasyListHebrew",
+  "description": "EasyList Hebrew is an affiliated filter list written by BsT that specifically removes adverts on Hebrew language websites.",
+  "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt"
+}

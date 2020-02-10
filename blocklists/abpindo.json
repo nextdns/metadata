@@ -1,0 +1,6 @@
+{
+  "name": "ABPindo",
+  "website": "https://github.com/ABPindo/indonesianadblockrules",
+  "description": "ABPindo is an affiliated filter list written by hermawan that specifically removes adverts on Indonesian language websites.",
+  "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt"
+}

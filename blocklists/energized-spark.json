@@ -1,0 +1,6 @@
+{
+  "name": "Energized Spark",
+  "website": "https://github.com/EnergizedProtection/block",
+  "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. True Lite Blocking.",
+  "source": "https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/domains.txt"
+}

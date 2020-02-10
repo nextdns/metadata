@@ -1,0 +1,6 @@
+{
+  "name": "CertyficateIT",
+  "website": "https://github.com/MajkiIT/polish-ads-filter",
+  "description": "Polish ads filter.",
+  "source": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt"
+}
