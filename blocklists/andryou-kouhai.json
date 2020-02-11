@@ -1,0 +1,6 @@
+{
+  "name": "andryou - kouhai",
+  "website": "https://gitlab.com/andryou/block",
+  "description": "Block ads, analytics/trackers, malware, ransomware, phishing, malvertising, mobile ads/tracking, fake news, the Luminati/Hola network, cryptominers, scam retailers, and Windows telemetry. Balanced blocking.",
+  "source": "https://gitlab.com/andryou/block/raw/master/kouhai-strict-compressed-domains"
+}
