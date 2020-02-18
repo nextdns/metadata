@@ -1,6 +1,6 @@
 {
-  "name": "No G",
-  "website": "https://github.com/nickspaargaren/pihole-google",
-  "description": "Completely block all Google-related services. And I've said completely.",
-  "source": "https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/wildcards-domains"
+  "name": "No Google",
+  "website": "https://github.com/nickspaargaren/no-google",
+  "description": "Completely block Google and its services.",
+  "source": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains"
 }

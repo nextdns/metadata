@@ -17,8 +17,6 @@ Same as above.
 ## Suggest the addition of a new service
 Create an issue (or even better, a PR) on this repository.
 
-*Note: this is an ideal PR for a service suggestion: https://github.com/nextdns/lists/pull/32*
-
 ## Add (or remove) a domain blocked by a service
 Create an issue (or PR) on this repository. If a domain needs to be added, please detail the steps you made to get this domain queried.
 
