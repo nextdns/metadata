@@ -1,0 +1,5 @@
+# Domains of search engines not supporting enforcing Safe Search at the DNS level. Those domains will be blocked when enabling Safe Search.
+
+search.yahoo.com
+search.aol.com
+qwant.com

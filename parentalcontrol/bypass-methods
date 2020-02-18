@@ -1,3 +1,5 @@
+# Domains (and their subdomains) to block when using the Block Bypass Methods feature.
+
 # Encrypted DNS providers (DoH/DoT)
 1dot1dot1dot1.cloudflare-dns.com
 one.one.one.one

@@ -1,0 +1,15 @@
+{
+  "sources": [
+    "https://raw.githubusercontent.com/tiuxo/hosts/master/porn",
+    "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts",
+    "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
+    "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"
+  ],
+  "exclusions": [
+    ".anonym.to",
+    ".sucuri.net"
+  ],
+  "additions": [
+    "whynotbi.com"
+  ]
+}
