@@ -7,7 +7,8 @@
   ],
   "exclusions": [
     ".anonym.to",
-    ".sucuri.net"
+    ".sucuri.net",
+    ".scansafe.net"
   ],
   "additions": [
     "whynotbi.com"
