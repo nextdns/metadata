@@ -18,6 +18,8 @@
     "app.link",
     "v10.events.data.microsoft.com",
     "settings-win.data.microsoft.com",
+    "mobile.pipe.aria.microsoft.com",
+    "browser.pipe.aria.microsoft.com",
     ".lenta.ru",
     ".inc.com"
   ]
