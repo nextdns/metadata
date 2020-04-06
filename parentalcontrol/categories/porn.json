@@ -8,7 +8,8 @@
   "exclusions": [
     ".anonym.to",
     ".sucuri.net",
-    ".scansafe.net"
+    ".scansafe.net",
+    ".jwpcdn.com"
   ],
   "additions": [
     "whynotbi.com"
