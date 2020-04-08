@@ -2,5 +2,8 @@
   "name": "Liste FR",
   "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
   "description": "Liste FR is an affiliated filter list written by Lian, Crits and smed79 that specifically removes adverts on French language websites.",
-  "source": "https://easylist-downloads.adblockplus.org/liste_fr.txt"
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
+    "format": "abp"
+  }
 }

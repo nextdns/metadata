@@ -2,5 +2,8 @@
   "name": "antipopads",
   "website": "https://github.com/Yhonay/antipopads",
   "description": "List of popads.net domains.",
-  "source": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"
+  "source": {
+    "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
+    "format": "hosts"
+  }
 }

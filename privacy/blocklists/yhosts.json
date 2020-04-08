@@ -2,5 +2,8 @@
   "name": "yhosts",
   "website": "https://github.com/vokins/yhosts",
   "description": "AD hosts爱好群，群号:201973909；",
-  "source": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+  "source": {
+    "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
+    "format": "hosts"
+  }
 }

@@ -2,5 +2,8 @@
   "name": "RU AdList",
   "website": "https://forums.lanik.us/viewforum.php?f=102",
   "description": "Russian supplement for EasyList.",
-  "source": "https://easylist-downloads.adblockplus.org/advblock.txt"
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/advblock.txt",
+    "format": "abp"
+  }
 }

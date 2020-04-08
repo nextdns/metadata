@@ -2,5 +2,8 @@
   "name": "No Facebook",
   "website": "https://github.com/jmdugan/blocklists",
   "description": "Completely block Facebook and the services it owns (WhatsApp, Instagram).",
-  "source": "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all"
+  "source": {
+    "url": "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all",
+    "format": "hosts"
+  }
 }

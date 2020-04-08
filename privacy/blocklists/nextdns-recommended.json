@@ -2,26 +2,41 @@
   "name": "NextDNS Recommended Ads & Trackers Blocklist",
   "description": "A comprehensive blocklist to block ads & trackers in all countries. This is the recommended starter blocklist.",
   "sources": [
-    "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-    "https://280blocker.net/files/280blocker_domain.txt",
-    "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
-    "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
-    "https://raw.githubusercontent.com/yous/YousList/master/youslist.txt",
-    "https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts_no_white.txt",
-    "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
-    "https://raw.githubusercontent.com/tiuxo/hosts/master/ads"
+    {
+      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vokins/yhosts/master/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
+      "format": "hosts"
+    }
   ],
   "exclusions": [
-    ".gov",
+    "*.gov",
     "s.youtube.com",
     "app.link",
     "v10.events.data.microsoft.com",
     "settings-win.data.microsoft.com",
     "mobile.pipe.aria.microsoft.com",
     "browser.pipe.aria.microsoft.com",
-    ".lenta.ru",
-    ".inc.com",
-    ".smartsheet.com"
+    "*.lenta.ru",
+    "*.inc.com",
+    "*.smartsheet.com"
   ]
 }

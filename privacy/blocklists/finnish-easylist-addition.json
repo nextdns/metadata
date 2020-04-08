@@ -2,5 +2,8 @@
   "name": "Finnish Easylist Addition",
   "website": "https://github.com/finnish-easylist-addition/finnish-easylist-addition",
   "description": "Finnish adblock list.",
-  "source": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt"
+  "source": {
+    "url": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt",
+    "format": "abp"
+  }
 }

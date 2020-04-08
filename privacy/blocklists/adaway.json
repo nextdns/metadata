@@ -2,5 +2,8 @@
   "name": "AdAway",
   "website": "https://github.com/AdAway/adaway.github.io",
   "description": "Blocking mobile ad providers and some analytics providers.",
-  "source": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"
+  "source": {
+    "url": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+    "format": "hosts"
+  }
 }

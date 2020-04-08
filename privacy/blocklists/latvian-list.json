@@ -2,5 +2,8 @@
   "name": "Latvian List",
   "website": "https://notabug.org/latvian-list/adblock-latvian",
   "description": "Latvian List is an affiliated filter list written by anonymous74100 that specifically removes adverts on Latvian language websites.",
-  "source": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt"
+  "source": {
+    "url": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt",
+    "format": "abp"
+  }
 }

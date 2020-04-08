@@ -2,5 +2,8 @@
   "name": "AdGuard Mobile Ads filter",
   "website": "https://kb.adguard.com/general/adguard-ad-filters#mobile-ads-filter",
   "description": "Filter that blocks ads on mobile devices. Contains all known mobile ad networks.",
-  "source": "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
+    "format": "abp"
+  }
 }

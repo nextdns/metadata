@@ -2,5 +2,8 @@
   "name": "EasyList Lithuania",
   "website": "https://github.com/EasyList-Lithuania/easylist_lithuania",
   "description": "EasyList Lithuania is an affiliated filter list written by gymka that specifically removes adverts on Lithuanian language websites.",
-  "source": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt"
+  "source": {
+    "url": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+    "format": "abp"
+  }
 }

@@ -2,5 +2,8 @@
   "name": "bkrucarci turk-adlist",
   "website": "https://github.com/bkrucarci/turk-adlist",
   "description": "Ad servers list to block ads on Turkish websites.",
-  "source": "https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts"
+  "source": {
+    "url": "https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts",
+    "format": "hosts"
+  }
 }

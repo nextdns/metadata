@@ -2,5 +2,8 @@
   "name": "EasyList Italy",
   "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
   "description": "EasyList Italy is a filter list written by the EasyList author Khrin that specifically removes adverts on Italian language websites.",
-  "source": "https://easylist-downloads.adblockplus.org/easylistitaly.txt"
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+    "format": "abp"
+  }
 }

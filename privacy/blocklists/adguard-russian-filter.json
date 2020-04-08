@@ -2,5 +2,8 @@
   "name": "AdGuard Russian filter",
   "website": "https://kb.adguard.com/general/adguard-ad-filters#russian-filter",
   "description": "Filter that enables removing of the ads from websites in Russian.",
-  "source": "https://filters.adtidy.org/extension/chromium/filters/1.txt"
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+    "format": "abp"
+  }
 }

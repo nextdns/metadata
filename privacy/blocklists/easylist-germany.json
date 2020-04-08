@@ -2,5 +2,8 @@
   "name": "EasyList Germany",
   "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
   "description": "EasyList Germany is a filter list written by the EasyList authors MonztA, Famlam and Khrin that specifically removes adverts on German language websites.",
-  "source": "https://easylist.to/easylistgermany/easylistgermany.txt"
+  "source": {
+    "url": "https://easylist.to/easylistgermany/easylistgermany.txt",
+    "format": "abp"
+  }
 }

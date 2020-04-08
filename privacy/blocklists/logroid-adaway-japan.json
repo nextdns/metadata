@@ -2,5 +2,8 @@
   "name": "AdAway Blocking Hosts File for Japan",
   "website": "https://logroid.github.io/adaway-hosts",
   "description": "AdAwayで使用可能な、日本環境用 広告除去用hostsを公開します。日本環境用に特化しています。",
-  "source": "https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts_no_white.txt"
+  "source": {
+    "url": "https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts_no_white.txt",
+    "format": "hosts"
+  }
 }

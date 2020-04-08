@@ -2,5 +2,8 @@
   "name": "Steven Black",
   "website": "https://github.com/StevenBlack/hosts",
   "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.",
-  "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+  "source": {
+    "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+    "format": "hosts"
+  }
 }

@@ -2,5 +2,8 @@
   "name": "Energized Basic",
   "website": "https://github.com/EnergizedProtection/block",
   "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. An All-Rounder Balanced Protection Pack.",
-  "source": "https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt"
+  "source": {
+    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt",
+    "format": "domains"
+  }
 }

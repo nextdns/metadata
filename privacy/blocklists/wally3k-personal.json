@@ -2,5 +2,8 @@
   "name": "Personal Blocklist by WaLLy3K",
   "website": "https://firebog.net/about",
   "description": "Content added to this list has been manually verified, and is updated irregularly.",
-  "source": "https://v.firebog.net/hosts/static/w3kbl.txt"
+  "source": {
+    "url": "https://v.firebog.net/hosts/static/w3kbl.txt",
+    "format": "domains"
+  }
 }

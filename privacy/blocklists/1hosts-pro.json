@@ -2,5 +2,8 @@
   "name": "1Hosts (Pro)",
   "website": "https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360",
   "description": "Protect your 'data' & eyeballs from being auctioned to the highest bidder.",
-  "source": "https://badmojr.github.io/1Hosts/Pro/domains.txt"
+  "source": {
+    "url": "https://badmojr.github.io/1Hosts/Pro/domains.txt",
+    "format": "domains"
+  }
 }

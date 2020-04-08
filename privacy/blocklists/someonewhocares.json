@@ -2,5 +2,8 @@
   "name": "someonewhocares.org (Dan Pollock)",
   "website": "https://someonewhocares.org/hosts",
   "description": "Protects you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of \"web bugs\" embedded in spam, provides partial protection to IE from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.",
-  "source": "https://someonewhocares.org/hosts/hosts"
+  "source": {
+    "url": "https://someonewhocares.org/hosts/hosts",
+    "format": "hosts"
+  }
 }

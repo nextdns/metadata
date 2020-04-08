@@ -2,5 +2,8 @@
   "name": "MVPS HOSTS",
   "website": "http://winhelp2002.mvps.org/hosts.htm",
   "description": "Includes entries for most major parasites, hijackers and unwanted Adware/Spyware programs!",
-  "source": "http://winhelp2002.mvps.org/hosts.txt"
+  "source": {
+    "url": "http://winhelp2002.mvps.org/hosts.txt",
+    "format": "hosts"
+  }
 }

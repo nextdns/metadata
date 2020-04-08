@@ -2,5 +2,8 @@
   "name": "AdGuard Social Media filter",
   "website": "https://kb.adguard.com/general/adguard-ad-filters#social-media-filter",
   "description": "If you do not like numerous «Like» and «Tweet» buttons on all the popular websites on the Internet, subscribe to this filter, and you will not see them anymore.",
-  "source": "https://filters.adtidy.org/extension/chromium/filters/4.txt"
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/4.txt",
+    "format": "abp"
+  }
 }

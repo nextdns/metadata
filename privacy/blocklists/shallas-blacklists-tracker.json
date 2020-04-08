@@ -2,5 +2,8 @@
   "name": "Shalla's Blacklists (tracker)",
   "website": "https://www.shallalist.de",
   "description": "Site keeping an eye on where you surf and what you do in a passive. Covers web bugs, counters and other tracking mechanism in web pages that do not interfere with the local computer yet collecting information about the surfing person for later analyis. Sites actively spying out the surfer by installing software or calling home sites are not covered with tracker but with -> spyware.",
-  "source": "https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains"
+  "source": {
+    "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains",
+    "format": "domains"
+  }
 }

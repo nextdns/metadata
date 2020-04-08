@@ -2,5 +2,8 @@
   "name": "No Google",
   "website": "https://github.com/nickspaargaren/no-google",
   "description": "Completely block Google and its services.",
-  "source": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains"
+  "source": {
+    "url": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/wildcards-domains",
+    "format": "domains"
+  }
 }

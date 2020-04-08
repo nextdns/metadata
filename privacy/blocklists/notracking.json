@@ -2,5 +2,14 @@
   "name": "notracking",
   "website": "https://github.com/notracking/hosts-blocklists",
   "description": "Automatically updated, moderated and optimized list for blocking ads, trackers and other online garbage.",
-  "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt"
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt",
+      "format": "dnsmasq"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt",
+      "format": "hosts"
+    }
+  ]
 }

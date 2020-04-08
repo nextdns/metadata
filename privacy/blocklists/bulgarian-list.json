@@ -2,5 +2,8 @@
   "name": "Bulgarian list",
   "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
   "description": "Bulgarian list is an affiliated filter list written by Alex that specifically removes adverts on Bulgarian language websites.",
-  "source": "https://stanev.org/abp/adblock_bg.txt"
+  "source": {
+    "url": "https://stanev.org/abp/adblock_bg.txt",
+    "format": "abp"
+  }
 }

@@ -2,5 +2,8 @@
   "name": "Shalla's Blacklists (adv)",
   "website": "https://www.shallalist.de",
   "description": "All about advertising: This includes sites offering banners and banner creation as well as sites delivering banners to be shown in webpages. Advertising companies are listed, too.",
-  "source": "https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains"
+  "source": {
+    "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains",
+    "format": "domains"
+  }
 }

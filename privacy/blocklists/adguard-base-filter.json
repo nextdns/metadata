@@ -2,5 +2,8 @@
   "name": "AdGuard Base filter",
   "website": "https://kb.adguard.com/general/adguard-ad-filters#base-filter",
   "description": "Filter that enables removing of the ads from websites with English content.",
-  "source": "https://filters.adtidy.org/extension/chromium/filters/2.txt"
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
+    "format": "abp"
+  }
 }

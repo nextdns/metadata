@@ -2,5 +2,8 @@
   "name": "EasyList China",
   "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
   "description": "EasyList China is an affiliated filter list written by John and Li that specifically removes adverts on Chinese language websites.",
-  "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+    "format": "abp"
+  }
 }
