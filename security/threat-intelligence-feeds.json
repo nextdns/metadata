@@ -117,6 +117,7 @@
       "format": "domains"
     }
   ],
+  "ignoreSourceFailure": true,
   "excludeTopFQDNs": true,
   "excludeTopRootDomains": true,
   "exclusions": [
