@@ -1,9 +1,0 @@
-{
-  "name": "hpHosts (ATS / Ads & trackers)",
-  "website": "https://hosts-file.net",
-  "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites.",
-  "source": {
-    "url": "https://hosts-file.net/ad_servers.txt",
-    "format": "hosts"
-  }
-}
