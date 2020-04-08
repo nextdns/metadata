@@ -1,8 +1,12 @@
 {
   "sources": [
-    "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"
-  ],
-  "exclusions": [],
-  "additions": []
+    {
+      "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt",
+      "format": "hosts"
+    }
+  ]
 }

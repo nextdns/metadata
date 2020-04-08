@@ -1,4 +1,4 @@
-# Automatically whitelisted domains when enabling Allow Affiliate & Tracking Links.
+# Whitelisted domains (and their subdomains) when enabling Privacy -> Allow Affiliate & Tracking Links.
 
 www.googleadservices.com
 amazon-adsystem.com

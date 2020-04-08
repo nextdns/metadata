@@ -1,4 +1,4 @@
-# Domains of search engines not supporting enforcing Safe Search at the DNS level. Those domains will be blocked when enabling Safe Search.
+# Blocked domains (and their subdomains) when enabling Parental Control -> Safe Search.
 
 search.yahoo.com
 search.aol.com

@@ -1,7 +1,8 @@
 {
   "sources": [
-    "https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains"
-  ],
-  "exclusions": [],
-  "additions": []
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains",
+      "format": "domains"
+    }
+  ]
 }

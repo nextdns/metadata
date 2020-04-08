@@ -1,7 +1,11 @@
 {
   "sources": [
-    "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains"
+    {
+      "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains",
+      "format": "domains"
+    }
   ],
-  "exclusions": [],
-  "additions": []
+  "additions": [
+    "*.tinder.com"
+  ]
 }

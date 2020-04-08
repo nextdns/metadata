@@ -1,0 +1,129 @@
+{
+  "sources": [
+    {
+      "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://mirror1.malwaredomains.com/files/justdomains",
+      "format": "domains"
+    },
+    {
+      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://isc.sans.edu/feeds/suspiciousdomains_High.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://malc0de.com/bl/ZONES",
+      "format": "bind"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://www.joewein.net/dl/bl/dom-bl-base.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains",
+      "format": "domains"
+    },
+    {
+      "url": "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/2577a3a8474432c49e09169da6fe2cad3f98f09f/MS-2",
+      "format": "domains"
+    },
+    {
+      "url": "https://www.botvrij.eu/data/ioclist.domain.raw",
+      "format": "domains"
+    },
+    {
+      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://urlhaus.abuse.ch/downloads/hostfile",
+      "format": "hosts"
+    },
+    {
+      "url": "https://blacklist.cyberthreatcoalition.org/vetted/domain.txt",
+      "format": "domains"
+    }
+  ],
+  "excludeTopFQDNs": true,
+  "excludeTopRootDomains": true,
+  "exclusions": [
+    "*.gov",
+    "*.nhs.uk",
+    "*.cert.at",
+    "*.modenaindiretta.it",
+    "da.gd"
+  ]
+}
