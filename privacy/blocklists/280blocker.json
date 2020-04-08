@@ -5,8 +5,5 @@
   "source": {
     "url": "https://280blocker.net/files/280blocker_domain.txt",
     "format": "domains"
-  },
-  "exclusions": [
-    "*.nextdns.io"
-  ]
+  }
 }
