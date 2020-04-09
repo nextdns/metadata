@@ -1,0 +1,9 @@
+{
+  "name": "BarbBlock",
+  "website": "https://ssl.bblck.me",
+  "description": "Block sites which have used DMCA takedowns to force removal from other content blocking lists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.",
+  "source": {
+    "url": "https://ssl.bblck.me/blacklists/hosts-file.txt",
+    "format": "hosts"
+  }
+}
