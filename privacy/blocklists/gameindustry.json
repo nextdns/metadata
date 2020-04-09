@@ -1,0 +1,9 @@
+{
+  "name": "GameIndustry",
+  "website": "https://www.gameindustry.eu",
+  "description": "Blockieren Sie Spyware, Advertising, Analytics, dem Tracking in Spielen und in dazugehörigen Clients.",
+  "source": {
+    "url": "https://www.gameindustry.eu/files/hosts.txt",
+    "format": "hosts"
+  }
+}
