@@ -115,6 +115,18 @@
     {
       "url": "https://blacklist.cyberthreatcoalition.org/vetted/domain.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://www.threatcrowd.org/feeds/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://azorult-tracker.net/api/list/domain?format=plain",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceFailure": true,
