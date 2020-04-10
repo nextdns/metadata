@@ -109,7 +109,7 @@
       "format": "hosts"
     },
     {
-      "url": "https://blacklist.cyberthreatcoalition.org/vetted/domain.txt",
+      "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
       "format": "domains"
     },
     {
