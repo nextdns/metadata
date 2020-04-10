@@ -49,10 +49,6 @@
       "format": "bind"
     },
     {
-      "url": "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://www.joewein.net/dl/bl/dom-bl-base.txt",
       "format": "domains"
     },
