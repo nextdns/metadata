@@ -3,7 +3,7 @@
   "website": "https://www.github.developerdan.com/hosts",
   "description": "A very aggressive block list for tracking, geo-targeting, & ads. This list will likely break functionality, so do not use it unless you are willing to maintain your own whitelist.",
   "source": {
-    "url": "https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt",
+    "url": "https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt",
     "format": "hosts"
   }
 }
