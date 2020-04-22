@@ -81,7 +81,7 @@
       "format": "domains"
     },
     {
-      "url": "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt",
+      "url": "https://gitlab.com/curben/urlhaus-filter/-/raw/master/urlhaus-filter-domains.txt",
       "format": "domains"
     },
     {
@@ -105,7 +105,7 @@
       "format": "domains"
     },
     {
-      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist.txt",
+      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt",
       "format": "domains"
     },
     {
