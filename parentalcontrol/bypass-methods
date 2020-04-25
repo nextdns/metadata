@@ -29,13 +29,9 @@ dns.dns-over-https.com
 doh.securedns.eu
 dns.rubyfish.cn
 dns.containerpi.com
-dns.containerpi.com
-dns.containerpi.com
 doh-2.seby.io
 doh.seby.io
 commons.host
-doh.dnswarden.com
-doh.dnswarden.com
 doh.dnswarden.com
 dns-nyc.aaflalo.me
 dns.aaflalo.me
@@ -50,7 +46,6 @@ jp.tiar.app
 jp.tiarap.org
 doh.42l.fr
 dns.hostux.net
-dns.hostux.net
 dns.aa.net.uk
 adblock.mydns.network
 ibksturm.synology.me
@@ -63,6 +58,34 @@ doh.libredns.gr
 fi.doh.dns.snopyta.org
 odvr.nic.cz
 doh.applied-privacy.net
+doh.xfinity.com
+dns.containerpi.co
+dns.alekberg.net
+dns.brahma.world
+dns.cloudflare.com
+dns.t53.de
+dns1.dnscrypt.ca
+dns2.alekberg.net
+dns2.dnscrypt.ca
+dnsforge.de
+dnsse.alekberg.net
+doh-ipv6.crypto.sx
+doh.233py.com
+doh.centraleu.pi-dns.com
+doh.eastus.pi-dns.com
+doh.ffmuc.net
+doh.northeu.pi-dns.com
+doh.westus.pi-dns.com
+dohtrial.att.net
+ea-dns.rubyfish.cn
+family.cloudflare-dns.com
+i.233py.com
+jp.gridns.xyz
+public.dns.iij.jp
+resolver-eu.lelux.fi
+rumpelsepp.org
+security.cloudflare-dns.com
+uw-dns.rubyfish.cn
 
 ## VPNs
 protonvpn.com
@@ -93,6 +116,17 @@ vpnunlimitedapp.com
 12vpx.com
 anonine.com
 nvpn.net
+mullvad.net
+vpn-byen.dk
+vpn.ncapi.io
+wlvpn.com
+overplay.net
+ipvanish.com
+surfshark.com
+cyberghostvpn.com
+surfeasy.com
+sec-tunnel.com
+opera-proxy.net
 
 # Tor
 torproject.org
