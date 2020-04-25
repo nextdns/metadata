@@ -1,9 +1,9 @@
 {
   "name": "Lightswitch05 - Ads & Tracking",
   "website": "https://www.github.developerdan.com/hosts",
-  "description": "A programmatically expanded list of hosts I've found to not be on other lists.",
+  "description": "A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.",
   "source": {
-    "url": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt",
+    "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
     "format": "hosts"
   }
 }
