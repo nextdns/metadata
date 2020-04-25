@@ -135,6 +135,10 @@
     {
       "url": "https://infosec.cert-pa.it/analyze/listdomains.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceFailure": true,
