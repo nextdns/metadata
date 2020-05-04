@@ -113,10 +113,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://azorult-tracker.net/api/list/domain?format=plain",
       "format": "domains"
     },
@@ -142,6 +138,34 @@
     },
     {
       "url": "https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ProPrivacy/covid-19/master/All%20malicious%20domains.csv",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://rescure.fruxlabs.com/covid.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://managedsentinel.com/downloads/covid19_domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://kriskintel.com/ktip_corona.txt",
       "format": "domains"
     }
   ],
