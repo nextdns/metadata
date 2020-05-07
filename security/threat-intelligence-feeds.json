@@ -153,10 +153,6 @@
       "format": "domains"
     },
     {
-      "url": "https://raw.githubusercontent.com/ProPrivacy/covid-19/master/All%20malicious%20domains.csv",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt",
       "format": "domains"
     },
