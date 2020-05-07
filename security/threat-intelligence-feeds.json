@@ -141,6 +141,14 @@
       "format": "domains"
     },
     {
+      "url": "https://kriskintel.com/ktip_domain_blacklist.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://kriskintel.com/ktip_maze.txt",
+      "format": "domains"
+    },
+    {
       "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
       "format": "domains"
     },
