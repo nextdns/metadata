@@ -37,6 +37,7 @@
     "browser.pipe.aria.microsoft.com",
     "*.lenta.ru",
     "*.inc.com",
-    "*.smartsheet.com"
+    "*.smartsheet.com",
+    "get3.adobe.com"
   ]
 }
