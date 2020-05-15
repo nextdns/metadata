@@ -3,7 +3,7 @@
   "website": "https://github.com/EnergizedProtection/block",
   "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. True Lite Blocking.",
   "source": {
-    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/domains.txt",
+    "url": "https://block.energized.pro/spark/formats/domains.txt",
     "format": "domains"
   }
 }
