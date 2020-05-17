@@ -3,7 +3,7 @@
   "website": "https://github.com/EnergizedProtection/block",
   "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. An Extension to Block Regional Annoyances.",
   "source": {
-    "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/domains.txt",
+    "url": "https://block.energized.pro/extensions/regional/formats/domains.txt",
     "format": "domains"
   }
 }
