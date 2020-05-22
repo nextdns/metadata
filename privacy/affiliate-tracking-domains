@@ -69,3 +69,7 @@ online.digital-advisor.com
 link.digitaladvisor.dk
 www.partner-ads.com
 online.adservicemedia.dk
+# support epicgames links in email
+*.link.epicgames.com
+*.cb.sailthru.com
+*.sailthru.com
