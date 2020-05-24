@@ -340,18 +340,23 @@
     "id": "apple",
     "domains": [
       "aaplimg.com",
+      "apple-dns.net",
       "apple.com",
       "apple.com.akadns.net",
       "apple.com.edgekey.net",
-      "apple-dns.net",
+      "apple.com.edgesuite.net",
       "beatsbydre.com",
       "cdn-apple.com",
+      "cdn-apple.com.akadns.net",
+      "darksky.net",
       "ess-apple.com.akadns.net",
+      "gc-apple.com.akadns.net",
+      "gcsis-apple.com.akadns.net",
       "icloud.com",
       "icloud.com.akadns.net",
-      "itunes.com.edgekey.net",
       "itunes-apple.com.akadns.net",
       "itunes-nocookie.com",
+      "itunes.com.edgekey.net",
       "ls-apple.com.akadns.net",
       "ls2-apple.com.akadns.net",
       "ls3-apple.com.akadns.net",
@@ -361,8 +366,7 @@
       "mzstatic.com.edgekey.net",
       "origin-apple.com.akadns.net",
       "push-apple.com.akadns.net",
-      "shazam.com",
-      "darksky.net"
+      "shazam.com"
     ]
   },
   {
