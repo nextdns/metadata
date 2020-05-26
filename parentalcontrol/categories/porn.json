@@ -15,6 +15,10 @@
     {
       "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
       "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
+      "format": "domains"
     }
   ],
   "exclusions": [
