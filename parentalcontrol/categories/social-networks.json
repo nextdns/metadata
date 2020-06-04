@@ -4,5 +4,12 @@
       "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains",
       "format": "domains"
     }
+  ],
+  "exclusions": [
+    "*.telegram.org",
+    "*.whatsapp.com",
+    "*.xx.fbcdn.net",
+    "*.edge-mqtt.facebook.com",
+    "*.graph.facebook.com"
   ]
 }
