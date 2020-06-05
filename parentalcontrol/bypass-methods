@@ -1,6 +1,6 @@
 # Blocked domains (and their subdomains) when enabling Parental Control -> Block Bypass Methods.
 
-# Encrypted DNS providers (DoH/DoT)
+# Encrypted DNS
 1dot1dot1dot1.cloudflare-dns.com
 adblock.mydns.network
 adult-filter-dns.cleanbrowsing.org
@@ -86,12 +86,7 @@ security.cloudflare-dns.com
 security-filter-dns.cleanbrowsing.org
 uw-dns.rubyfish.cn
 
-# Web Proxies
-# Not all of these have been manually checked but all have appeared
-# in free web proxy listings over the last year or so. It's possible
-# that some of these domains have expired. Many of those expired still
-# contain VPN and Proxy links on the landing pages. Web proxies are mostly
-# based on PHProxy and Glype
+# Web proxies
 012proxy.ga
 123-24.eport.gr
 1freeproxy.pw
@@ -361,15 +356,12 @@ zalmos.com
 zend2.com
 zendproxy.com
 
-# Web Proxy Listings
-# Use these to find new listings
+# Web proxies listings
 2ub.top
 getproxi.es
 new-proxy-sites.blogspot.com
 proxy-site.net
 pxaa.com
-
-# Proxy Server Listings and Services
 anonymizer.nntime.com
 free-proxy-list.net
 proxynova.com
@@ -491,7 +483,7 @@ wlvpn.com
 zoogvpn.com
 zpn.im
 
-# VPN Information and Listings
+# VPN listings
 bestvpnrating.com
 downloadvpnfree.com
 instantunblock.com
@@ -503,19 +495,19 @@ vpngorilla.com
 vpnmentor.com
 vpnoverview.com
 
-# Web Browsers with built in VPN or Proxy
+# Web browsers with built-in VPN or proxy
 brave.com
 epicbrowser.com
 opera.com
 tenta.com
 ur-browser.com
 
-#Tor
+# Tor
 onion.ly
 onion.pet
 torproject.org
 
-#Privacy based Live Linux Distros for Anonymous Browsing
+# Privacy-oriented linux distros for anonymous browsing
 dee.su
 digi77.com
 ipredia.org
