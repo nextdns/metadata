@@ -7,14 +7,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
       "format": "hosts"
     },
