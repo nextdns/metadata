@@ -89,10 +89,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://v.firebog.net/hosts/Airelle-hrsk.txt",
       "format": "domains"
     },
