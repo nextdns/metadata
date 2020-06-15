@@ -1,0 +1,9 @@
+{
+  "name": "Dandelion Sprout's Nordic Filters",
+  "website": "https://github.com/DandelionSprout/adfilt",
+  "description": "Targets scams and malware on Norwegian, Danish, and Icelandic sites, as well as some advert and tracking servers.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt",
+    "format": "domains"
+  }
+}
