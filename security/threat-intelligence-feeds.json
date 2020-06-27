@@ -175,6 +175,10 @@
     {
       "url": "https://kriskintel.com/ktip_corona.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://hole.cert.pl/domains/domains.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceFailure": true,
