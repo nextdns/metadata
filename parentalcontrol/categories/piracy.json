@@ -1,7 +1,43 @@
 {
   "sources": [
     {
-      "url": "https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains",
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-audio",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/streaming-video",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez",
       "format": "domains"
     }
   ]
