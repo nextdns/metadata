@@ -1,9 +1,0 @@
-{
-  "name": "Goodbye Ads Ultra",
-  "website": "https://github.com/jerryn70/GoodbyeAds",
-  "description": "Specially Designed for Mobile Ad Protection. Premium protection.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt",
-    "format": "hosts"
-  }
-}
