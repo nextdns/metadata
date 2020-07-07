@@ -149,7 +149,15 @@
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/maze.txt",
+      "url": "https://rescure.fruxlabs.com/malware/maze.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://rescure.fruxlabs.com/malware/ekans.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://rescure.fruxlabs.com/malware/wastedlocker.txt",
       "format": "domains"
     },
     {
