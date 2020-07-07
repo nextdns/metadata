@@ -179,6 +179,10 @@
     {
       "url": "https://hole.cert.pl/domains/domains.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceFailure": true,
