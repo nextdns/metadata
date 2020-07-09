@@ -191,6 +191,10 @@
     {
       "url": "https://data.phishtank.com/data/{PHISHTANK_APP_KEY}/online-valid.csv",
       "format": "phishtank"
+    },
+    {
+      "url": "http://vxvault.net/URL_List.php",
+      "format": "urls"
     }
   ],
   "ignoreSourceFailure": true,
