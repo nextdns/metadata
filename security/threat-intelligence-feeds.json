@@ -81,10 +81,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/2577a3a8474432c49e09169da6fe2cad3f98f09f/MS-2",
-      "format": "domains"
-    },
-    {
       "url": "https://www.botvrij.eu/data/ioclist.domain.raw",
       "format": "domains"
     },
@@ -326,6 +322,7 @@
     "s3.us-west-2.amazonaws.com",
     "send.firefox.com",
     "storage.googleapis.com",
+    "strangled.net",
     "support.textmaster.com",
     "thumbsnap.com"
   ]
