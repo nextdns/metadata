@@ -49,7 +49,11 @@
       "format": "bind"
     },
     {
-      "url": "https://www.joewein.net/dl/bl/dom-bl-base.txt",
+      "url": "https://joewein.net/dl/bl/dom-bl-base.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://joewein.net/dl/bl/dom-bl.txt",
       "format": "domains"
     },
     {
@@ -85,12 +89,12 @@
       "format": "domains"
     },
     {
-      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt",
+      "url": "https://www.botvrij.eu/data/ioclist.hostname.raw",
       "format": "domains"
     },
     {
-      "url": "https://urlhaus.abuse.ch/downloads/hostfile",
-      "format": "hosts"
+      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt",
+      "format": "domains"
     },
     {
       "url": "https://azorult-tracker.net/api/list/domain?format=plain",
