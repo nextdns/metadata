@@ -57,10 +57,6 @@
       "format": "domains"
     },
     {
-      "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
       "format": "domains"
     },
