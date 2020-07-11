@@ -121,3 +121,6 @@ t.dripemail2.com
 link.epicgames.com
 cb.sailthru.com
 sailthru.com
+
+# techcrunch.com redirects to guce.advertising.com then back to techcrunch.com (2020-07-11)
+guce.advertising.com
