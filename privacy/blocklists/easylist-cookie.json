@@ -1,0 +1,9 @@
+{
+  "name": "EasyList",
+  "website": "https://easylist.to",
+  "description": "EasyList Cookie List blocks cookies banners, GDPR overlay windows and other privacy-related notices.",
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylist-cookie.txt",
+    "format": "abp"
+  }
+}
