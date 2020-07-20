@@ -1,6 +1,7 @@
 # Blocked domains (and their subdomains) when enabling Parental Control -> Block Bypass Methods.
 
 # Encrypted DNS
+avira-vpn.com
 1dot1dot1dot1.cloudflare-dns.com
 a.ns.dnslify.com
 adblock.mydns.network
