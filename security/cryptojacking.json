@@ -8,5 +8,8 @@
       "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
       "format": "hosts"
     }
+  ],
+  "exclusions": [
+    "*.thepiratebay.org",
   ]
 }
