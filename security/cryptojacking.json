@@ -10,6 +10,6 @@
     }
   ],
   "exclusions": [
-    "*.thepiratebay.org",
+    "*.thepiratebay.org"
   ]
 }
