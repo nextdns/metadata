@@ -1,0 +1,16 @@
+# domains that would otherwise be caught by the typosquatting protection
+
+boogle.com # google.com
+domino.com # dominos.com
+google.cm # google.com
+googles.com # google.com
+interest.com # pinterest.com
+minterest.com # pinterest.com
+officer.com # office.com
+opple.com # apple.com
+pinterest.co # pinterest.com
+titter.com # twitter.com
+wikimedia.org # wikipedia.org
+witter.com # twitter.com
+youtubez.com # youtube.com
+zaobao.com # taobao.com
