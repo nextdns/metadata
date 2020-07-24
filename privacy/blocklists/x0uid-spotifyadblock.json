@@ -1,0 +1,9 @@
+{
+  "name": "x0uid Spotify Ad Block List",
+  "website": "https://github.com/x0uid/SpotifyAdBlock",
+  "description": "Protect your privacy by blocking all annoying Spotify ads & analytics.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/hosts",
+    "format": "hosts"
+  }
+}
