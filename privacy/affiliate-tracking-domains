@@ -1,5 +1,6 @@
 # Whitelisted domains (and their subdomains) when enabling Privacy -> Allow Affiliate & Tracking Links.
 
+5014.xg4ken.com
 7eer.net
 action.metaffiliation.com
 ad.atdmt.com
@@ -19,6 +20,7 @@ avantlink.com
 be-go.kelkoogroup.net
 bfast.com
 br-go.kelkoogroup.net
+bs.serving-sys.com
 cb.sailthru.com
 cc-dt.com
 ch-go.kelkoogroup.net
@@ -26,11 +28,13 @@ ch0p.darty.com
 cj.com
 cj.dotomi.com
 clck.yandex.ru
+click.cptrack.de
 click.linksynergy.com
 click.mail.macmillan.com
 click.pstmrk.it
 clickserve.cc-dt.com
 clickserve.dartsearch.net
+clk.boulanger.com
 clk.tradedoubler.com
 commander1.com
 commission-junction.com
@@ -67,6 +71,8 @@ link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
 list-manage.com
+mmtro.com
+monitor.clickcease.com
 mx-go.kelkoogroup.net
 nb-go.kelkoogroup.net
 nl-go.kelkoogroup.net
@@ -78,6 +84,7 @@ online.digital-advisor.com
 open.spotify.com
 pagead.l.doubleclick.net # CNAME of www.googleadservices.com
 pepperjamnetwork.com
+pixel.everesttech.net
 pjatr.com
 pjtra.com
 pl-go.kelkoogroup.net
@@ -106,6 +113,7 @@ t.co
 t.dripemail2.com
 t23.intelliad.de
 tag.getdrip.com
+tag.shopping-feed.com
 tags.adsafety.net
 target.georiot.com
 tkqlhce.com
