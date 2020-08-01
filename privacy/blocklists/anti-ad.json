@@ -1,0 +1,9 @@
+{
+  "name": "anti-AD",
+  "website": "https://anti-ad.net/",
+  "description": "anti-AD是目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。",
+  "source": {
+    "url": "https://anti-ad.net/easylist.txt",
+    "format": "abp"
+  }
+}
