@@ -1,5 +1,6 @@
 # domains that would otherwise be caught by the typosquatting protection
 
+apple.co # apple.com
 boogle.com # google.com
 domino.com # dominos.com
 eboy.com # ebay.com
@@ -16,6 +17,7 @@ noke.com # nike.com
 officer.com # office.com
 opple.com # apple.com
 pinterest.co # pinterest.com
+t.umblr.com # tumblr.com
 targit.com # target.com
 titter.com # twitter.com
 videos.com # xvideos.com
