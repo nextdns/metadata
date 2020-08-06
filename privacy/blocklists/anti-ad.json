@@ -1,0 +1,9 @@
+{
+  "name": "anti-AD",
+  "website": "https://github.com/privacy-protection-tools/anti-AD",
+  "description": "anti-AD是目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。",
+  "source": {
+    "url": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
+    "format": "domains"
+  }
+}
