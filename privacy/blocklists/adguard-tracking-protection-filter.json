@@ -5,5 +5,8 @@
   "source": {
     "url": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
     "format": "abp"
-  }
+  },
+  "exclusions": [
+    "cdx.cedexis.net"
+  ]
 }
