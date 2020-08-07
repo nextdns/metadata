@@ -42,6 +42,8 @@ commission-junction.com
 cse3.chausport.com
 ct.sendgrid.net
 cts.businesswire.com
+custom.bnc.lt # CNAME of link.swa.info
+customlinks.appsflyer.com # CNAME of click.snapshat.com
 cz-go.kelkoogroup.net
 dashboard-01.braze.com
 dk-go.kelkoogroup.net
@@ -117,6 +119,7 @@ tag.getdrip.com
 tag.shopping-feed.com
 tags.adsafety.net
 target.georiot.com
+thirdparty.bnc.lt # CNAME of app.sephora.com
 tkqlhce.com
 track.effiliation.com
 track.webgains.com
