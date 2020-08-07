@@ -89,7 +89,7 @@
       "format": "domains"
     },
     {
-      "url": "https://osint.bambenekconsulting.com/feeds/c2-dommasterlist-high.txt",
+      "url": "https://nextdns:{{BAMBENEK_PASSWORD}}@faf.bambenekconsulting.com/feeds/dga/c2-masterlist-high.txt",
       "format": "domains"
     },
     {
@@ -185,7 +185,7 @@
       "format": "urls"
     },
     {
-      "url": "https://data.phishtank.com/data/{PHISHTANK_APP_KEY}/online-valid.csv",
+      "url": "https://data.phishtank.com/data/{{PHISHTANK_APP_KEY}}/online-valid.csv",
       "format": "phishtank"
     },
     {
