@@ -13,6 +13,7 @@ analytics.twitter.com
 anrdoezrs.net
 apiservices.krxd.net
 apmebf.com
+app.adjust.com
 app.getresponse.com
 app.link
 app2.salesmanago.pl
@@ -40,11 +41,14 @@ clk.tradedoubler.com
 commander1.com
 commission-junction.com
 cse3.chausport.com
+ct.impactradius.com # CNAME of goto.jet.com
 ct.sendgrid.net
 cts.businesswire.com
+customtraffic.impactradius.com # CNAME of goto.target.com
 custom.bnc.lt # CNAME of link.swa.info
 customlinks.appsflyer.com # CNAME of click.snapshat.com
 cz-go.kelkoogroup.net
+dart.l.doubleclick.net # CNAME of ad.doubleclick.net
 dashboard-01.braze.com
 dk-go.kelkoogroup.net
 dpbolvw.net
