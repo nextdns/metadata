@@ -1,6 +1,4 @@
 {
-  "name": "NextDNS Recommended Ads & Trackers Blocklist",
-  "description": "A comprehensive blocklist to block ads & trackers in all countries. This is the recommended starter blocklist.",
   "sources": [
     {
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
