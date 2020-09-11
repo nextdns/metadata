@@ -1,0 +1,10 @@
+{
+    "name": "DuckDuckGo Tracker Radar",
+    "website": "https://go.blokada.org/ddgtrackerradar",
+    "description": "Blokada's custom blocklist from the DuckDuckGo Tracker Radar data set.",
+    "source": {
+      "url": "https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt",
+      "format": "domains"
+    }
+  }
+  
