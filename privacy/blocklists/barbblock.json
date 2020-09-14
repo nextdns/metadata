@@ -1,6 +1,6 @@
 {
   "name": "BarbBlock",
-  "website": "https://ssl.bblck.me",
+  "website": "https://paulgb.github.io/BarbBlock",
   "description": "Block sites which have used DMCA takedowns to force removal from other content blocking lists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.",
   "source": {
     "url": "https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt",
