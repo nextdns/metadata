@@ -1,0 +1,9 @@
+{
+  "name": "Sunshine.it YouTube Ads",
+  "website": "https://www.sunshine.it/youtube-videowerbung-deaktivieren-mit-pi-hole-2/",
+  "description": "Sunshine.it list is periodically updated to block YouTube Ads.",
+  "source": {
+    "url": "https://www.sunshine.it/blacklist.txt",
+    "format": "domains"
+  }
+}
