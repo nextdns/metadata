@@ -3,7 +3,7 @@
   "website": "https://github.com/CHEF-KOCH/Spotify-Ad-free",
   "description": "Blocks all Spotify Ads, easy peasy lemon squeezy!",
   "source": {
-    "url": "https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt",
+    "url": "https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/Spotify/Spotify-HOSTS.txt",
     "format": "hosts"
   }
 }
