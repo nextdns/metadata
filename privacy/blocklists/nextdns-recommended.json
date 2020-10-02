@@ -18,18 +18,19 @@
     }
   ],
   "exclusions": [
+    "*.cloud.answerhub.com",
     "*.gov",
-    "s.youtube.com",
-    "app.link",
-    "v10.events.data.microsoft.com",
-    "settings-win.data.microsoft.com",
-    "mobile.pipe.aria.microsoft.com",
-    "browser.pipe.aria.microsoft.com",
-    "*.lenta.ru",
     "*.inc.com",
+    "*.lenta.ru",
     "*.smartsheet.com",
-    "get3.adobe.com",
     "ae01.alicdn.com",
-    "teslarati-com-edge.ntv.io"
+    "app.link",
+    "browser.pipe.aria.microsoft.com",
+    "get3.adobe.com",
+    "mobile.pipe.aria.microsoft.com",
+    "s.youtube.com",
+    "settings-win.data.microsoft.com",
+    "teslarati-com-edge.ntv.io",
+    "v10.events.data.microsoft.com"
   ]
 }
