@@ -3,7 +3,7 @@
   "website": "https://github.com/anudeepND/blacklist",
   "description": "A well-maintained and curated hostfile containing domains that serve ads, tracking scripts and malware. Each domain is tested and verified before addding to the list. Any reported false positives will be addressed as soon as possible.",
   "source": {
-    "url": "https://hosts.anudeep.me/mirror/adservers.txt",
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "format": "hosts"
   }
 }
