@@ -1,9 +1,9 @@
 {
-  "name": "1Hosts (Pro)",
+  "name": "1Hosts (Lite)",
   "website": "https://badmojr.github.io/1Hosts",
   "description": "Protect your 'data' & eyeballs from being auctioned to the highest bidder.",
   "source": {
-    "url": "https://badmojr.github.io/1Hosts/Pro/domains.txt",
+    "url": "https://badmojr.github.io/1Hosts/Lite/domains.txt",
     "format": "domains"
   }
 }
