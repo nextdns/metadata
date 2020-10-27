@@ -121,11 +121,11 @@
       "format": "domains"
     },
     {
-      "url": "https://kriskintel.com/ktip_domain_blacklist.txt",
+      "url": "https://kriskintel.com/feeds/ktip_malicious_domains.txt",
       "format": "domains"
     },
     {
-      "url": "https://kriskintel.com/ktip_maze.txt",
+      "url": "https://kriskintel.com/feeds/ktip_ransomware_feeds.txt",
       "format": "domains"
     },
     {
@@ -165,7 +165,7 @@
       "format": "domains"
     },
     {
-      "url": "https://kriskintel.com/ktip_corona.txt",
+      "url": "https://kriskintel.com/feeds/ktip_covid_domains.txt",
       "format": "domains"
     },
     {
