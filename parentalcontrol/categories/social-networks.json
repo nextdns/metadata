@@ -11,5 +11,9 @@
     "*.xx.fbcdn.net",
     "*.edge-mqtt.facebook.com",
     "*.graph.facebook.com"
+  ],
+  "additions": [
+    "m.facebook.com",
+    "www.facebook.com"
   ]
 }
