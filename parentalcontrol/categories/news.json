@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "url": "https://github.com/olbat/ut1-blacklists/tree/master/blacklists/press",
+      "format": "domains"
+    }
+  ],
+  "exclusions": [],
+  "additions": [
+    "nytimes.com",
+    "washpost.com",
+    "aljazeera.com"
+  ]
+}
