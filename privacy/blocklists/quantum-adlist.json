@@ -1,0 +1,9 @@
+{
+  "name": "Quantum Ad-list",
+  "website": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list",
+  "description": "It is a list containing over 1300000 domains used by ads, trackers, miners, malwares, and much more!",
+  "source": {
+    "url": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt",
+    "format": "hosts"
+  }
+}
