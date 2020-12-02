@@ -129,19 +129,19 @@
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/rescure_domain_blacklist.txt",
+      "url": "https://rescure.me/rescure_domain_blacklist.txt",
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/malware/maze.txt",
+      "url": "https://rescure.me/malware/maze.txt",
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/malware/ekans.txt",
+      "url": "https://rescure.me/malware/ekans.txt",
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/malware/wastedlocker.txt",
+      "url": "https://rescure.me/malware/wastedlocker.txt",
       "format": "domains"
     },
     {
@@ -157,7 +157,7 @@
       "format": "domains"
     },
     {
-      "url": "https://rescure.fruxlabs.com/covid.txt",
+      "url": "https://rescure.me/covid.txt",
       "format": "domains"
     },
     {
