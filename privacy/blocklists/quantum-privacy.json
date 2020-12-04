@@ -1,0 +1,9 @@
+{
+  "name": "Quantum Privacy-list",
+  "website": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list",
+  "description": "Remove tracking from the internet.",
+  "source": {
+    "url": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt",
+    "format": "hosts"
+  }
+}
