@@ -23,6 +23,7 @@ be-go.kelkoogroup.net
 bfast.com
 br-go.kelkoogroup.net
 bs.serving-sys.com
+campaign.adobe.com # CNAME of t.emailing.monoprix.fr
 cb.sailthru.com
 cc-dt.com
 ch-go.kelkoogroup.net
@@ -45,9 +46,9 @@ cse3.chausport.com
 ct.impactradius.com # CNAME of goto.jet.com
 ct.sendgrid.net
 cts.businesswire.com
-customtraffic.impactradius.com # CNAME of goto.target.com
 custom.bnc.lt # CNAME of link.swa.info
 customlinks.appsflyer.com # CNAME of click.snapshat.com
+customtraffic.impactradius.com # CNAME of goto.target.com
 cz-go.kelkoogroup.net
 dart.l.doubleclick.net # CNAME of ad.doubleclick.net
 dashboard-01.braze.com
@@ -108,6 +109,7 @@ pt-go.kelkoogroup.net
 qksrv.net
 r20.rs6.net
 rd.bizrate.com # CNAME of link.sylikes.com
+rebrandlydomain.com # CNAME of go.blokada.org
 redir.tradedoubler.com
 redirect.at
 redirect.viglink.com
