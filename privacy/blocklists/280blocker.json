@@ -3,7 +3,7 @@
   "website": "https://280blocker.net",
   "description": "280blocker adblock domain lists.",
   "source": {
-    "url": "https://280blocker.net/files/280blocker_domain.txt",
+    "url": "https://280blocker.net/files/280blocker_domain_202101.txt",
     "format": "domains"
   }
 }
