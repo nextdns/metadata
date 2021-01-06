@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard Chinese filter",
+  "website": "https://kb.adguard.com/en/general/adguard-ad-filters#chinese-filter",
+  "description": "EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/224.txt",
+    "format": "abp"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard French filter",
+  "website": "https://kb.adguard.com/en/general/adguard-ad-filters#french-filter",
+  "description": "Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+    "format": "abp"
+  }
+}
