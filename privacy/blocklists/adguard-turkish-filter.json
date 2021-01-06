@@ -3,7 +3,7 @@
   "website": "https://kb.adguard.com/general/adguard-ad-filters#turkish-filter",
   "description": "Filter list that specifically removes ads on websites in Turkish language",
   "source": {
-    "url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+    "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt",
     "format": "abp"
   }
 }
