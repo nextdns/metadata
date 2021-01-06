@@ -1,0 +1,9 @@
+{
+  "name": "Turkey TR-PhishingList Blacklists",
+  "website": "https://github.com/HorusTeknoloji/TR-PhishingList",
+  "description": "Blocking Phishing, Malvertising, Malware, CryptoJacking, Spyware, Ransomware, Abuse, Scam, Spam, Hijack and more",
+  "source": {
+    "url": "https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt",
+    "format": "domains"
+  }
+}
