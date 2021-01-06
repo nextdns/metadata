@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard Annoyances filter",
+  "website": "https://kb.adguard.com/en/general/adguard-ad-filters#annoyances-filter",
+  "description": "Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/14.txt",
+    "format": "abp"
+  }
+}
