@@ -9,8 +9,8 @@
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt",
-      "format": "hosts"
+      "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt",
+      "format": "domains"
     },
     {
       "url": "https://mirror1.malwaredomains.com/files/justdomains",
