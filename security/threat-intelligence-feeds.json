@@ -165,10 +165,6 @@
       "format": "domains"
     },
     {
-      "url": "https://kriskintel.com/feeds/ktip_covid_domains.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://hole.cert.pl/domains/domains.txt",
       "format": "domains"
     },
@@ -244,6 +240,7 @@
     "*.pastebin.com",
     "*.pasteboard.co",
     "*.pastelink.net",
+    "*.pkisistemas.com",
     "*.postimg.cc",
     "*.rb.gy",
     "*.rebrand.ly",
