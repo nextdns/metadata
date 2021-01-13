@@ -18,6 +18,9 @@
     "*.gab.com",
     "*.clouthub.com",
     "*.mewe.com",
-    "*.parler.com"
+    "*.parler.com",
+    "*.minds.com",
+    "*.discord.gg",
+    "*.discordapp.com"
   ]
 }
