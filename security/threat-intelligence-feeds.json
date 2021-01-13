@@ -101,10 +101,6 @@
       "format": "domains"
     },
     {
-      "url": "http://phishing.mailscanner.info/phishing.bad.sites.conf",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt",
       "format": "hosts"
     },
