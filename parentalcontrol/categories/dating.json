@@ -6,6 +6,22 @@
     }
   ],
   "additions": [
-    "*.tinder.com"
+    "*.tinder.com",
+    "*.mingle2.com",
+    "*.ourtime.com",
+    "*.luvfree.com",
+    "*.silversingles.com",
+    "*.bumble.com",
+    "*.aimerworld.com",
+    "*.teendatingsite.net",
+    "*.mylol.com",
+    "*.flirtbox.com",
+    "*.flirtbox.co.uk",
+    "*.flirtbox.us",
+    "*.ourteennetwork.com",
+    "*.crush.zone",
+    "*.teens.town",
+    "*.knuddels.de",
+    "*.knuddelscom.de"
   ]
 }
