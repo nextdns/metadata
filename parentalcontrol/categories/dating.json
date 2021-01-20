@@ -5,6 +5,9 @@
       "format": "domains"
     }
   ],
+  "exclusions": [
+    "*.thepiratebay.org"
+  ],
   "additions": [
     "*.tinder.com",
     "*.mingle2.com",
