@@ -301,6 +301,7 @@ eultech.fnac.com
 evyy.net
 fi-go.kelkoogroup.net
 fr-go.kelkoogroup.net
+go.pardot.com # CNAME of goto.algolia.com
 go.redirectingat.com
 go.skimresources.com
 go2jump.org
@@ -310,6 +311,7 @@ guce.advertising.com # techcrunch.com redirects to guce.advertising.com then bac
 hu-go.kelkoogroup.net
 hubspotemail.net
 ie-go.kelkoogroup.net
+image.email.microsoftemail.com
 it-go.kelkoogroup.net
 jdoqocy.com
 k.cocooncenter.com
@@ -332,6 +334,7 @@ online.digital-advisor.com
 open.spotify.com
 pagead.l.doubleclick.net # CNAME of www.googleadservices.com
 pepperjamnetwork.com
+pi.pardot.com # CNAME of go.pardot.com
 pixel.everesttech.net
 pjatr.com
 pjtra.com
