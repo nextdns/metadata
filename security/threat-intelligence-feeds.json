@@ -187,6 +187,10 @@
     {
       "url": "http://vxvault.net/URL_List.php",
       "format": "urls"
+    },
+    {
+      "url": "https://www.usom.gov.tr/url-list.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
