@@ -1,10 +1,6 @@
 {
   "sources": [
     {
-      "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
-      "format": "hosts"
-    },
-    {
       "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts",
       "format": "hosts"
     },
