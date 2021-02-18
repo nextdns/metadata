@@ -13,10 +13,6 @@
       "format": "domains"
     },
     {
-      "url": "https://mirror1.malwaredomains.com/files/justdomains",
-      "format": "domains"
-    },
-    {
       "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt",
       "format": "domains"
     },
