@@ -261,8 +261,10 @@
     "*.zippyshare.com",
     "ams3.digitaloceanspaces.com",
     "bitbucket.org",
+    "ddns.net",
     "files.slack.com",
     "firebasestorage.googleapis.com",
+    "hopto.org",
     "mailchi.mp",
     "mandrillapp.com",
     "nyc3.digitaloceanspaces.com",
@@ -359,6 +361,7 @@
     "simp.ly",
     "sites.google.com",
     "storage.googleapis.com",
+    "sytes.net",
     "weebly.com",
     "zapto.org"
   ]
