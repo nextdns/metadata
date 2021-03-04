@@ -1,10 +1,6 @@
 {
   "sources": [
     {
-      "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/porn",
-      "format": "hosts"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts",
       "format": "hosts"
     },
@@ -14,6 +10,10 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/porn",
       "format": "hosts"
     }
   ],
@@ -55,12 +55,12 @@
     "sextube.com",
     "skipthegames.com",
     "sukebei.nyaa.net",
-    "teen-xxx-videos.net",
     "teen18pussy.com",
     "teenafterteen.com",
     "teenfreshporn.com",
     "teenliketube.com",
     "teenlovestube.com",
+    "teen-xxx-videos.net",
     "viptube.com",
     "vptpsn.com",
     "whynotbi.com",
