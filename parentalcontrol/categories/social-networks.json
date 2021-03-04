@@ -6,11 +6,11 @@
     }
   ],
   "exclusions": [
+    "*.edge-mqtt.facebook.com",
+    "*.graph.facebook.com"
     "*.telegram.org",
     "*.whatsapp.com",
     "*.xx.fbcdn.net",
-    "*.edge-mqtt.facebook.com",
-    "*.graph.facebook.com"
   ],
   "additions": [
     "m.facebook.com",
