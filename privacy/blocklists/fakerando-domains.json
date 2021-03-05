@@ -1,5 +1,5 @@
 {
-  "name": "fakerando-domains",
+  "name": "Fakerando Domain Blocklist",
   "website": "https://github.com/SoftCreatR/fakerando-domains",
   "description": "Contains a list of domains of so-called \"shadow websites\", created by Takeaway.com / Lieferando (DACH) / Eat.ch / Thuisbezorgd.nl. Their purpose is to \"mimic\" the original restaurant's website to steal their customers or at least, gain from their orders.",
   "source": {
