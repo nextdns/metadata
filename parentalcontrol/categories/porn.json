@@ -13,11 +13,20 @@
       "format": "hosts"
     },
     {
+      "url" : "https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt",
+      "format" : "hosts"
+    },
+    {
+      "url" : "https://raw.githubusercontent.com/Import-External-Sources/pornhosts/master/submit_here/hosts.txt",
+      "format" : "hosts"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
       "format": "hosts"
     }
   ],
   "exclusions": [
+    "*.apple.com",
     "*.anonym.to",
     "*.applovin.com",
     "*.applovn.com",
@@ -26,6 +35,7 @@
     "*.dickssportinggoods.com",
     "*.fastpic.ru",
     "*.findicons.com",
+    "*.imgur.com",
     "*.jwpcdn.com",
     "*.meltwater.com",
     "*.menshealth.com",
