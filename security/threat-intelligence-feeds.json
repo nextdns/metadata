@@ -187,7 +187,191 @@
     {
       "url": "https://www.usom.gov.tr/url-list.txt",
       "format": "domains"
-    }
+    },
+	{
+	  "url": "https://data.netlab.360.com/feeds/dga/bamital.txt"
+	  "format": "domains"
+	},
+    { 
+	  "url": "https://data.netlab.360.com/feeds/dga/banjori.txt"
+	  "format": "domains"
+	},
+    { 
+	  "url": "https://data.netlab.360.com/feeds/dga/bigviktor.txt
+      "format": "domains"
+	},
+    { 
+	  "url": "https://data.netlab.360.com/feeds/dga/blackhole.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/ccleaner.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/chinad.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/conficker.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/cryptolocker.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/dircrypt.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/dyre.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/emotet.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/enviserv.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/feodo.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/fobber.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/gameover.txt
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/gspy.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/locky.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/madmax.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/matsnu.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/murofet.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/mydoom.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/necro.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/necurs.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/ngioweb.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/nymaim.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/omexo.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/padcrypt.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/proslikefan.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/pykspa.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/qadars.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/ramnit.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/ranbyus.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/rovnix.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/shifu.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/shiotob.txt"
+	  "format": "domains"
+	},  
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/simda.txt"
+	  "format": "domains"
+    },
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/suppobox.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/symmi.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/tempedreve.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/tinba.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/tinynuke.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/tofsee.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/vawtrak.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/vidro.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/virut.txt"
+	  "format": "domains"
+	},
+	{ 
+	  "url": "https://data.netlab.360.com/feeds/dga/xshellghost.txt"
+	  "format": "domains"
+	}
   ],
   "ignoreSourceError": true,
   "exclusions": [
