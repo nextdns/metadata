@@ -45,10 +45,6 @@
       "format": "domains"
     },
     {
-      "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
       "format": "domains"
     },
