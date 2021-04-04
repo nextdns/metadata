@@ -1,0 +1,9 @@
+{
+  "name": "ADP Filters",
+  "website": "https://github.com/abp-filters/abp-filters-anti-cv",
+  "description": "Adblock Plus (ABP) filter list to fight circumvention ads.",
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt",
+    "format": "abp"
+  }
+}
