@@ -1,0 +1,9 @@
+{
+  "name": "GoodbyeAds YouTube Adblock",
+  "website": "https://github.com/jerryn70/GoodbyeAds",
+  "description": "Special List to block YouTube Ads,Trackers & Analytics.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt",
+    "format": "hosts"
+  }
+}
