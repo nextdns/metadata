@@ -246,6 +246,7 @@ adservice.google.xn--mxtq1m
 adservice.google.xn--ngbrx
 adservice.google.xn--node
 affiliatefuture.com
+alb.reddit.com
 amazon-adsystem.com
 analytics.twitter.com
 anrdoezrs.net
@@ -270,11 +271,21 @@ cj.com
 cj.dotomi.com
 clck.yandex.ru
 click.cptrack.de
+click.email.sonos.com
 click.linksynergy.com
 click.mail.macmillan.com
+click.member.americanexpress.com
 click.pstmrk.it
 click.redditmail.com
 click.virt.s10.exacttarget.com
+click.virt.s10.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s11.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s12.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s4.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s5.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s6.exacttarget.com # Click link CNAME for salesforce marketing cloud
+click.virt.s7.exacttarget.com # Click link CNAME for salesforce marketing cloud
+clickcash.onelink.me
 clickserve.cc-dt.com
 clickserve.dartsearch.net
 clk.boulanger.com
@@ -296,6 +307,8 @@ dpbolvw.net
 ea.galerieslafayette.com
 el2.convertkit-mail.com
 email-tracking.infobip.com
+email.docker.com
+email.uber.com
 emjcd.com
 es-go.kelkoogroup.net
 eulerian.brandalley.fr
@@ -303,6 +316,10 @@ eultech.fnac.com
 evyy.net
 fi-go.kelkoogroup.net
 fr-go.kelkoogroup.net
+go.microsoft.com
+go.nordlocker.net
+go.nordvpn.net
+go.onelink.me
 go.pardot.com # CNAME of goto.algolia.com
 go.redirectingat.com
 go.skimresources.com
@@ -310,6 +327,8 @@ go2jump.org
 gopjn.com
 gr-go.kelkoogroup.net
 guce.advertising.com # techcrunch.com redirects to guce.advertising.com then back to techcrunch.com (2020-07-11)
+href.li
+hs.eloqua.com # Oracle Eloqua landing page CNAME target
 hu-go.kelkoogroup.net
 hubspotemail.net
 ie-go.kelkoogroup.net
@@ -321,7 +340,15 @@ kqzyfj.com
 link.digitaladvisor.dk
 link.epicgames.com
 link.freshmail.mx
+link.springer.com
+links.mkt41.net # Click link CNAME for acoustic marketing platform
+links.mkt51.net # Click link CNAME for acoustic marketing platform
+links.mkt61.net # Click link CNAME for acoustic marketing platform
+links.mkt71.net # Click link CNAME for acoustic marketing platform
+links.mkt81.net # Click link CNAME for acoustic marketing platform
+links.mkt91.net # Click link CNAME for acoustic marketing platform
 list-manage.com
+mktoweb.com # Adobe MarkeTo landing page CNAME target
 mmtro.com
 monitor.clickcease.com
 mx-go.kelkoogroup.net
@@ -361,6 +388,10 @@ s.click.aliexpress.com
 sailthru.com
 se-go.kelkoogroup.net
 shareasale.com
+sites.hscoscdn10.net # Click link CNAME for hubspot marketing platform
+sites.hscoscdn20.net # Click link CNAME for hubspot marketing platform
+sites.hscoscdn30.net # Click link CNAME for hubspot marketing platform
+sites.hscoscdn40.net # Click link CNAME for hubspot marketing platform
 sk-go.kelkoogroup.net
 solutions.tradedoubler.com
 suite15.emarsys.net # CNAME of link.wizzair.com
@@ -372,6 +403,7 @@ t23.intelliad.de
 tag.getdrip.com
 tag.shopping-feed.com
 tags.adsafety.net
+tags.news.com.au
 target.georiot.com
 thirdparty.bnc.lt # CNAME of app.sephora.com
 tkqlhce.com
