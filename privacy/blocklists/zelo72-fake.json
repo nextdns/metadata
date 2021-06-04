@@ -1,0 +1,9 @@
+{
+  "name": "Zelos Fake Blocklist (DACH)",
+  "website": "https://github.com/Zelo72/adguard",
+  "description": "Blocks fake stores, fake streaming, rip-offs and co. Based on various consumer sites, warnings and other fake lists. Optimized for Germany/Austria/Switzerland (DACH).",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Zelo72/adguard/main/fake.adblock",
+    "format": "abp"
+  }
+}
