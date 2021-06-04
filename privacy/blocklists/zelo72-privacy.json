@@ -1,0 +1,9 @@
+{
+  "name": "Zelos Privacy Blocklist (DACH)",
+  "website": "https://github.com/Zelo72/adguard",
+  "description": "Blocks telemetry & metrics from devices, services and systems of various vendors.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Zelo72/adguard/main/privacy.adblock",
+    "format": "abp"
+  }
+}
