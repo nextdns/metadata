@@ -1,0 +1,9 @@
+{
+  "name": "Zelos Multi Blocklist (DACH)",
+  "website": "https://github.com/Zelo72/adguard",
+  "description": "Blocks advertising, tracking, phishing, malware, scam, coins and other crap from the inet. An all-in-one filter list that does not block any mandatory functions - no strict blocking. Dead hosts (hosts addresses that no longer exist) have been removed from this list.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Zelo72/adguard/main/multi.adblock",
+    "format": "abp"
+  }
+}
