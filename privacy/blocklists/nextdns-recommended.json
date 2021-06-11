@@ -9,10 +9,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
-      "format": "hosts"
-    },
-    {
       "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads",
       "format": "hosts"
     }
