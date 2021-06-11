@@ -187,6 +187,10 @@
     {
       "url": "https://www.usom.gov.tr/url-list.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
