@@ -1,6 +1,7 @@
+'#'$_'*".;:-_!?={}\/@&+(),<>%~`|
 GetMetadataStructure
 Test
-The test form is only available for requests from the local machine.
+The test form is only available 'for 'requests from the local machine.
 SOAP 1.1
 The following is a sample SOAP 1.1 request and response. 
 The placeholders shown need to be replaced with actual values.
