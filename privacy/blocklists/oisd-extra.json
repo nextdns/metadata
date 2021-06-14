@@ -1,0 +1,9 @@
+{
+  "name": "oisd (extra)",
+  "website": "https://oisd.nl",
+  "description": "Internet's #1 domain blocklist. Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploid, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
+  "source": {
+    "url": "https://dblw.oisd.nl/extra/",     
+    "format": "domains"
+  }       
+}
