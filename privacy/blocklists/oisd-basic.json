@@ -1,0 +1,9 @@
+{
+  "name": "oisd basic",
+  "website": "https://oisd.nl",
+  "description": "Primarily blocks Ads, (Mobile) App Ads.",
+  "source": {
+    "url": "https://dblw.oisd.nl/basic/",
+    "format": "domains"
+  }
+}
