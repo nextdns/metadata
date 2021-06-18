@@ -1,0 +1,9 @@
+{
+  "name": "oisd extra",
+  "website": "https://oisd.nl",
+  "description": "This contains controversial domains (2o7.net, doubleclick.net, google-analytics.com, googleadservices.com, amazon-adsystem.com, etc. (Extra = Basically the domains that are on the default Pi-hole and Adguard Home lists that are excluded from the oisd list because they are known to cause problems when blocked.)",
+  "source": {
+    "url": "https://dblw.oisd.nl/extra/",
+    "format": "domains"
+  }
+}
