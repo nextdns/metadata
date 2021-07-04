@@ -1,0 +1,9 @@
+{
+  "name": "Quantum Abuse-List",
+  "website": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list",
+  "description": "AI generated ad-list.",
+  "source": {
+    "url": "https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt",
+    "format": "hosts"
+  }
+}
