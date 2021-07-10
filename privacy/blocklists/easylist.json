@@ -5,5 +5,8 @@
   "source": {
     "url": "https://easylist.to/easylist/easylist.txt",
     "format": "abp"
-  }
+  },
+  "exclusions": [
+    "*.shortpixel.ai"
+  ]
 }
