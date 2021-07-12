@@ -1,0 +1,9 @@
+{
+  "name": "Hello, Goodbye",
+  "website": "https://github.com/bcye/Hello-Goodbye",
+  "description": "Blocks annoying chat widgets.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/pihole.txt",
+    "format": "domains"
+  }
+}
