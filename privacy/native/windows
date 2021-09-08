@@ -20,7 +20,6 @@ corp.sts.microsoft.com
 diagnostics.support.microsoft.com
 i1.services.social.microsoft.com
 cache.datamart.windows.com
-diagnostics.support.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
 
@@ -106,7 +105,6 @@ by3301-e.1drv.com
 c.atdmt.com
 c.msn.com
 ca.telemetry.microsoft.com
-cache.datamart.windows.com
 cdn.atdmt.com
 cds10.stn.llnw.net
 cds1203.lon.llnw.net
@@ -215,7 +213,6 @@ ch3301-g.1drv.com
 ch3302-c.1drv.com
 ch3302-e.1drv.com
 compatexchange1.trafficmanager.net
-corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
 cy2.vortex.data.microsoft.com.akadns.net
@@ -225,7 +222,6 @@ db5.settings-win.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 db5-eap.settings-win.data.microsoft.com.akadns.net
 df.telemetry.microsoft.com
-diagnostics.support.microsoft.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ec.atdmt.com
@@ -348,19 +344,16 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nw-umwatson.events.data.microsoft.com
 oca.telemetry.microsoft.com
-onecollector.cloudapp.aria.akadns.net
 par02p.wns.windows.com
 pre.footprintpredict.com
 preview.msn.com
 rad.live.com
 rad.msn.com
-redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 schemas.microsoft.akadns.net
 secure.adnxs.com
 secure.flashtalking.com
 services.wes.df.telemetry.microsoft.com
-settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 settings.data.glbdns2.microsoft.com
 settingsfd-geo.trafficmanager.net
@@ -368,8 +361,6 @@ sg2p.wns.windows.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
 sn3301-g.1drv.com
-spynet2.microsoft.com
-spynetalt.microsoft.com
 spyneteurope.microsoft.akadns.net
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
@@ -378,10 +369,7 @@ ssw.live.com
 survey.watson.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
-telemetry.appex.bing.net
-telemetry.microsoft.com
 telemetry.remoteapp.windowsazure.com
-telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
 umwatsonc.events.data.microsoft.com
@@ -389,10 +377,7 @@ v10.vortex-win.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v20.vortex-win.data.microsoft.com
 view.atdmt.com
-vortex-sandbox.data.microsoft.com
 vortex.data.glbdns2.microsoft.com
-vortex.data.microsoft.com
-watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
@@ -483,7 +468,6 @@ by3301-e.1drv.com
 c.atdmt.com
 c.msn.com
 ca.telemetry.microsoft.com
-cache.datamart.windows.com
 cdn.atdmt.com
 cds10.stn.llnw.net
 cds1203.lon.llnw.net
@@ -592,7 +576,6 @@ ch3301-g.1drv.com
 ch3302-c.1drv.com
 ch3302-e.1drv.com
 compatexchange1.trafficmanager.net
-corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cs1.wpc.v0cdn.net
 cy2.vortex.data.microsoft.com.akadns.net
@@ -602,7 +585,6 @@ db5.settings-win.data.microsoft.com.akadns.net
 db5.vortex.data.microsoft.com.akadns.net
 db5-eap.settings-win.data.microsoft.com.akadns.net
 df.telemetry.microsoft.com
-diagnostics.support.microsoft.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 ec.atdmt.com
@@ -725,19 +707,16 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nw-umwatson.events.data.microsoft.com
 oca.telemetry.microsoft.com
-onecollector.cloudapp.aria.akadns.net
 par02p.wns.windows.com
 pre.footprintpredict.com
 preview.msn.com
 rad.live.com
 rad.msn.com
-redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 schemas.microsoft.akadns.net
 secure.adnxs.com
 secure.flashtalking.com
 services.wes.df.telemetry.microsoft.com
-settings-sandbox.data.microsoft.com
 settings-win-ppe.data.microsoft.com
 settings.data.glbdns2.microsoft.com
 settingsfd-geo.trafficmanager.net
@@ -745,8 +724,6 @@ sg2p.wns.windows.com
 sn3301-c.1drv.com
 sn3301-e.1drv.com
 sn3301-g.1drv.com
-spynet2.microsoft.com
-spynetalt.microsoft.com
 spyneteurope.microsoft.akadns.net
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
@@ -755,10 +732,7 @@ ssw.live.com
 survey.watson.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
-telemetry.appex.bing.net
-telemetry.microsoft.com
 telemetry.remoteapp.windowsazure.com
-telemetry.urs.microsoft.com
 teredo.ipv6.microsoft.com
 test.activity.windows.com
 umwatsonc.events.data.microsoft.com
@@ -766,11 +740,8 @@ v10.vortex-win.data.microsoft.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v20.vortex-win.data.microsoft.com
 view.atdmt.com
-vortex-sandbox.data.microsoft.com
 vortex.data.glbdns2.microsoft.com
 vortex.data.microsoft.com
-watson.live.com
-watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 web.vortex.data.microsoft.com
