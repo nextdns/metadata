@@ -1,7 +1,8 @@
 # Blocked domains (and their subdomains) when enabling Parental Control -> Block Bypass Methods.
 
-# Apple Private Relay
+# Apple Private Relay (https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay)
 mask.icloud.com
+mask-h2.icloud.com
 
 # Encrypted DNS
 1dot1dot1dot1.cloudflare-dns.com
