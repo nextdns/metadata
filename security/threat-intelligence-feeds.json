@@ -195,6 +195,10 @@
     {
       "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt",
       "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nextdns/microsoft-autodiscover-bug-blocklist/master/domains.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
