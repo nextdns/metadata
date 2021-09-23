@@ -197,8 +197,8 @@
       "format": "domains"
     },
     {
-      "url": "https://raw.githubusercontent.com/nextdns/microsoft-autodiscover-bug-blocklist/master/domains.txt",
-      "format": "domains"
+      "url": "https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt",
+      "format": "hosts"
     }
   ],
   "ignoreSourceError": true,
