@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard Dutch filter",
+  "website": "https://kb.adguard.com/general/adguard-ad-filters#dutch-filter",
+  "description": "Filter that enables removing of the ads from websites in Dutch.",
+  "source": {
+    "url": "https://filters.adtidy.org/extension/chromium/filters/8.txt",
+    "format": "abp"
+  }
+}
