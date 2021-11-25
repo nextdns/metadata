@@ -1,0 +1,9 @@
+{
+  "name": "AdsBlockThailand",
+  "website": "https://github.com/Faelayis/AdBlock-Thai-Filters",
+  "description": "Adblock filter for Thailand",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/nextdns/abp.txt",
+    "format": "abp"
+  }
+}
