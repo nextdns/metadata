@@ -1,4 +1,8 @@
 data.alexa.com
-
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
+alexa-smart-nudge.amazon.in
+alexa.a2z.com
+mshop-configs.shopping.alexa.a2z.com
+aws.a2z.com
+redirect.prod.experiment.routing.cloudfront.aws.a2z.com
