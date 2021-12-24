@@ -199,6 +199,10 @@
     {
       "url": "https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt",
       "format": "hosts"
+    },
+    {
+      "url": "https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
