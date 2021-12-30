@@ -29,10 +29,6 @@
       "format": "domains"
     },
     {
-      "url": "https://isc.sans.edu/feeds/suspiciousdomains_High.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
       "format": "hosts"
     },
