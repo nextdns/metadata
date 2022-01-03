@@ -5,7 +5,10 @@
       "format": "hosts"
     },
     {
+      "name": "Porn Hosts",
+      "website": "https://mypdns.org/my-privacy-dns/porn-records",
       "url": "https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts",
+      "description": "Curated and well-maintained hostfile to stop porn by My PRivacy DNS's Porn Records. Updated almost daily",
       "format": "hosts"
     },
     {
@@ -46,26 +49,6 @@
     "*.zaobao.com.sg"
   ],
   "additions": [
-    "awemdia.com",
-    "babes.com",
-    "hotgaylist.com",
-    "niceteentubes.com",
-    "peeperz.com",
-    "playboytv.com",
-    "porniq.com",
-    "pornlaser.com",
-    "sextube.com",
-    "skipthegames.com",
-    "sukebei.nyaa.net",
-    "teen-xxx-videos.net",
-    "teen18pussy.com",
-    "teenafterteen.com",
-    "teenfreshporn.com",
-    "teenliketube.com",
-    "teenlovestube.com",
-    "viptube.com",
-    "vptpsn.com",
-    "whynotbi.com",
-    "xhcdn.com"
+    
   ]
 }
