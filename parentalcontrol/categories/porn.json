@@ -5,10 +5,6 @@
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts",
-      "format": "hosts"
-    },
-    {
       "url": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
       "format": "hosts"
     },
