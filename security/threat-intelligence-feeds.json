@@ -1,19 +1,15 @@
 {
   "sources": [
     {
-      "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
+      "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts",
+      "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt",
+      "url": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt",
       "format": "domains"
     },
     {
@@ -25,11 +21,7 @@
       "format": "domains"
     },
     {
-      "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://isc.sans.edu/feeds/suspiciousdomains_High.txt",
+      "url": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt",
       "format": "domains"
     },
     {
@@ -53,14 +45,6 @@
       "format": "domains"
     },
     {
-      "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
       "format": "domains"
     },
@@ -69,7 +53,7 @@
       "format": "domains"
     },
     {
-      "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains",
+      "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains.original",
       "format": "domains"
     },
     {
@@ -85,7 +69,7 @@
       "format": "domains"
     },
     {
-      "url": "https://nextdns:{{BAMBENEK_PASSWORD}}@faf.bambenekconsulting.com/feeds/dga/c2-masterlist-high.txt",
+      "url": "https://faf.bambenekconsulting.com/feeds/dga-feed-high.txt",
       "format": "domains"
     },
     {
@@ -125,35 +109,7 @@
       "format": "domains"
     },
     {
-      "url": "https://rescure.me/malware/maze.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/malware/ekans.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/malware/wastedlocker.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/covid.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://managedsentinel.com/downloads/covid19_domains.txt",
       "format": "domains"
     },
     {
@@ -189,11 +145,31 @@
       "format": "domains"
     },
     {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/IcedID/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA505/domains.txt",
+      "format": "domains"
+    },
+    {
       "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt",
       "format": "domains"
     },
     {
       "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt",
       "format": "domains"
     },
     {
@@ -203,6 +179,14 @@
     {
       "url": "https://threatfox.abuse.ch/downloads/hostfile",
       "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://securereload.tech/Phishing/Lists/Latest",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
@@ -278,7 +262,6 @@
     "ams3.digitaloceanspaces.com",
     "bitbucket.org",
     "ddns.net",
-    "dl.dropboxusercontent.com",
     "files.slack.com",
     "firebasestorage.googleapis.com",
     "hopto.org",
