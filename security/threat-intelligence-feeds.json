@@ -199,6 +199,10 @@
     {
       "url": "https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt",
       "format": "hosts"
+    },
+    {
+      "url": "https://threatfox.abuse.ch/downloads/hostfile",
+      "format": "hosts"
     }
   ],
   "ignoreSourceError": true,
