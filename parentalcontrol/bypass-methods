@@ -3,6 +3,9 @@
 # Apple Private Relay (https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay)
 mask.icloud.com
 mask-h2.icloud.com
+mask-api.fe.apple-dns.net
+mask.apple-dns.net
+mask-t.apple-dns.net
 
 # Encrypted DNS
 1dot1dot1dot1.cloudflare-dns.com
@@ -93,6 +96,7 @@ doh.cox.net
 doh.crypto.sx
 doh.defaultroutes.de
 doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
 doh.dns.sb
 doh.dnslify.com
 doh.eastus.pi-dns.com
