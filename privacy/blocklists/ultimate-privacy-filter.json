@@ -1,0 +1,9 @@
+{
+  "name": "Ultimate Privacy Filter",
+  "website": "https://easylist.to",
+  "description": "Blocks an extensive list of various online trackers, counters and web analytics tools. Based on the EasyList Privacy list and upgraded by our team.",
+  "source": {
+    "url": "https://filters.adavoid.org/ultimate-privacy-filter.txt",
+    "format": "abp"
+  }
+}
