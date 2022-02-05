@@ -3,6 +3,7 @@
 # Apple Private Relay (https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay)
 mask.icloud.com
 mask-h2.icloud.com
+mask-api.icloud.com
 mask-api.fe.apple-dns.net
 mask.apple-dns.net
 mask-t.apple-dns.net
