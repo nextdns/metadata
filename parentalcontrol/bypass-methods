@@ -5,6 +5,7 @@ mask.icloud.com
 mask-h2.icloud.com
 
 # Encrypted DNS
+doh.umbrella.com
 1dot1dot1dot1.cloudflare-dns.com
 8888.google
 a.ns.dnslify.com
