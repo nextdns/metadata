@@ -187,6 +187,14 @@
     {
       "url": "https://securereload.tech/Phishing/Lists/Latest",
       "format": "domains"
+    },
+    {
+      "url": "https://phishunt.io/feed.txt",
+      "format": "urls"
+    },
+    {
+      "url": "https://phishstats.info/phish_score.csv",
+      "format": "phishstats:1+"
     }
   ],
   "ignoreSourceError": true,
