@@ -1,5 +1,9 @@
 {
   "sources": [
+   {
+      "url": "https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt",
+      "format": "hosts"
+    },
     {
       "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
       "format": "hosts"
