@@ -1,0 +1,9 @@
+{
+  "name": "YouTube ADs PI-Hole",
+  "website": "https://github.com/kboghdady/youTube_ads_4_pi-hole",
+  "description": "Block a large amount of YouTube Video ADs",
+  "source": {
+    "url": "https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt",
+    "format": "domains"
+  }
+}
