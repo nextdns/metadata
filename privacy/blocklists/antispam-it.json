@@ -1,0 +1,9 @@
+{
+  "name": "antispam-IT",
+  "website": "https://github.com/marco-acorte/antispam-it",
+  "description": "Strictly blocks advertisements networks, malwares, spams, statistics & trackers included in phishing/malware/spam campaign harassing poor italian (domain.it) mailboxes. Manually verified, and is updated regularly.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt",
+    "format": "domains"
+  }
+}
