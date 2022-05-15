@@ -1,0 +1,9 @@
+{
+  "name": "content-blocker",
+  "website": "https://github.com/complexorganizations/content-blocker",
+  "description": "Advertisement, Tracking, Malware, Phishing.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/complexorganizations/content-blocker/main/assets/hosts",
+    "format": "domains"
+  }
+}
