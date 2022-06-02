@@ -1,0 +1,9 @@
+{
+  "name": "AdRules DNS List",
+  "website": "https://github.com/Cats-Team/AdRules",
+  "description": "基于中文区的去广告规则",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt",
+    "format": "abp"
+  }
+}
