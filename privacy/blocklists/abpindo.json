@@ -3,7 +3,7 @@
   "website": "https://github.com/ABPindo/indonesianadblockrules",
   "description": "ABPindo is an affiliated filter list written by hermawan that specifically removes adverts on Indonesian language websites.",
   "source": {
-    "url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
-    "format": "abp"
+    "url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt",
+    "format": "domains"
   }
 }
