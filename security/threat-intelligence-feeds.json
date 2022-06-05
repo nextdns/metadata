@@ -134,6 +134,10 @@
     },
     {
       "url": "https://data.phishtank.com/data/{{PHISHTANK_APP_KEY}}/online-valid.csv",
+      "headers": {
+        "user-agent": "phishtank/nextdns"
+      },
+      "headPrecheck": true,
       "format": "phishtank"
     },
     {
