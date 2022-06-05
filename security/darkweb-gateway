@@ -1,3 +1,7 @@
 # Blocking Tor2Web service
 
 *.onion.*
+
+# Blocking I2P inproxy
+
+*.i2p.*
