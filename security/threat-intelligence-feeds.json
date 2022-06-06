@@ -209,7 +209,7 @@
     "bin-hostnames",
     "bin-domains",
     "ddns",
-    "cisco-10k"
+    "cisco-100k"
   ],
   "exclusions": [
     "*.0rz.tw",
