@@ -206,6 +206,7 @@
     "iana-tlds",
     "public-suffixes",
     "url-shorteners",
+    "bin-hostnames",
     "bin-domains",
     "ddns",
     "cisco-10k"
