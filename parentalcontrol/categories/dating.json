@@ -5,7 +5,10 @@
       "format": "domains"
     }
   ],
-  "additions": [
-    "*.tinder.com"
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-domains",
+    "ddns"
   ]
 }

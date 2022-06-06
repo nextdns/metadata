@@ -9,6 +9,12 @@
       "format": "hosts"
     }
   ],
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-domains",
+    "ddns"
+  ],
   "exclusions": [
     "*.thepiratebay.org"
   ]

@@ -40,5 +40,11 @@
       "url": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez",
       "format": "domains"
     }
+  ],
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-domains",
+    "ddns"
   ]
 }
