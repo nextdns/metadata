@@ -43,8 +43,6 @@
   ],
   "sanitizers": [
     "iana-tlds",
-    "url-shorteners",
-    "bin-domains",
-    "ddns"
+    "url-shorteners"
   ]
 }
