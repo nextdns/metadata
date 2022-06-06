@@ -1,7 +1,6 @@
 # "bin" domains are domains hosting user uploaded content without namespacing on a subdomain for each user.
 
 1drv.ms
-backblazeb2.com
 cl.ly
 cloud.ovh.net
 cdn.discordapp.com
@@ -21,7 +20,7 @@ googleusercontent.com
 imagebam.com
 imagehosting.biz
 imgbox.com
-i.imgur.com
+imgur.com
 jsdelivr.net
 mediafire.com
 mega.nz
@@ -39,9 +38,7 @@ wetransfer.com
 wixstatic.com
 zdusercontent.com
 zippyshare.com
-digitaloceanspaces.com
 bitbucket.org
 files.slack.com
 firebasestorage.googleapis.com
 sites.google.com
-storage.googleapis.com
