@@ -1,6 +1,8 @@
 # "bin" hostnames are hostnames hosting user uploaded content but with some sort of subdomain-namespacing per user as well.
 
 storage.googleapis.com
+dl.dropboxusercontent.com
+files.1drv.com
 
 # digitaloceanspaces.com
 ams3.digitaloceanspaces.com
