@@ -1,0 +1,52 @@
+# Dynamic DNS hostnames that are children of DDNS suffixes but are not attributed to users.
+
+# https://www.duckdns.org
+duckdns.org
+www.duckdns.org
+
+# https://www.noip.com
+no-ip.com
+www.no-ip.com
+dynupdate.no-ip.com
+ipcast1.dynupdate.no-ip.com
+ip1.dynupdate.no-ip.com
+ip2.dynupdate.no-ip.com
+
+# https://www.dynu.com/DynamicDNS
+dynu.com
+www.dynu.com
+api.dynu.com
+checkip.dynu.com
+ipcheck.dynu.com
+ipcheckv6.dynu.com
+ipcheckudp.dynu.com
+
+# http://autoipset.com
+autoipset.com
+www.autoipset.com
+
+# https://dyndns.dk
+dyndns.dk
+www.dyndns.dk
+
+# https://nodns.ca
+nodns.ca
+www.nodns.ca
+
+# https://freedns.afraid.org
+afraid.org
+freedns.afraid.org
+sync.afraid.org
+v6.sync.afraid.org
+
+# https://www.nsupdate.info
+nsupdate.info
+www.nsupdate.info
+
+# https://free-ddns.com
+free-ddns.com
+www.free-ddns.com
+
+# https://freemyip.com
+freemyip.com
+www.freemyip.com
