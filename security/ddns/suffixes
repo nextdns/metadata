@@ -632,6 +632,7 @@ webok.net
 
 # https://www.nsupdate.info
 nsupdate.info
+nerdpol.ovh
 
 # https://free-ddns.com
 free-ddns.com
@@ -691,6 +692,21 @@ scieron.com
 slyip.com
 slyip.net
 suroot.com
+
+# https://www.twodns.de
+dd-dns.de
+diskstation.eu
+diskstation.org
+dray-dns.de
+draydns.de
+dyn-vpn.de
+dynvpn.de
+mein-vigor.de
+my-vigor.de
+my-wan.de
+syno-ds.de
+synology-diskstation.de
+synology-ds.de
 
 # https://freedns.afraid.org
 # see also https://freedns.afraid.org/domain/registry
@@ -795,3 +811,6 @@ ivi.pl
 wiki.gd
 airlinemeals.net
 h0stname.net
+
+# others
+dvrlists.com
