@@ -1,9 +1,9 @@
 # "bin" hostnames are hostnames hosting user uploaded content but with some sort of subdomain-namespacing per user as well.
 
-storage.googleapis.com
+dl.dropbox.com
 dl.dropboxusercontent.com
 files.1drv.com
-codeberg.org
+storage.googleapis.com
 
 # digitaloceanspaces.com
 ams3.digitaloceanspaces.com
@@ -14,11 +14,6 @@ sfo3.digitaloceanspaces.com
 sgp1.digitaloceanspaces.com
 
 # backblazeb2.com
-f000.backblazeb2.com
-f001.backblazeb2.com
-f002.backblazeb2.com
-f003.backblazeb2.com
-f004.backblazeb2.com
 s3.eu-central-003.backblazeb2.com
 s3.us-west-000.backblazeb2.com
 s3.us-west-001.backblazeb2.com
