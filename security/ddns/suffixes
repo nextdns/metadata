@@ -323,6 +323,7 @@ duia.ro
 duia.us
 
 # https://account.dyn.com
+# https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names
 at-band-camp.net
 ath.cx
 barrel-of-knowledge.info
@@ -628,6 +629,7 @@ nodns.ca
 9966.org
 eatuo.com
 f3322.net
+f3322.org
 webok.net
 
 # https://www.nsupdate.info
@@ -716,6 +718,20 @@ fdns.uk
 4nmn.com
 didns.ru
 dynnamn.ru
+
+# http://www.codns.com
+codns.com
+
+# http://legitdns.com
+12bittirade.com
+ipoac.net
+ipoac.org
+pibase.net
+pihpc.com
+pihpc.net
+pihq.net
+pishell.com
+pishell.net
 
 # https://freedns.afraid.org
 # see also https://freedns.afraid.org/domain/registry
@@ -823,3 +839,6 @@ h0stname.net
 
 # others
 dvrlists.com
+myq-see.com
+thddns.net
+ze.am
