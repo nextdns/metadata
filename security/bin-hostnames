@@ -1,0 +1,26 @@
+# "bin" hostnames are hostnames hosting user uploaded content but with some sort of subdomain-namespacing per user as well.
+
+cloudflare-ipfs.com
+dl.dropbox.com
+dl.dropboxusercontent.com
+files.1drv.com
+infura-ipfs.io
+ipfs.infura.io
+ipfs.nftstorage.link
+storage.googleapis.com
+
+# digitaloceanspaces.com
+ams3.digitaloceanspaces.com
+fra1.digitaloceanspaces.com
+nyc3.digitaloceanspaces.com
+sfo2.digitaloceanspaces.com
+sfo3.digitaloceanspaces.com
+sgp1.digitaloceanspaces.com
+
+# backblazeb2.com
+s3.eu-central-003.backblazeb2.com
+s3.us-west-000.backblazeb2.com
+s3.us-west-001.backblazeb2.com
+s3.us-west-002.backblazeb2.com
+s3.us-west-004.backblazeb2.com
+
