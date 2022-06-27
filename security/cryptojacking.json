@@ -7,6 +7,10 @@
     {
       "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
       "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/cryptominers.txt",
+      "format": "adblock"
     }
   ],
   "sanitizers": [
