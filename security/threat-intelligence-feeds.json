@@ -219,10 +219,7 @@
     {
       "url": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt",
       "format": "domains"
-    },
-
-
-
+    }
   ],
   "ignoreSourceError": true,
   "sanitizers": [
