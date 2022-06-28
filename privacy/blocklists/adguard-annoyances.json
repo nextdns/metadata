@@ -1,0 +1,9 @@
+{
+  "name": "AdGuard Annoyances filter",
+  "website": "https://kb.adguard.com/general/adguard-ad-filters#annoyances-filter",
+  "description": "blocks irritating elements on webpages, including cookie notices, third-party widgets and in-page popups (except for social media elements).",
+  "source": {
+    "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt",
+    "format": "abp"
+  }
+}
