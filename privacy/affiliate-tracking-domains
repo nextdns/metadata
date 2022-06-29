@@ -249,6 +249,7 @@ adservice.google.xn--node
 affiliatefuture.com
 alb.reddit.com
 amazon-adsystem.com
+amazon-adsystem.amazon.com # CNAME aax.amazon-adsystem.com
 analytics.twitter.com
 anrdoezrs.net
 apiservices.krxd.net
