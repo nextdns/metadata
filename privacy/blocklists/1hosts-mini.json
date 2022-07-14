@@ -1,9 +1,9 @@
 {
   "name": "1Hosts (mini)",
-  "website": "https://badmojr.github.io/1Hosts",
-  "description": "Protect your 'data' & eyeballs from being auctioned to the highest bidder.",
+  "website": "https://o0.pages.dev",
+  "description": "Safeguard your device(s) against pesky ads, trackers, and malware.",
   "source": {
-    "url": "https://badmojr.github.io/1Hosts/mini/domains.txt",
+    "url": "https://o0.pages.dev/mini/domains.wildcards",
     "format": "domains"
   }
 }

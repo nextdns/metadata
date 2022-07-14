@@ -1,9 +1,9 @@
 {
-  "name": "1Hosts (Lite)",
+  "name": "1Hosts (Xtra)",
   "website": "https://o0.pages.dev",
   "description": "Safeguard your device(s) against pesky ads, trackers, and malware.",
   "source": {
-    "url": "https://o0.pages.dev/Lite/domains.wildcards",
+    "url": "https://o0.pages.dev/Xtra/domains.wildcards",
     "format": "domains"
   }
 }
