@@ -1,19 +1,15 @@
 {
   "sources": [
     {
-      "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt",
+      "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Dead/hosts",
+      "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
       "format": "hosts"
     },
     {
-      "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt",
+      "url": "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt",
       "format": "domains"
     },
     {
@@ -25,11 +21,7 @@
       "format": "domains"
     },
     {
-      "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://isc.sans.edu/feeds/suspiciousdomains_High.txt",
+      "url": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt",
       "format": "domains"
     },
     {
@@ -53,14 +45,6 @@
       "format": "domains"
     },
     {
-      "url": "https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://bitbucket.org/ethanr/dns-blacklists/raw/master/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains",
       "format": "domains"
     },
@@ -69,7 +53,7 @@
       "format": "domains"
     },
     {
-      "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains",
+      "url": "https://raw.githubusercontent.com/cbuijs/shallalist/master/spyware/domains.original",
       "format": "domains"
     },
     {
@@ -85,7 +69,7 @@
       "format": "domains"
     },
     {
-      "url": "https://nextdns:{{BAMBENEK_PASSWORD}}@faf.bambenekconsulting.com/feeds/dga/c2-masterlist-high.txt",
+      "url": "https://faf.bambenekconsulting.com/feeds/dga-feed-high.txt",
       "format": "domains"
     },
     {
@@ -125,35 +109,7 @@
       "format": "domains"
     },
     {
-      "url": "https://rescure.me/malware/maze.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/malware/ekans.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/malware/wastedlocker.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://blocklist.cyberthreatcoalition.org/vetted/domain.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malicious_domains.txt",
-      "format": "domains"
-    },
-    {
       "url": "https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://rescure.me/covid.txt",
-      "format": "domains"
-    },
-    {
-      "url": "https://managedsentinel.com/downloads/covid19_domains.txt",
       "format": "domains"
     },
     {
@@ -178,6 +134,10 @@
     },
     {
       "url": "https://data.phishtank.com/data/{{PHISHTANK_APP_KEY}}/online-valid.csv",
+      "headers": {
+        "user-agent": "phishtank/nextdns"
+      },
+      "headPrecheck": true,
       "format": "phishtank"
     },
     {
@@ -189,6 +149,18 @@
       "format": "domains"
     },
     {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/CryptBot/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/IcedID/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA505/domains.txt",
+      "format": "domains"
+    },
+    {
       "url": "https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt",
       "format": "domains"
     },
@@ -197,184 +169,51 @@
       "format": "domains"
     },
     {
+      "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt",
+      "format": "domains"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt",
+      "format": "domains"
+    },
+    {
       "url": "https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt",
       "format": "hosts"
+    },
+    {
+      "url": "https://threatfox.abuse.ch/downloads/hostfile",
+      "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+      "format": "hosts"
+    },
+    {
+      "url": "https://securereload.tech/Phishing/Lists/Latest",
+      "format": "domains"
+    },
+    {
+      "url": "https://phishunt.io/feed.txt",
+      "format": "urls"
+    },
+    {
+      "url": "https://phishstats.info/phish_score.csv",
+      "format": "phishstats:1+"
     }
   ],
   "ignoreSourceError": true,
+  "sanitizers": [
+    "iana-tlds",
+    "public-suffixes",
+    "public-suffixes-extras",
+    "url-shorteners",
+    "bin-hostnames",
+    "bin-domains",
+    "ddns",
+    "cisco"
+  ],
   "exclusions": [
-    "*.0rz.tw",
-    "*.1drv.ms",
-    "*.4shared.com",
-    "*.archive.org",
-    "*.arpa",
-    "*.backblazeb2.com",
-    "*.bit.do",
-    "*.bit.ly",
-    "*.bitly.com",
-    "*.cl.ly",
-    "*.cloud.ovh.net",
-    "*.cutt.ly",
-    "*.discordapp.com",
-    "*.docs.google.com",
-    "*.docs.zoho.com",
-    "*.downloads.intercomcdn.com",
-    "*.drive.google.com",
-    "*.dropbox.com",
-    "*.dropboxusercontent.com",
-    "*.evernote.com",
-    "*.file-upload.com",
-    "*.filefactory.com",
-    "*.files.1drv.com",
-    "*.files.cloud.orange.fr",
-    "*.forms.gle",
-    "*.ghostbin.co",
-    "*.github.com",
-    "*.githubusercontent.com",
-    "*.gitlab.com",
-    "*.googleusercontent.com",
-    "*.imagebam.com",
-    "*.imagehosting.biz",
-    "*.imgbox.com",
-    "*.imgur.com",
-    "*.is.gd",
-    "*.j.mp",
-    "*.jsdelivr.net",
-    "*.linktr.ee",
-    "*.lnky.in",
-    "*.mail.naver.com",
-    "*.maven.org",
-    "*.mediafire.com",
-    "*.mega.nz",
-    "*.on24.com",
-    "*.onedrive.live.com",
-    "*.ow.ly",
-    "*.paste.ee",
-    "*.pastebin.com",
-    "*.pasteboard.co",
-    "*.pastelink.net",
-    "*.postimg.cc",
-    "*.pxlme.me",
-    "*.rb.gy",
-    "*.rebrand.ly",
-    "*.reurl.cc",
-    "*.s.id",
-    "*.send.firefox.com",
-    "*.sendspace.com",
-    "*.snip.ly",
-    "*.thumbsnap.com",
-    "*.tiny.cc",
-    "*.tinypic.com",
-    "*.tinyurl.com",
-    "*.wetransfer.com",
-    "*.wixstatic.com",
-    "*.xpixl.me",
-    "*.zdusercontent.com",
-    "*.zippyshare.com",
-    "ams3.digitaloceanspaces.com",
-    "bitbucket.org",
-    "ddns.net",
-    "files.slack.com",
-    "firebasestorage.googleapis.com",
-    "hopto.org",
-    "mailchi.mp",
-    "mandrillapp.com",
-    "nyc3.digitaloceanspaces.com",
-    "s3-af-south-1.amazonaws.com",
-    "s3-ap-east-1.amazonaws.com",
-    "s3-ap-northeast-1.amazonaws.com",
-    "s3-ap-northeast-2.amazonaws.com",
-    "s3-ap-northeast-3.amazonaws.com",
-    "s3-ap-south-1.amazonaws.com",
-    "s3-ap-southeast-1.amazonaws.com",
-    "s3-ap-southeast-2.amazonaws.com",
-    "s3-ca-central-1.amazonaws.com",
-    "s3-cn-north-1.amazonaws.com",
-    "s3-cn-northwest-1.amazonaws.com",
-    "s3-eu-central-1.amazonaws.com",
-    "s3-eu-north-1.amazonaws.com",
-    "s3-eu-south-1.amazonaws.com",
-    "s3-eu-west-1.amazonaws.com",
-    "s3-eu-west-2.amazonaws.com",
-    "s3-eu-west-3.amazonaws.com",
-    "s3-sa-east-1.amazonaws.com",
-    "s3-us-east-1.amazonaws.com",
-    "s3-us-east-2.amazonaws.com",
-    "s3-us-west-1.amazonaws.com",
-    "s3-us-west-2.amazonaws.com",
-    "s3-website-ap-northeast-1.amazonaws.com",
-    "s3-website-ap-southeast-1.amazonaws.com",
-    "s3-website-ap-southeast-2.amazonaws.com",
-    "s3-website-eu-west-1.amazonaws.com",
-    "s3-website-sa-east-1.amazonaws.com",
-    "s3-website-us-east-1.amazonaws.com",
-    "s3-website-us-west-1.amazonaws.com",
-    "s3-website-us-west-2.amazonaws.com",
-    "s3-website.af-south-1.amazonaws.com",
-    "s3-website.ap-east-1.amazonaws.com",
-    "s3-website.ap-northeast-2.amazonaws.com",
-    "s3-website.ap-northeast-3.amazonaws.com",
-    "s3-website.ap-south-1.amazonaws.com",
-    "s3-website.ca-central-1.amazonaws.com",
-    "s3-website.cn-northwest-1.amazonaws.com.cn",
-    "s3-website.eu-central-1.amazonaws.com",
-    "s3-website.eu-north-1.amazonaws.com",
-    "s3-website.eu-south-1.amazonaws.com",
-    "s3-website.eu-west-2.amazonaws.com",
-    "s3-website.eu-west-3.amazonaws.com",
-    "s3-website.us-east-2.amazonaws.com",
-    "s3.af-south-1.amazonaws.com",
-    "s3.amazonaws.com",
-    "s3.ap-east-1.amazonaws.com",
-    "s3.ap-northeast-1.amazonaws.com",
-    "s3.ap-northeast-2.amazonaws.com",
-    "s3.ap-northeast-3.amazonaws.com",
-    "s3.ap-south-1.amazonaws.com",
-    "s3.ap-southeast-1.amazonaws.com",
-    "s3.ap-southeast-2.amazonaws.com",
-    "s3.ca-central-1.amazonaws.com",
-    "s3.cn-north-1.amazonaws.com",
-    "s3.cn-northwest-1.amazonaws.com",
-    "s3.dualstack.af-south-1.amazonaws.com",
-    "s3.dualstack.ap-east-1.amazonaws.com",
-    "s3.dualstack.ap-northeast-1.amazonaws.com",
-    "s3.dualstack.ap-northeast-2.amazonaws.com",
-    "s3.dualstack.ap-northeast-3.amazonaws.com",
-    "s3.dualstack.ap-south-1.amazonaws.com",
-    "s3.dualstack.ap-southeast-1.amazonaws.com",
-    "s3.dualstack.ap-southeast-2.amazonaws.com",
-    "s3.dualstack.ca-central-1.amazonaws.com",
-    "s3.dualstack.cn-north-1.amazonaws.com",
-    "s3.dualstack.cn-northwest-1.amazonaws.com",
-    "s3.dualstack.eu-central-1.amazonaws.com",
-    "s3.dualstack.eu-north-1.amazonaws.com",
-    "s3.dualstack.eu-south-1.amazonaws.com",
-    "s3.dualstack.eu-west-1.amazonaws.com",
-    "s3.dualstack.eu-west-2.amazonaws.com",
-    "s3.dualstack.eu-west-3.amazonaws.com",
-    "s3.dualstack.sa-east-1.amazonaws.com",
-    "s3.dualstack.us-east-1.amazonaws.com",
-    "s3.dualstack.us-east-2.amazonaws.com",
-    "s3.dualstack.us-west-1.amazonaws.com",
-    "s3.dualstack.us-west-2.amazonaws.com",
-    "s3.eu-central-1.amazonaws.com",
-    "s3.eu-north-1.amazonaws.com",
-    "s3.eu-south-1.amazonaws.com",
-    "s3.eu-west-1.amazonaws.com",
-    "s3.eu-west-2.amazonaws.com",
-    "s3.eu-west-3.amazonaws.com",
-    "s3.sa-east-1.amazonaws.com",
-    "s3.us-east-1.amazonaws.com",
-    "s3.us-east-2.amazonaws.com",
-    "s3.us-west-1.amazonaws.com",
-    "s3.us-west-2.amazonaws.com",
-    "sfo2.digitaloceanspaces.com",
-    "sgp1.digitaloceanspaces.com",
-    "simp.ly",
-    "sites.google.com",
-    "storage.googleapis.com",
-    "sytes.net",
-    "weebly.com",
-    "zapto.org"
+    "*.mcafee.com",
+    "*.mandrillapp.com"
   ]
 }

@@ -5,6 +5,7 @@
 action.metaffiliation.com
 ad.atdmt.com
 ad.doubleclick.net
+adclick.g.doubleclick.net
 adfoc.us
 adj.st
 adservice.google.ac
@@ -420,9 +421,11 @@ tracker.marinsm.com
 tracking.publicidees.com
 trk.klclick.com
 trk.klclick1.com
+ue.flipboard.com # flipboard newsletter unsubscribe link
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 view.virt.s7.exacttarget.com # CNAME of view.email.nzz.ch
+wl.spotify.com
 www.anrdoezrs.net
 www.awin1.com
 www.emjcd.com
