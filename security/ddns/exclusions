@@ -21,6 +21,9 @@ ipcheck.dynu.com
 ipcheckv6.dynu.com
 ipcheckudp.dynu.com
 
+# https://account.dyn.com
+checkip.dyndns.org
+
 # https://freedns.afraid.org
 freedns.afraid.org
 sync.afraid.org
