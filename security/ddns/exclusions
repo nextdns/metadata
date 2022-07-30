@@ -23,6 +23,7 @@ ipcheckudp.dynu.com
 
 # https://account.dyn.com
 checkip.dyndns.org
+checkipv6.dyndns.org
 members.dyndns.org
 
 # https://freedns.afraid.org
@@ -32,3 +33,4 @@ v6.sync.afraid.org
 
 # https://www.nsupdate.info
 www.nsupdate.info
+ipv4.nsupdate.info
