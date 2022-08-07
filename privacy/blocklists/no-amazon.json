@@ -1,0 +1,9 @@
+{
+  "name": "No Amazon",
+  "website": "https://github.com/nickspaargaren/no-amazon",
+  "description": "Completely block Amazon and its services.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/amazon.txt",
+    "format": "domains"
+  }
+}
