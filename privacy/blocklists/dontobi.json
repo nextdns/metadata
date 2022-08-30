@@ -1,0 +1,9 @@
+{
+    "name": "dontobi Blacklist",
+    "website": "https://github.com/dontobi/AdGuardHome-Lists",
+    "description": "Extending and consolidating blacklist from several well-curated sources like AdGuard, oisd, hagezi and StevenBlack.",
+    "source": {
+      "url": "https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/blacklist.txt",
+      "format": "adp"
+    }
+  }
