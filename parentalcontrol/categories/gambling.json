@@ -7,6 +7,10 @@
     {
       "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
       "format": "hosts"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts",
+      "format": "hosts"
     }
   ],
   "sanitizers": [
