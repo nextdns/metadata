@@ -2,9 +2,12 @@
 
 5014.xg4ken.com
 7eer.net
+a1.adform.net # Facebook/Instagram ads referral
 action.metaffiliation.com
 ad.atdmt.com
 ad.doubleclick.net
+ad3.adfarm1.adition.com # Facebook/Instagram ads referral
+ad4.adfarm1.adition.com # Facebook/Instagram ads referral
 adclick.g.doubleclick.net
 adfoc.us
 adj.st
@@ -305,6 +308,7 @@ customtraffic.impactradius.com # CNAME of goto.target.com
 cz-go.kelkoogroup.net
 dart.l.doubleclick.net # CNAME of ad.doubleclick.net
 dashboard-01.braze.com
+de-go.kelkoogroup.net # DuckDuckGo german ads referral
 dk-go.kelkoogroup.net
 dpbolvw.net
 ea.galerieslafayette.com
@@ -351,6 +355,7 @@ links.mkt71.net # Click link CNAME for acoustic marketing platform
 links.mkt81.net # Click link CNAME for acoustic marketing platform
 links.mkt91.net # Click link CNAME for acoustic marketing platform
 list-manage.com
+media01.eu # DuckDuckGo ads referral (LIDL, Jack Wolfskin, ...)
 mktoweb.com # Adobe MarkeTo landing page CNAME target
 mmtro.com
 monitor.clickcease.com
@@ -365,6 +370,7 @@ online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
 pagead.l.doubleclick.net # CNAME of www.googleadservices.com
+pdt.tradedoubler.com # DuckDuckGo ads referral
 pepperjamnetwork.com
 pi.pardot.com # CNAME of go.pardot.com
 pixel.everesttech.net
@@ -386,6 +392,7 @@ rebrandlydomain.com # CNAME of go.blokada.org
 redir.tradedoubler.com
 redirect.at
 redirect.viglink.com
+redirects.tradedoubler.com # DuckDuckGo ads referral
 ro-go.kelkoogroup.net
 ru-go.kelkoogroup.net
 s.click.aliexpress.com
@@ -401,6 +408,7 @@ solutions.tradedoubler.com
 suite15.emarsys.net # CNAME of link.wizzair.com
 syndication.exosrv.com
 syndication.realsrv.com
+t.adcell.com # DuckDuckGo ads referral
 t.co
 t.dripemail2.com
 t.myvisualiq.net
@@ -413,8 +421,11 @@ target.georiot.com
 the-home-depot-ca.pxf.io
 thirdparty.bnc.lt # CNAME of app.sephora.com
 tkqlhce.com
+track-eu.adformnet.akadns.net # CNAME of track.seadform.net
+track.adform.net # CNAME track-eu.adformnet.akadns.net
 track.customer.io # CNAME of email.namebase.io
 track.effiliation.com
+track.productsup.io
 track.seadform.net
 track.webgains.com
 trackcmp.net
@@ -422,6 +433,8 @@ tracker.marinsm.com
 tracking.publicidees.com
 trk.klclick.com
 trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
 ue.flipboard.com # flipboard newsletter unsubscribe link
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
