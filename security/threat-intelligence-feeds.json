@@ -199,6 +199,10 @@
     {
       "url": "https://phishstats.info/phish_score.csv",
       "format": "phishstats:1+"
+    },
+    {
+      "url": "https://dl.red.flag.domains/red.flag.domains_fr.txt",
+      "format": "domains"
     }
   ],
   "ignoreSourceError": true,
