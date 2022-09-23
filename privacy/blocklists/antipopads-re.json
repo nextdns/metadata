@@ -3,7 +3,7 @@
   "website": "https://github.com/AdroitAdorKhan/antipopads-re",
   "description": "Block pesky malicious pop ads.",
   "source": {
-    "url": "https://github.com/AdroitAdorKhan/antipopads-re/raw/master/formats/hosts.txt",
+    "url": "https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/hosts.txt",
     "format": "hosts"
   }
 }
