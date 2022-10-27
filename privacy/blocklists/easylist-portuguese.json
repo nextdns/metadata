@@ -1,0 +1,9 @@
+{
+  "name": "EasyList Portuguese",
+  "website": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
+  "description": "EasyList Portuguese is an affiliated filter list written by Felippe Santos that specifically removes adverts on português language websites.",
+  "source": {
+    "url": "https://easylist-downloads.adblockplus.org/easylistportuguese.txt",
+    "format": "abp"
+  }
+}
