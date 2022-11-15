@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Multi LIGHT",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt",
+    "format": "domains"
+  }
+}
