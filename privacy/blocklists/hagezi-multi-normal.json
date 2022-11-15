@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi - Multi NORMAL",
+  "website": "https://github.com/hagezi/dns-blocklists",
+  "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt",
+    "format": "domains"
+  }
+}
