@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/games/domains",
+      "format": "domains"
+    }
+  ],
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-hostnames",
+    "bin-domains",
+    "ddns"
+  ]
+}
