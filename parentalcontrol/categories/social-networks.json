@@ -20,6 +20,8 @@
     "*.graph.facebook.com"
   ],
   "inclusions": [
+    "bere.al",
+    "bereal.com",
     "m.facebook.com",
     "www.facebook.com"
   ]
