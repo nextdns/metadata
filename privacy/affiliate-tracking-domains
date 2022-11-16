@@ -273,15 +273,32 @@ cj.com
 cj.dotomi.com
 cl.exct.net
 clck.yandex.ru
+click.chp.kohls.com # Kohls.com click-thru links
 click.cptrack.de
+click.e.krogermail.com # Kroger email marketing click through
+click.e.lowes.com # Lowe's email marketing click through
+click.e.safelite.com # SafeLite Autoglass email marketing click through
+click.e.sees.com # See's Candy email marketing click-thru
+click.e.usa.experian.com # Experian email marketing click-thru
+click.em.samsclub.com # SamsClub.com click-thru email marketing links
+click.email.jcpenney.com # JC Penney email marketing click-thru
 click.email.sonos.com
+click.emcom.bankofamerica.com # Bank of America email marketing click-thru
+click.fidelityinvestments.com # Fidelity Investments email marketing click-thru
+click.holidayinnclubemail.com # Holiday Inn email marketing click-thru
 click.icptrack.com
+click.landsend.com # Lands' End email marketing click through
 click.linksynergy.com
 click.mail.macmillan.com
 click.member.americanexpress.com
+click.members.nra.org # NRA member updates email click-thru
+click.mlsend.com # MailerLite.com email marketing SaaS - clickthru tracking
 click.myctm.canadiantire.ca
+click.o.delta.com # Delta Airlines email marketing click-thru
 click.pstmrk.it
 click.redditmail.com
+click.royalcaribbeanmarketing.com # Royal Caribbean email marketing click-thru
+click.s.kohls.com # Kohls.com click-thru links
 click.virt.s10.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s11.exacttarget.com # Click link CNAME for salesforce marketing cloud
 click.virt.s12.exacttarget.com # Click link CNAME for salesforce marketing cloud
@@ -298,6 +315,7 @@ commander1.com
 commission-junction.com
 cse3.chausport.com
 ct.impactradius.com # CNAME of goto.jet.com
+ct.klclick.com # Klaviyo email & sms marketing SaaS click-thru links (Klaviyo.com)
 ct.sendgrid.net
 cts.businesswire.com
 custom.bnc.lt # CNAME of link.swa.info
@@ -399,8 +417,8 @@ sites.hscoscdn20.net # Click link CNAME for hubspot marketing platform
 sites.hscoscdn30.net # Click link CNAME for hubspot marketing platform
 sites.hscoscdn40.net # Click link CNAME for hubspot marketing platform
 sk-go.kelkoogroup.net
-solutions.tradedoubler.com
 solution.weborama.fr
+solutions.tradedoubler.com
 suite15.emarsys.net # CNAME of link.wizzair.com
 syndication.exosrv.com
 syndication.realsrv.com
