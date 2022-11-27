@@ -8,5 +8,12 @@
       "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts",
       "format": "hosts"
     }
+  ],
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-hostnames",
+    "bin-domains",
+    "ddns"
   ]
 }

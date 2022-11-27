@@ -5,6 +5,13 @@
       "format": "domains"
     }
   ],
+  "sanitizers": [
+    "iana-tlds",
+    "url-shorteners",
+    "bin-hostnames",
+    "bin-domains",
+    "ddns"
+  ],
   "exclusions": [
     "*.telegram.org",
     "*.whatsapp.com",
@@ -12,7 +19,9 @@
     "*.edge-mqtt.facebook.com",
     "*.graph.facebook.com"
   ],
-  "additions": [
+  "inclusions": [
+    "bere.al",
+    "bereal.com",
     "m.facebook.com",
     "www.facebook.com"
   ]

@@ -1,4 +1,4 @@
-# Dynamic DNS shared domains
+# Dynamic DNS suffixes
 
 # https://www.duckdns.org
 duckdns.org
@@ -99,17 +99,14 @@ webhop.me
 workisboring.com
 zapto.org
 
-# https://freedns.afraid.org
-afraid.org
-
 # https://www.changeip.com/dns.php
 1dumb.com
+25u.com
 2waky.com
 3-a.net
 4dq.com
 4mydomain.com
 4pu.com
-25u.com
 acmetoy.com
 almostmy.com
 americanunfinished.com
@@ -136,13 +133,13 @@ ddns.ms
 ddns.name
 ddns.us
 dhcp.biz
+dns-dns.com
+dns-report.com
+dns-stuff.com
 dns04.com
 dns05.com
 dns1.us
 dns2.us
-dns-dns.com
-dns-report.com
-dns-stuff.com
 dnset.com
 dnsfailover.net
 dnsrd.com
@@ -289,23 +286,44 @@ v6.rocks
 
 # https://ydns.io
 ydns.eu
-ydns.io
+
+# https://www.dynu.com/DynamicDNS
+1cooldns.com
+4cloud.click
+accesscam.org
+bumbleshrimp.com
+camdvr.org
+casacam.net
+ddnsfree.com
+ddnsgeek.com
+ddnsguru.com
+dynu.com
+dynu.net
+dynuddns.com
+dynuddns.net
+freeddns.org
+giize.com
+gleeze.com
+kozow.com
+loseyourip.com
+myddns.rocks
+mysynology.net
+mywire.org
+ooguy.com
+theworkpc.com
+webredirect.org
 
 # https://dnsexit.com/services/free-dynamic-dns-service
 linkpc.net
 publicvm.com
-
-# https://www.dynu.com/DynamicDNS
-dynu.com
-dynu.net
-dynu.systems
 
 # https://www.duiadns.net
 duia.eu
 duia.ro
 duia.us
 
-# https://oci.dyn.com/dynamic-dns-hostname-search
+# https://account.dyn.com
+# https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names
 at-band-camp.net
 ath.cx
 barrel-of-knowledge.info
@@ -611,4 +629,219 @@ nodns.ca
 9966.org
 eatuo.com
 f3322.net
+f3322.org
 webok.net
+
+# https://www.nsupdate.info
+nsupdate.info
+nerdpol.ovh
+
+# https://free-ddns.com
+free-ddns.com
+
+# https://freemyip.com
+freemyip.com
+
+# https://now-dns.com
+001www.com
+16-b.it
+2mydns.net
+32-b.it
+64-b.it
+ddns.cam
+dnsdyn.net
+dnsget.org
+dnsking.ch
+dnslive.net
+dnsup.net
+dtdns.org
+dynip.org
+dynserv.org
+forumz.info
+freeddns.uk
+freeddns.us
+hicam.net
+myddns.biz
+myiphost.com
+mypi.co
+now-dns.net
+now-dns.org
+nowddns.com
+ntdll.top
+ownip.net
+soundcast.me
+tcp4.me
+tftpd.net
+vpndns.net
+wifizone.org
+x443.pw
+
+# https://dtdns.org (legacy)
+3d-game.com
+4irc.com
+b0ne.com
+bbsindex.com
+chatnook.com
+darktech.org
+deaftone.com
+dtdns.net
+effers.com
+etowns.net
+etowns.org
+flnet.org
+gotgeeks.com
+scieron.com
+slyip.com
+slyip.net
+suroot.com
+
+# https://www.twodns.de
+dd-dns.de
+diskstation.eu
+diskstation.org
+dray-dns.de
+draydns.de
+dyn-vpn.de
+dynvpn.de
+mein-vigor.de
+my-vigor.de
+my-wan.de
+syno-ds.de
+synology-diskstation.de
+synology-ds.de
+
+# https://ipq.co
+ipq.co
+fdns.uk
+
+# https://alviy.com
+4nmn.com
+didns.ru
+dynnamn.ru
+
+# http://www.codns.com
+codns.com
+
+# http://legitdns.com
+12bittirade.com
+ipoac.net
+ipoac.org
+pibase.net
+pihpc.com
+pihpc.net
+pihq.net
+pishell.com
+pishell.net
+
+# https://freedns.afraid.org
+# see also https://freedns.afraid.org/domain/registry
+afraid.org
+mooo.com
+chickenkiller.com
+us.to
+strangled.net
+ignorelist.com
+uk.to
+crabdance.com
+jumpingcrab.com
+twilightparadox.com
+my.to
+privatedns.org
+yao.cl
+ax.lt
+ftp.sh
+mine.bz
+minecraftnoob.com
+undo.it
+bot.nu
+info.gf
+qc.to
+ro.lt
+home.kg
+dynet.com
+kalbas.com.vn
+fr.to
+3dxtras.com
+minecraftr.us
+69.mu
+root.sx
+farted.net
+port0.org
+spacetechnology.net
+nav.co.id
+serverpit.com
+k.vu
+epicgamer.org
+1337.cx
+gw.lt
+mooo.info
+happyforever.com
+tru.io
+nx.tc
+evils.in
+soon.it
+h4ck.me
+verymad.net
+csproject.org
+404.mn
+play.ai
+zanity.net
+punked.us
+homelinuxserver.org
+120v.ac
+vr.lt
+d-n-s.name
+madhacker.biz
+uk.ms
+ohbah.com
+sly.io
+r-o-o-t.net
+24-7.ro
+cloudwatch.net
+iz.rs
+bad.mn
+fedea.com.ar
+hs.vc
+fairuse.org
+raspberryip.com
+kir22.ru
+abuser.eu
+h-o-s-t.name
+mcsoft.org
+psybnc.org
+img.com.ar
+iiiii.info
+hackquest.com
+byte4byte.com
+pii.at
+688.org
+hpc.tw
+hbmc.net
+photo-frame.com
+nard.ca
+host2go.net
+homeplex.org
+netlord.de
+awiki.org
+surfnet.ca
+mindhackers.org
+zza.pl
+0x.no
+silksky.com
+good.one.pl
+dob.jp
+hiddencorner.org
+malam.or.id
+ivi.pl
+wiki.gd
+airlinemeals.net
+h0stname.net
+
+# https://desec.io/
+dedyn.io
+
+# others
+dvrlists.com
+myq-see.com
+thddns.net
+ze.am
