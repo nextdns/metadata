@@ -1,9 +1,0 @@
-{
-  "name": "Energized Xtreme Extension",
-  "website": "https://github.com/EnergizedProtection/block",
-  "description": "Strictly blocks advertisements, malwares, spams, statistics & trackers on both web browsing and applications. An Extreme Solution for Ultimate Protection.",
-  "source": {
-    "url": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
-    "format": "domains"
-  }
-}
