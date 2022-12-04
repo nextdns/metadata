@@ -20,7 +20,7 @@ Create an issue (or even better, a PR) on this repository.
 ## Add (or remove) a domain blocked by a service
 Create an issue (or PR) on this repository. If a domain needs to be added, please detail the steps you made to get this domain queried.
 
-## Report a NextDNS bug not directly related the data contained in this reposity
+## Report a NextDNS bug not directly related to the data contained in this repository
 Talk to us via the chat available on https://nextdns.io so we can figure it out and fix it.
 
 ## Request a feature or suggest UX/UI improvements
