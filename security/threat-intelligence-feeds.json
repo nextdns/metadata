@@ -201,6 +201,10 @@
       "format": "phishstats:1+"
     },
     {
+      "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts",
+      "format": "hosts"
+    },
+    {
       "url": "https://dl.red.flag.domains/red.flag.domains_fr.txt",
       "format": "domains"
     }
