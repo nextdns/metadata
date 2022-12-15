@@ -1,0 +1,9 @@
+{
+  "name": "Adblock Iran",
+  "website": "https://github.com/farrokhi/adblock-iran",
+  "description": "A filter that enables to block most of Persian web ads",
+  "source": {
+    "url": "https://raw.githubusercontent.com/farrokhi/adblock-iran/master/pihole.txt",
+    "format": "domains"
+  }
+}
