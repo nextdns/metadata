@@ -3,7 +3,7 @@
   "website": "https://oisd.nl",
   "description": "Internet's #1 domain blocklist. Blocks Ads, Mobile Ads, Phishing, Malvertising, Malware, Tracking, Telemetry, CryptoJacking, Analytics, Spyware, Ransomware, Exploit, Fraud, Abuse, Scam, Spam, Hijack, Misleading Marketing.",
   "source": {
-    "url": "https://dblw.oisd.nl",
+    "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/dblw_full.txt",
     "format": "domains"
   }
 }
