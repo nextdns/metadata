@@ -1,9 +1,0 @@
-{
-  "name": "Anudeep's Blacklist for ads and trackers",
-  "website": "https://github.com/anudeepND/blacklist",
-  "description": "Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-    "format": "hosts"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name": "UncheckyAds",
-  "website": "https://unchecky.com",
-  "description": "Windows installers ads sources.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-    "format": "hosts"
-  }
-}

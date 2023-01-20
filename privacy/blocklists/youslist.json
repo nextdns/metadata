@@ -1,9 +1,0 @@
-{
-  "name": "YousList",
-  "website": "https://github.com/yous/YousList",
-  "description": "Block filter for advertisements, mainly on Korean sites.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/yous/YousList/master/youslist.txt",
-    "format": "abp"
-  }
-}

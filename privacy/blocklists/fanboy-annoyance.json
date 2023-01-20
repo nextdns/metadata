@@ -1,9 +1,0 @@
-{
-  "name": "Fanboy's Annoyance List",
-  "website": "https://easylist.to",
-  "description": "Fanboy's Annoyance List blocks Social Media content, in-page pop-ups and other annoyances; thereby substantially decreasing web page loading times and uncluttering them.",
-  "source": {
-    "url": "https://raw.githubusercontent.com/easylist/easylist/gh-pages/fanboy-annoyance.txt",
-    "format": "abp"
-  }
-}

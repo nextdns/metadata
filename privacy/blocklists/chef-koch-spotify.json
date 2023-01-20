@@ -1,9 +1,0 @@
-{
-  "name": "CHEF-KOCH's HOSTS Spotify Ad-Filter List",
-  "website": "https://gitlab.com/CHEF-KOCH/cks-filterlist",
-  "description": "Blocks all Spotify Ads, easy peasy lemon squeezy!",
-  "source": {
-    "url": "https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/Spotify/Spotify-HOSTS.txt",
-    "format": "hosts"
-  }
-}

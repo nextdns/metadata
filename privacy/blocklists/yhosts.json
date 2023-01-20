@@ -1,9 +1,0 @@
-{
-  "name": "yhosts",
-  "website": "https://github.com/VeleSila/yhosts",
-  "description": "AD hosts爱好群，群号:201973909；",
-  "source": {
-    "url": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
-    "format": "hosts"
-  }
-}

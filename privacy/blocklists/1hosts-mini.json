@@ -1,9 +1,0 @@
-{
-  "name": "1Hosts (mini)",
-  "website": "https://o0.pages.dev",
-  "description": "Safeguard your device(s) against pesky ads, trackers, and malware.",
-  "source": {
-    "url": "https://o0.pages.dev/mini/domains.wildcards",
-    "format": "domains"
-  }
-}

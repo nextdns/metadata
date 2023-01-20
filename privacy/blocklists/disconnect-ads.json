@@ -1,9 +1,0 @@
-{
-  "name": "Disconnect (Ads)",
-  "website": "https://disconnect.me",
-  "description": "Free yourself from unwanted tracking. Enjoy a faster, safer internet.",
-  "source": {
-    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "format": "domains"
-  }
-}

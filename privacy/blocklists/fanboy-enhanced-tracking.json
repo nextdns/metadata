@@ -1,9 +1,0 @@
-{
-  "name": "Fanboy's Enhanced Tracking List",
-  "website": "https://fanboy.co.nz",
-  "description": "Fanboy's Enhanced Tracking List blocks common tracking scripts such as Omniture, Webtrends, Foresee, Coremetrics, Google-Analytics, Touchclarity, ChannelIntelligence.",
-  "source": {
-    "url": "https://fanboy.co.nz/enhancedstats.txt",
-    "format": "abp"
-  }
-}
